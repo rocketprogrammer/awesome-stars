@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate) - Guaranteed compile-time string literal obfuscation header-only library for C++14
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
@@ -168,6 +169,7 @@
 
 ## HTML 
 
+- [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
 - [willf668/bezos-presence](https://github.com/willf668/bezos-presence) - Discord Integration for Amazon Music
 - [chronoxor/CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -412,6 +414,7 @@
 
 ## Swift 
 
+- [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 
