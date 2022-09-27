@@ -286,6 +286,7 @@
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
+- [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 
@@ -425,6 +426,9 @@
 
 ## others 
 
+- [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
+- [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
+- [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate) - Guaranteed compile-time string literal obfuscation header-only library for C++14
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
 - [an0ndev/requests-ja3](https://github.com/an0ndev/requests-ja3) - Modifying Python's requests module to spoof a ja3 fingerprint
