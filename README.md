@@ -174,7 +174,7 @@
 - [chronoxor/CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
-- [ethankrein/On-Wiz](https://github.com/ethankrein/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
+- [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
 - [OpenFusionProject/Client](https://github.com/OpenFusionProject/Client) - Electron app to easily connect to FusionFall servers
 - [OpenFusionProject/OpenFusionMap](https://github.com/OpenFusionProject/OpenFusionMap) - Web-based player visualizer for OpenFusion.
 - [ToontownRewritten/ToontownReleaseArchive](https://github.com/ToontownRewritten/ToontownReleaseArchive) - 
@@ -420,6 +420,7 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) - A tool to convert .obj files into Minecraft Schematics
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
