@@ -140,7 +140,6 @@
 
 ## CSS 
 
-- [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - GPU Drops' captcha solving extension without affiliate tracking code injection
 - [Courvix-Network/Courvix-Dark](https://github.com/Courvix-Network/Courvix-Dark) - Dark theme for Roundcube as used by Courvix Mail
 
 ## Cython 
@@ -204,6 +203,7 @@
 ## JavaScript 
 
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
+- [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - GPU Drops' captcha solving extension without affiliate tracking code injection
 - [forscht/ddrive](https://github.com/forscht/ddrive) - A lightweight cloud storage system using discord as storage device written in nodejs
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
