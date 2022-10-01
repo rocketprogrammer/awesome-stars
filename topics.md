@@ -37,7 +37,6 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
-- [html](#html)
 - [http](#http)
 - [ios](#ios)
 - [java](#java)
@@ -283,12 +282,15 @@
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 
@@ -299,10 +301,6 @@
 - [misson20000/twili](https://github.com/misson20000/twili) - Homebrew debug monitor for the Nintendo Switch.
 - [Team-Neptune/DeepSea](https://github.com/Team-Neptune/DeepSea) - The new All-in-One CFW package for the Nintendo Switch.
 - [SunResearchInstitute/SwitchPresence-Rewritten](https://github.com/SunResearchInstitute/SwitchPresence-Rewritten) - Nintendo Switch sysmodule server for PresenceClient!
-
-## html 
-
-- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 
 ## http 
 
@@ -358,7 +356,6 @@
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
 - [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 
 ## macos 
@@ -367,7 +364,6 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
 - [MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel) - An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices
-- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 
 ## minecraft 
 
@@ -409,6 +405,7 @@
 
 ## nodejs 
 
+- [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [forscht/ddrive](https://github.com/forscht/ddrive) - A lightweight cloud storage system using discord as storage device written in nodejs
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -539,7 +536,6 @@
 - [thwackertoon/team-ct-toontown-house](https://github.com/thwackertoon/team-ct-toontown-house) - Team CT build of Toontown House dated 03-07-2014, known as the first community-source project.
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [gabefraser/ttoffline-launcher-go](https://github.com/gabefraser/ttoffline-launcher-go) - Toontown Offline Launcher rewritten in Go
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [mongodb/motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [toonjoey/toontown-project-bikehorn](https://github.com/toonjoey/toontown-project-bikehorn) - An extremely faithful HD textures pack for Toontown Rewritten.
 - [loonaticx/Housekeeper](https://github.com/loonaticx/Housekeeper) - "Housekeeps" Toontown resources
@@ -759,7 +755,6 @@
 - [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
 - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and something else.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [paleozogt/MSVCDocker](https://github.com/paleozogt/MSVCDocker) - MSVC via Wine in Docker
 
 
