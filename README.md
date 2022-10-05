@@ -400,7 +400,7 @@
 
 ## Shell 
 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7 semi-tethered checkm8 "jailbreak" | tweaks: iOS 15.0-15.3.1 tethered
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
 - [npjohnson/sabrina-unlock](https://github.com/npjohnson/sabrina-unlock) - 
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
