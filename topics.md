@@ -272,6 +272,7 @@
 - [jellyfin/jellyfin-kodi](https://github.com/jellyfin/jellyfin-kodi) - Jellyfin Plugin for Kodi
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+- [cp6/my-idlers](https://github.com/cp6/my-idlers) - Web app for displaying, organizing and storing information about servers (VPS), shared hosting and domains.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -310,7 +311,7 @@
 
 ## ios 
 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7 semi-tethered checkm8 "jailbreak" | tweaks: iOS 15.0-15.3.1 tethered
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -463,7 +464,6 @@
 - [npjohnson/sabrina-unlock](https://github.com/npjohnson/sabrina-unlock) - 
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [willf668/bezos-presence](https://github.com/willf668/bezos-presence) - Discord Integration for Amazon Music
-- [cp6/my-idlers](https://github.com/cp6/my-idlers) - Web app for displaying, organizing and storing information about servers (VPS), shared hosting and domains.
 - [eerimoq/asyncudp](https://github.com/eerimoq/asyncudp) - Asyncio high level UDP sockets.
 - [HakanL/PcapngUtils](https://github.com/HakanL/PcapngUtils) - C# full managed implementation Pcap/PcapNG file format
 - [Joshsora/LibSOE](https://github.com/Joshsora/LibSOE) - A reverse engineering of Sony Online Entertainment's (or as it's now known as, Daybreak Games) ForgeLight networking library written in C#. (Specifically for traffic from Free Realms)
