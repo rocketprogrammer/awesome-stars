@@ -428,6 +428,7 @@
 
 ## others 
 
+- [silexlabs/amfphp-2.0](https://github.com/silexlabs/amfphp-2.0) - Simple Remoting for Web Applications
 - [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
 - [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate) - Guaranteed compile-time string literal obfuscation header-only library for C++14
