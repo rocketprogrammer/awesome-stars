@@ -49,6 +49,7 @@
 
 ## C 
 
+- [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [misterupkeep/libsoerudp](https://github.com/misterupkeep/libsoerudp) - An implementation of Sony Online Entertainment's Reliable UDP (layer 7) protocol
