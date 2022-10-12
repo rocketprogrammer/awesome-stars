@@ -121,6 +121,7 @@
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 - [OpenFusionProject/OpenFusion](https://github.com/OpenFusionProject/OpenFusion) - Open source server for the FusionFall client
+- [chronoxor/CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 - [pgarba/King](https://github.com/pgarba/King) - port of checkm8 to C
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -173,7 +174,6 @@
 
 - [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
 - [willf668/bezos-presence](https://github.com/willf668/bezos-presence) - Discord Integration for Amazon Music
-- [chronoxor/CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
