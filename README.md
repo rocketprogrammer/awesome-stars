@@ -173,7 +173,6 @@
 ## HTML 
 
 - [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
-- [willf668/bezos-presence](https://github.com/willf668/bezos-presence) - Discord Integration for Amazon Music
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
@@ -189,6 +188,7 @@
 
 ## Java 
 
+- [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
@@ -323,6 +323,7 @@
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [exploit3dguy/ipwndfu](https://github.com/exploit3dguy/ipwndfu) - My fork of ipwndfu
 - [jellyfin/jellyfin-kodi](https://github.com/jellyfin/jellyfin-kodi) - Jellyfin Plugin for Kodi
+- [willf668/bezos-presence](https://github.com/willf668/bezos-presence) - Discord Integration for Amazon Music
 - [eerimoq/asyncudp](https://github.com/eerimoq/asyncudp) - Asyncio high level UDP sockets.
 - [colinhartigan/valorant-rpc](https://github.com/colinhartigan/valorant-rpc) - Feature-rich Discord rich-presence implementation for VALORANT
 - [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
@@ -403,6 +404,7 @@
 
 ## Shell 
 
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
 - [npjohnson/sabrina-unlock](https://github.com/npjohnson/sabrina-unlock) - 
