@@ -436,6 +436,9 @@
 
 ## others 
 
+- [noCaptchaAi/noCaptcha-py](https://github.com/noCaptchaAi/noCaptcha-py) - :zap: hcaptcha, reCaptcha soolver pypi module
+- [Hammad69275/NoCaptchaSolver](https://github.com/Hammad69275/NoCaptchaSolver) - Solve HCaptcha Challenges With The Power Of NoCaptchaAI
+- [noCaptchaAi/nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) - Puppeteer package for NoCaptchaAI (hCaptcha solver) ⚡️
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [Tugcga/SmartFox-Python-Communicator](https://github.com/Tugcga/SmartFox-Python-Communicator) - Minimal Python bindigs for SmartFox server c++ API
