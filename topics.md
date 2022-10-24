@@ -436,6 +436,8 @@
 
 ## others 
 
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
+- [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [noCaptchaAi/noCaptcha-py](https://github.com/noCaptchaAi/noCaptcha-py) - :zap: hcaptcha, reCaptcha soolver pypi module
 - [Hammad69275/NoCaptchaSolver](https://github.com/Hammad69275/NoCaptchaSolver) - Solve HCaptcha Challenges With The Power Of NoCaptchaAI
 - [noCaptchaAi/nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) - Puppeteer package for NoCaptchaAI (hCaptcha solver) ⚡️
@@ -511,7 +513,6 @@
 - [StdCarrot/Py3AMF](https://github.com/StdCarrot/Py3AMF) - AMF for Python
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
 - [Pyrodash/libamf](https://github.com/Pyrodash/libamf) - Action Message Format library for node.js.
-- [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [oonqt/MBCord](https://github.com/oonqt/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨
 - [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
 - [Sanae6/Exlaunch.NET](https://github.com/Sanae6/Exlaunch.NET) - Horribly incomplete C#-based Switch game modding framework
