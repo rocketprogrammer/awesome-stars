@@ -74,6 +74,8 @@
 
 ## C# # 
 
+- [darkalfx/requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for 
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [cccfire/OpenRealms](https://github.com/cccfire/OpenRealms) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [NealSpellman/NexusHQ](https://github.com/NealSpellman/NexusHQ) - An open-source tool to visualize many of LEGO Universe's drop tables, made with Unity.
