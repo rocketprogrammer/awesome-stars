@@ -74,6 +74,7 @@
 
 ## C# # 
 
+- [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [darkalfx/requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [cccfire/OpenRealms](https://github.com/cccfire/OpenRealms) - 
@@ -266,6 +267,7 @@
 
 ## Others 
 
+- [jingye-xu/jy-personal-notes](https://github.com/jingye-xu/jy-personal-notes) - This is my personal notes.
 - [robertfwallis/Consistooncy](https://github.com/robertfwallis/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
 - [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
