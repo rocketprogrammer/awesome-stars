@@ -103,6 +103,7 @@
 
 ## automation 
 
+- [shimuldn/hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) - hCaptcha Solver automated Captcha Solver bypass Ai service. Free 6000 🔥solves/month! Signup &gt; https://noCaptchaAi.com
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [StarrFox/wizwalker](https://github.com/StarrFox/wizwalker) - Wizard101 scripting api
@@ -124,6 +125,7 @@
 
 ## bot 
 
+- [shimuldn/hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) - hCaptcha Solver automated Captcha Solver bypass Ai service. Free 6000 🔥solves/month! Signup &gt; https://noCaptchaAi.com
 - [forscht/ddrive](https://github.com/forscht/ddrive) - A lightweight cloud storage system using discord as storage device written in nodejs
 - [StarrFox/wizwalker](https://github.com/StarrFox/wizwalker) - Wizard101 scripting api
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
@@ -459,7 +461,6 @@
 - [an0ndev/requests-ja3](https://github.com/an0ndev/requests-ja3) - Modifying Python's requests module to spoof a ja3 fingerprint
 - [williexu/random_username](https://github.com/williexu/random_username) - A package to randomly generate usernames
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
-- [shimuldn/hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) - hCaptcha Solver automated Captcha solving Ai service. Free 🔥 6000 solves/ per month! Signup now! https://nocaptchaai.com
 - [Its-Vichy/XProxy](https://github.com/Its-Vichy/XProxy) - Powerfull proxy scraper and checker.
 - [robertfwallis/Consistooncy](https://github.com/robertfwallis/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
 - [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
