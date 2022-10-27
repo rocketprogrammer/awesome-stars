@@ -321,7 +321,7 @@
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 - [an0ndev/requests-ja3](https://github.com/an0ndev/requests-ja3) - Modifying Python's requests module to spoof a ja3 fingerprint
 - [williexu/random_username](https://github.com/williexu/random_username) - A package to randomly generate usernames
-- [shimuldn/hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) - hCaptcha Solver automated Captcha solving Ai service. Free 🔥 6000 solves/ per month! Signup now! https://nocaptchaai.com
+- [shimuldn/hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) - hCaptcha Solver automated Captcha Solver bypass Ai service. Free 6000 🔥solves/month! Signup &gt; https://noCaptchaAi.com
 - [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord!
 - [rocketprogrammer/ttsrc](https://github.com/rocketprogrammer/ttsrc) - Toontown Anesidora (sv1.0.40.25.test)
 - [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
