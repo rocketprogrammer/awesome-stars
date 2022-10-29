@@ -177,7 +177,7 @@
 ## HTML 
 
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
-- [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
+- [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
