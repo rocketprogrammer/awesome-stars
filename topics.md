@@ -457,7 +457,7 @@
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [Tugcga/SmartFox-Python-Communicator](https://github.com/Tugcga/SmartFox-Python-Communicator) - Minimal Python bindigs for SmartFox server c++ API
 - [silexlabs/amfphp-2.0](https://github.com/silexlabs/amfphp-2.0) - Simple Remoting for Web Applications
-- [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
+- [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
 - [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate) - Guaranteed compile-time string literal obfuscation header-only library for C++14
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
