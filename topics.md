@@ -445,6 +445,7 @@
 
 ## others 
 
+- [d4c5d1e0/hcaptcha](https://github.com/d4c5d1e0/hcaptcha) - hCaptcha fingerprinting script analysis
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 - [AdminAnticaptcha/anticaptcha-python](https://github.com/AdminAnticaptcha/anticaptcha-python) - Anti Captcha API for Python 3. Solve captcha, Recaptcha, Hcaptcha, etc automatically.
 - [jingye-xu/jy-personal-notes](https://github.com/jingye-xu/jy-personal-notes) - This is my personal notes.
