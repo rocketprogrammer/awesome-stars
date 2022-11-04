@@ -49,6 +49,7 @@
 
 ## C 
 
+- [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
 - [josephl70/DPAKToolset](https://github.com/josephl70/DPAKToolset) - Extracts and Packages DPAKs as well as XMCs
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
@@ -75,6 +76,7 @@
 
 ## C# # 
 
+- [Collective-Software/ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click.
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [darkalfx/requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for 
