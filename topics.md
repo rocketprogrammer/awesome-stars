@@ -88,6 +88,7 @@
 
 ## android 
 
+- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
 
@@ -147,6 +148,7 @@
 
 ## cpp 
 
+- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
 - [madduci/docker-msvc-cpp](https://github.com/madduci/docker-msvc-cpp) - Dockerized Visual C++ environment with wine
@@ -220,6 +222,7 @@
 
 ## emulator 
 
+- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
