@@ -88,6 +88,7 @@
 
 ## android 
 
+- [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
@@ -222,6 +223,7 @@
 
 ## emulator 
 
+- [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -413,6 +415,7 @@
 
 ## music 
 
+- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎵 A Spotify music and playlist downloader written in Rust which also works with a free Spotify account
 - [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
@@ -718,6 +721,7 @@
 
 ## rust 
 
+- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎵 A Spotify music and playlist downloader written in Rust which also works with a free Spotify account
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
