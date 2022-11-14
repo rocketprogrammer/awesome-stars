@@ -278,7 +278,7 @@
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak"
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -299,7 +299,6 @@
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink) - Standalone audio sending node based on Lavaplayer.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel
@@ -332,7 +331,7 @@
 
 ## ios 
 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak"
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
