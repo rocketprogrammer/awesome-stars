@@ -452,6 +452,7 @@
 
 ## others 
 
+- [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
 - [Collective-Software/ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click.
 - [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
