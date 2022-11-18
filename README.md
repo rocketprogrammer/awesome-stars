@@ -167,7 +167,6 @@
 ## Go 
 
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
-- [Its-Vichy/XProxy](https://github.com/Its-Vichy/XProxy) - Powerfull proxy scraper and checker.
 - [eslym/anticopen](https://github.com/eslym/anticopen) - Anti copenheimer, a very simple firewall to avoid direct IP scan on Minecraft server, require a domain to work.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
