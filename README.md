@@ -247,6 +247,7 @@
 
 ## Kotlin 
 
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
@@ -420,6 +421,7 @@
 
 ## Rust 
 
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎵 A Spotify music and playlist downloader written in Rust which also works with a free Spotify account
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
