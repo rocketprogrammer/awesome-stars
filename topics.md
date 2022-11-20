@@ -88,6 +88,7 @@
 
 ## android 
 
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
@@ -452,6 +453,7 @@
 
 ## others 
 
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [BomboBombone/UniHide](https://github.com/BomboBombone/UniHide) - Universal HWID Spoofer
 - [ReFo0/hwid-spoofer](https://github.com/ReFo0/hwid-spoofer) - kernel mode spoofer disk and smbios, socket communication
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
