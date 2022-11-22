@@ -456,6 +456,8 @@
 
 ## others 
 
+- [manovisible/lunarinjector](https://github.com/manovisible/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
+- [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [BomboBombone/UniHide](https://github.com/BomboBombone/UniHide) - Universal HWID Spoofer
 - [ReFo0/hwid-spoofer](https://github.com/ReFo0/hwid-spoofer) - kernel mode spoofer disk and smbios, socket communication
