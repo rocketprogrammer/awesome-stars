@@ -456,6 +456,7 @@
 
 ## others 
 
+- [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [manovisible/lunarinjector](https://github.com/manovisible/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
 - [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
@@ -696,6 +697,7 @@
 
 ## python3 
 
+- [AndreiDrang/python3-captchaai](https://github.com/AndreiDrang/python3-captchaai) - Python library for CaptchaAI
 - [ImNimboss/uberduck](https://github.com/ImNimboss/uberduck) - A synchronous and asynchronous API wrapper for the UberDuck text-to-speech service (https://uberduck.ai) with 100% coverage and top-notch utilities.
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
