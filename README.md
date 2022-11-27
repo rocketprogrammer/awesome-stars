@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [eslym/anticopen](https://github.com/eslym/anticopen) - Anti copenheimer, a very simple firewall to avoid direct IP scan on Minecraft server, require a domain to work.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -327,6 +328,7 @@
 
 ## Python 
 
+- [AndreiDrang/python3-captchaai](https://github.com/AndreiDrang/python3-captchaai) - Python library for CaptchaAI
 - [kokiez/hcaptcha-solver](https://github.com/kokiez/hcaptcha-solver) - Sovles hcaptcha and gets captcha key by sending requests.
 - [RuslanUC/aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) - Unofficial async wrapper for interacting with hCaptcha (with automatic solver)
 - [ImNimboss/uberduck](https://github.com/ImNimboss/uberduck) - A synchronous and asynchronous API wrapper for the UberDuck text-to-speech service (https://uberduck.ai) with 100% coverage and top-notch utilities.
