@@ -227,7 +227,7 @@
 - [silexlabs/amfphp-2.0](https://github.com/silexlabs/amfphp-2.0) - Simple Remoting for Web Applications
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
-- [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - GPU Drops' captcha solving extension without affiliate tracking code injection
+- [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
 - [forscht/ddrive](https://github.com/forscht/ddrive) - A lightweight cloud storage system using discord as storage device written in nodejs
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -328,6 +328,8 @@
 
 ## Python 
 
+- [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
+- [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [AndreiDrang/python3-captchaai](https://github.com/AndreiDrang/python3-captchaai) - Python library for CaptchaAI
 - [kokiez/hcaptcha-solver](https://github.com/kokiez/hcaptcha-solver) - Sovles hcaptcha and gets captcha key by sending requests.
 - [RuslanUC/aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) - Unofficial async wrapper for interacting with hCaptcha (with automatic solver)
