@@ -48,12 +48,14 @@
 - [linux](#linux)
 - [macos](#macos)
 - [minecraft](#minecraft)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
 - [node](#node)
 - [nodejs](#nodejs)
+- [nosql](#nosql)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -88,6 +90,7 @@
 
 ## android 
 
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
@@ -279,6 +282,7 @@
 
 ## hacktoberfest 
 
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -343,6 +347,7 @@
 
 ## java 
 
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
@@ -363,6 +368,7 @@
 
 ## kotlin 
 
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## laravel 
@@ -408,10 +414,15 @@
 - [barneygale/quarry](https://github.com/barneygale/quarry) - Python library that implements the Minecraft network protocol and data types
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
+## mobile 
+
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
+
 ## mongodb 
 
-- [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP driver
-- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB PHP library
+- [mongodb/motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
+- [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
+- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
 
 ## monitoring 
 
@@ -442,8 +453,13 @@
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 
+## nosql 
+
+- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
+
 ## open-source 
 
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 
 ## opengl 
@@ -462,7 +478,7 @@
 - [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [BomboBombone/UniHide](https://github.com/BomboBombone/UniHide) - Universal HWID Spoofer
-- [ReFo0/hwid-spoofer](https://github.com/ReFo0/hwid-spoofer) - kernel mode spoofer disk and smbios, socket communication
+- [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer) - kernel mode spoofer disk and smbios, socket communication
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
 - [Collective-Software/ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click.
@@ -586,7 +602,6 @@
 - [thwackertoon/team-ct-toontown-house](https://github.com/thwackertoon/team-ct-toontown-house) - Team CT build of Toontown House dated 03-07-2014, known as the first community-source project.
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [gabefraser/ttoffline-launcher-go](https://github.com/gabefraser/ttoffline-launcher-go) - Toontown Offline Launcher rewritten in Go
-- [mongodb/motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [toonjoey/toontown-project-bikehorn](https://github.com/toonjoey/toontown-project-bikehorn) - An extremely faithful HD textures pack for Toontown Rewritten.
 - [loonaticx/Housekeeper](https://github.com/loonaticx/Housekeeper) - "Housekeeps" Toontown resources
 - [AllinolCP/CPI-SFS2X-Extension](https://github.com/AllinolCP/CPI-SFS2X-Extension) - CPI SFS2X Extension never finished
@@ -663,8 +678,8 @@
 - [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [NicheOffice/php-web-proxy](https://github.com/NicheOffice/php-web-proxy) - Online Web Proxy Website Script Written in PHP
-- [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP driver
-- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB PHP library
+- [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
+- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
 
 ## python 
 
@@ -691,6 +706,7 @@
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
+- [mongodb/motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [lovvskillz/python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) - execute discord webhooks
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
