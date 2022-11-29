@@ -117,7 +117,7 @@
 ## C++ 
 
 - [BomboBombone/UniHide](https://github.com/BomboBombone/UniHide) - Universal HWID Spoofer
-- [ReFo0/hwid-spoofer](https://github.com/ReFo0/hwid-spoofer) - kernel mode spoofer disk and smbios, socket communication
+- [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer) - kernel mode spoofer disk and smbios, socket communication
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
@@ -202,6 +202,7 @@
 
 ## Java 
 
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
@@ -312,8 +313,8 @@
 - [NicheOffice/php-web-proxy](https://github.com/NicheOffice/php-web-proxy) - Online Web Proxy Website Script Written in PHP
 - [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - Easy AdminLTE integration with Laravel
-- [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP driver
-- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB PHP library
+- [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
+- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
 - [Eperty123/OpenFusion-Web-API](https://github.com/Eperty123/OpenFusion-Web-API) - A web API for Open Fusion (Fusionfall)
 
 ## Pascal 
