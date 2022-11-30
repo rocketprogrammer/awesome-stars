@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [saucesteals/mimic](https://github.com/saucesteals/mimic) - Mimic chromium's HTTP/HTTP2 and TLS implementations.
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [eslym/anticopen](https://github.com/eslym/anticopen) - Anti copenheimer, a very simple firewall to avoid direct IP scan on Minecraft server, require a domain to work.
@@ -329,6 +330,7 @@
 
 ## Python 
 
+- [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - 
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [AndreiDrang/python3-captchaai](https://github.com/AndreiDrang/python3-captchaai) - Python library for CaptchaAI
