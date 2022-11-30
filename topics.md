@@ -55,7 +55,6 @@
 - [mysql](#mysql)
 - [node](#node)
 - [nodejs](#nodejs)
-- [nosql](#nosql)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -453,10 +452,6 @@
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 
-## nosql 
-
-- [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
-
 ## open-source 
 
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
@@ -472,6 +467,8 @@
 
 ## others 
 
+- [saucesteals/mimic](https://github.com/saucesteals/mimic) - Mimic chromium's HTTP/HTTP2 and TLS implementations.
+- [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - 
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [manovisible/lunarinjector](https://github.com/manovisible/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
