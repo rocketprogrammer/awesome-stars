@@ -125,7 +125,7 @@
 
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-- [vilhelmprytz/pterodactyl-installer](https://github.com/vilhelmprytz/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
+- [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 
 ## bot 
