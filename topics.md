@@ -468,6 +468,7 @@
 
 ## others 
 
+- [kawacode/gorequest](https://github.com/kawacode/gorequest) - This Project is made for spoofing Ja3 and Akamai fingerprint, it is also very simple to use. I made it noob-friendly as possiable.
 - [saucesteals/mimic](https://github.com/saucesteals/mimic) - Mimic chromium's HTTP/HTTP2 and TLS implementations.
 - [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - 
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
@@ -508,7 +509,7 @@
 - [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
 - [cccfire/OpenRealms](https://github.com/cccfire/OpenRealms) - 
 - [rocketprogrammer/ttsrc](https://github.com/rocketprogrammer/ttsrc) - Toontown Anesidora (sv1.0.40.25.test)
-- [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
+- [0xdrop/Tusk](https://github.com/0xdrop/Tusk) - Cardjitsu Snow Server Emulator
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C++
