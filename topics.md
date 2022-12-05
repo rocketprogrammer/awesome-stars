@@ -403,6 +403,7 @@
 
 ## minecraft 
 
+- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - The main client
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
@@ -468,6 +469,7 @@
 
 ## others 
 
+- [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [kawacode/gorequest](https://github.com/kawacode/gorequest) - This Project is made for spoofing Ja3 and Akamai fingerprint, it is also very simple to use. I made it noob-friendly as possiable.
 - [saucesteals/mimic](https://github.com/saucesteals/mimic) - Mimic chromium's HTTP/HTTP2 and TLS implementations.
 - [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - 
@@ -682,6 +684,7 @@
 
 ## python 
 
+- [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [RuslanUC/aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) - Unofficial async wrapper for interacting with hCaptcha (with automatic solver)
 - [ImNimboss/uberduck](https://github.com/ImNimboss/uberduck) - A synchronous and asynchronous API wrapper for the UberDuck text-to-speech service (https://uberduck.ai) with 100% coverage and top-notch utilities.
