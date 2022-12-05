@@ -205,6 +205,7 @@
 
 ## Java 
 
+- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
@@ -332,6 +333,8 @@
 
 ## Python 
 
+- [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
+- [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - 
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
