@@ -469,6 +469,8 @@
 
 ## others 
 
+- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers
+- [snappycreeper/OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [kawacode/gorequest](https://github.com/kawacode/gorequest) - This Project is made for spoofing Ja3 and Akamai fingerprint, it is also very simple to use. I made it noob-friendly as possiable.
 - [saucesteals/mimic](https://github.com/saucesteals/mimic) - Mimic chromium's HTTP/HTTP2 and TLS implementations.
