@@ -339,6 +339,8 @@
 
 ## Python 
 
+- [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
+- [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
 - [nopecha-ai/nopecha-scripts](https://github.com/nopecha-ai/nopecha-scripts) - Example scripts to automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA.
 - [acheong08/OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -366,6 +368,7 @@
 - [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord!
 - [rocketprogrammer/ttsrc](https://github.com/rocketprogrammer/ttsrc) - Toontown Anesidora (sv1.0.40.25.test)
 - [0xdrop/Tusk](https://github.com/0xdrop/Tusk) - Cardjitsu Snow Server Emulator
+- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with YOLOv6(ONNX) embedded solution.
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [BartGunshot/blender-egg-importer](https://github.com/BartGunshot/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
 - [BartGunshot/potco-blender-tools](https://github.com/BartGunshot/potco-blender-tools) - Blender addon adding various tools for working with POTCO models
@@ -458,7 +461,7 @@
 
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
 - [npjohnson/sabrina-unlock](https://github.com/npjohnson/sabrina-unlock) - 
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
