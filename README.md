@@ -191,6 +191,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
 - [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -289,7 +290,7 @@
 
 ## Others 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
 - [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, Pocket Go & PowKiddy Q90-V90-Q20 and Miyoo Mini handheld consoles
 - [manovisible/lunarinjector](https://github.com/manovisible/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
 - [jingye-xu/jy-personal-notes](https://github.com/jingye-xu/jy-personal-notes) - This is my personal notes.
