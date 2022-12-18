@@ -482,6 +482,8 @@
 
 ## others 
 
+- [Matthew17-21/Captcha-Tools](https://github.com/Matthew17-21/Captcha-Tools) - All-in-one Python (And now Go!) module to help solve captchas with Capmonster, 2captcha, Anticaptcha, and Capsolver API's!
+- [mnickw/CycleTLS-dotnet](https://github.com/mnickw/CycleTLS-dotnet) - .NET client for https://github.com/Danny-Dasilva/CycleTLS to spoof TLS/JA3 fingerprints
 - [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
 - [nopecha-ai/nopecha-scripts](https://github.com/nopecha-ai/nopecha-scripts) - Example scripts to automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA.
