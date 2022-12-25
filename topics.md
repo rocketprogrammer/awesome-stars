@@ -156,7 +156,7 @@
 
 ## cli 
 
-- [ChatGPT-Hackers/revChatGPT](https://github.com/ChatGPT-Hackers/revChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [ChatGPT-Hackers/ChatGPT](https://github.com/ChatGPT-Hackers/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 
@@ -399,7 +399,7 @@
 
 ## library 
 
-- [ChatGPT-Hackers/revChatGPT](https://github.com/ChatGPT-Hackers/revChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [ChatGPT-Hackers/ChatGPT](https://github.com/ChatGPT-Hackers/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) - C# custom implementation for Discord Rich Presence. Not deprecated and still available!
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 
@@ -491,6 +491,7 @@
 
 ## others 
 
+- [KohnoseLami/hcaptcha-hsw.js](https://github.com/KohnoseLami/hcaptcha-hsw.js) - Provides an API to compute hsw.js for hCaptcha and return the result.
 - [Matthew17-21/Captcha-Tools](https://github.com/Matthew17-21/Captcha-Tools) - All-in-one Python (And now Go!) module to help solve captchas with Capmonster, 2captcha, Anticaptcha, and Capsolver API's!
 - [mnickw/CycleTLS-dotnet](https://github.com/mnickw/CycleTLS-dotnet) - .NET client for https://github.com/Danny-Dasilva/CycleTLS to spoof TLS/JA3 fingerprints
 - [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
