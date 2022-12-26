@@ -231,6 +231,8 @@
 
 ## JavaScript 
 
+- [nopecha-ai/nopecha-nodejs](https://github.com/nopecha-ai/nopecha-nodejs) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Node.js.
+- [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
 - [d4c5d1e0/hcaptcha](https://github.com/d4c5d1e0/hcaptcha) - hCaptcha fingerprinting script analysis
@@ -294,6 +296,7 @@
 
 ## Others 
 
+- [nopecha-ai/.github](https://github.com/nopecha-ai/.github) - 
 - [KohnoseLami/hcaptcha-hsw.js](https://github.com/KohnoseLami/hcaptcha-hsw.js) - Provides an API to compute hsw.js for hCaptcha and return the result.
 - [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
 - [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, Pocket Go & PowKiddy Q90-V90-Q20 and Miyoo Mini handheld consoles
@@ -344,6 +347,7 @@
 
 ## Python 
 
+- [nopecha-ai/nopecha-python](https://github.com/nopecha-ai/nopecha-python) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Python.
 - [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2!
 - [magneticchen/Daijishou](https://github.com/magneticchen/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries.
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
