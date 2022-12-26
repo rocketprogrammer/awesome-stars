@@ -151,6 +151,7 @@
 
 ## chrome-extension 
 
+- [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
@@ -372,6 +373,7 @@
 
 ## javascript 
 
+- [nopecha-ai/nopecha-nodejs](https://github.com/nopecha-ai/nopecha-nodejs) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Node.js.
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
@@ -491,6 +493,7 @@
 
 ## others 
 
+- [nopecha-ai/.github](https://github.com/nopecha-ai/.github) - 
 - [KohnoseLami/hcaptcha-hsw.js](https://github.com/KohnoseLami/hcaptcha-hsw.js) - Provides an API to compute hsw.js for hCaptcha and return the result.
 - [Matthew17-21/Captcha-Tools](https://github.com/Matthew17-21/Captcha-Tools) - All-in-one Python (And now Go!) module to help solve captchas with Capmonster, 2captcha, Anticaptcha, and Capsolver API's!
 - [mnickw/CycleTLS-dotnet](https://github.com/mnickw/CycleTLS-dotnet) - .NET client for https://github.com/Danny-Dasilva/CycleTLS to spoof TLS/JA3 fingerprints
@@ -719,6 +722,7 @@
 
 ## python 
 
+- [nopecha-ai/nopecha-python](https://github.com/nopecha-ai/nopecha-python) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Python.
 - [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2!
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
