@@ -597,7 +597,7 @@
 - [kronos-project/moonlight](https://github.com/kronos-project/moonlight) - W101 traffic decoding
 - [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine) - Scripts for setting up and running MSVC in Wine on Linux
 - [richardg867/WaybackProxy](https://github.com/richardg867/WaybackProxy) - HTTP proxy for tunneling requests through the Internet Archive Wayback Machine
-- [CPunch/Laika](https://github.com/CPunch/Laika) - Cross-platform RAT, written in Modern C
+- [CPunch/Laika](https://github.com/CPunch/Laika) - Cross-platform RAT, written in C
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [StdCarrot/Py3AMF](https://github.com/StdCarrot/Py3AMF) - AMF for Python
