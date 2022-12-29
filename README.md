@@ -65,7 +65,7 @@
 - [Fullmetal5/str2hax](https://github.com/Fullmetal5/str2hax) - An implementation of CVE-2009-0689 for the Nintendo Wii.
 - [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 - [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
-- [CPunch/Laika](https://github.com/CPunch/Laika) - Cross-platform RAT, written in Modern C
+- [CPunch/Laika](https://github.com/CPunch/Laika) - Cross-platform RAT, written in C
 - [Bforartists/Bforartists](https://github.com/Bforartists/Bforartists) - Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 - [0x7ff/eclipsa](https://github.com/0x7ff/eclipsa) - Checkm8 PoC tool for A8, A8X and A9 devices that allows you to boot untrusted images (macOS only, credits: checkra1n team).
 - [xerpi/vita2hos](https://github.com/xerpi/vita2hos) - [WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
