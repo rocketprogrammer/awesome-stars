@@ -499,6 +499,7 @@
 
 ## TypeScript 
 
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
 - [noCaptchaAi/nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) - Puppeteer package for NoCaptchaAI (hCaptcha solver) ⚡️
