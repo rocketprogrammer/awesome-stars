@@ -496,6 +496,7 @@
 
 ## others 
 
+- [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
 - [2xmonth/hCaptcha-Solvers](https://github.com/2xmonth/hCaptcha-Solvers) - My hCaptcha solver + dataset creator using stable diffusion
 - [nopecha-ai/.github](https://github.com/nopecha-ai/.github) - 
