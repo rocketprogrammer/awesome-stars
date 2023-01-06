@@ -231,6 +231,7 @@
 
 ## JavaScript 
 
+- [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [nopecha-ai/nopecha-nodejs](https://github.com/nopecha-ai/nopecha-nodejs) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Node.js.
 - [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
