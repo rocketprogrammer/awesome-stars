@@ -111,7 +111,7 @@
 
 ## artificial-intelligence 
 
-- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2!
+- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2! Automatically moderate your server using AI!
 
 ## automation 
 
@@ -137,7 +137,7 @@
 
 ## bot 
 
-- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2!
+- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2! Automatically moderate your server using AI!
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - hCaptcha Solver automated Captcha Solver bypass Ai service. Free 6000 🔥solves/month! Signup &gt; https://noCaptchaAi.com
 - [forscht/ddrive](https://github.com/forscht/ddrive) - A lightweight cloud storage system using discord as storage device written in nodejs
@@ -163,6 +163,7 @@
 
 ## cpp 
 
+- [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
@@ -189,7 +190,8 @@
 
 ## discord 
 
-- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2!
+- [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
+- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2! Automatically moderate your server using AI!
 - [Among-Suss/mimicri](https://github.com/Among-Suss/mimicri) - A small, performant, feature-rich Discord music bot written in Rust
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
@@ -729,7 +731,7 @@
 ## python 
 
 - [nopecha-ai/nopecha-python](https://github.com/nopecha-ai/nopecha-python) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Python.
-- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2!
+- [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2! Automatically moderate your server using AI!
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [RuslanUC/aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) - Unofficial async wrapper for interacting with hCaptcha (with automatic solver)
