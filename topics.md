@@ -27,6 +27,7 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [emulator](#emulator)
+- [firefox](#firefox)
 - [flask](#flask)
 - [framework](#framework)
 - [game](#game)
@@ -252,6 +253,10 @@
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+## firefox 
+
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 
 ## flask 
 
@@ -662,7 +667,7 @@
 - [bakatrouble/sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader) - 
 - [TheNexusAvenger/Nexus-Relay](https://github.com/TheNexusAvenger/Nexus-Relay) - Relays TCP and UDP traffic to another host.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Super Resolution, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, 
 - [legitatx/cpi-web-service](https://github.com/legitatx/cpi-web-service) - Web service impl for Club Penguin Island private servers
 - [arizvisa/antifreeze](https://github.com/arizvisa/antifreeze) - my earlier part of antifreeze before we merged our work and refined it. this is incomplete and unmaintained. you guys were lucky i found this on a hard disk image, anywayz.
 - [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
