@@ -152,7 +152,6 @@
 
 ## chrome-extension 
 
-- [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
@@ -173,6 +172,7 @@
 
 ## csharp 
 
+- [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) - C# custom implementation for Discord Rich Presence. Not deprecated and still available!
 - [ObsidianMC/Obsidian](https://github.com/ObsidianMC/Obsidian) - A C# implementation of the Minecraft server protocol.
@@ -182,7 +182,6 @@
 
 ## css 
 
-- [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 
 ## deployment 
@@ -381,9 +380,7 @@
 
 ## javascript 
 
-- [nopecha-ai/nopecha-nodejs](https://github.com/nopecha-ai/nopecha-nodejs) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Node.js.
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
-- [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 
@@ -398,7 +395,7 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## laravel 
 
@@ -503,16 +500,15 @@
 
 ## others 
 
+- [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
 - [2xmonth/hCaptcha-Solvers](https://github.com/2xmonth/hCaptcha-Solvers) - My hCaptcha solver + dataset creator using stable diffusion
-- [nopecha-ai/.github](https://github.com/nopecha-ai/.github) - 
 - [KohnoseLami/hcaptcha-hsw.js](https://github.com/KohnoseLami/hcaptcha-hsw.js) - Provides an API to compute hsw.js for hCaptcha and return the result.
 - [Matthew17-21/Captcha-Tools](https://github.com/Matthew17-21/Captcha-Tools) - All-in-one Python (And now Go!) module to help solve captchas with Capmonster, 2captcha, Anticaptcha, and Capsolver API's!
 - [mnickw/CycleTLS-dotnet](https://github.com/mnickw/CycleTLS-dotnet) - .NET client for https://github.com/Danny-Dasilva/CycleTLS to spoof TLS/JA3 fingerprints
 - [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
-- [nopecha-ai/nopecha-scripts](https://github.com/nopecha-ai/nopecha-scripts) - Example scripts to automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA.
 - [acheong08/OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [openai/openai-python](https://github.com/openai/openai-python) - 
@@ -671,7 +667,6 @@
 - [arizvisa/antifreeze](https://github.com/arizvisa/antifreeze) - my earlier part of antifreeze before we merged our work and refined it. this is incomplete and unmaintained. you guys were lucky i found this on a hard disk image, anywayz.
 - [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
 - [atauenis/webone](https://github.com/atauenis/webone) - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.
-- [davidallan17/Toontown-Online-UK-sv1.0.15.26](https://github.com/davidallan17/Toontown-Online-UK-sv1.0.15.26) - The Installation and game code (decompiled) for Toontown online sv1.0.15.26
 - [xuwaters/wireshark-smartfoxserver](https://github.com/xuwaters/wireshark-smartfoxserver) - This wireshark plugin is used for dissecting SmartFoxServer protocol.
 - [NathaanTFM/ttotp](https://github.com/NathaanTFM/ttotp) - Python OTP for Toontown Anesidora
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
@@ -697,7 +692,7 @@
 - [P3DCAT/BamUpgrader](https://github.com/P3DCAT/BamUpgrader) - Converts old Panda3D BAM version 3.3 models to the new Panda3D BAM format.
 - [CFSworks/limeade](https://github.com/CFSworks/limeade) - Live module editing and development enhancement supporting hot reloading for Python 3.4+
 - [ToontownRewritten/ToontownReleaseArchive](https://github.com/ToontownRewritten/ToontownReleaseArchive) - 
-- [davidallan17/Toontropolis-Unity-2019-4-3f1](https://github.com/davidallan17/Toontropolis-Unity-2019-4-3f1) - TT2 Toontropolis
+- [DavidACrompton/Toontropolis-Unity-2019-4-3f1](https://github.com/DavidACrompton/Toontropolis-Unity-2019-4-3f1) - TT2 Toontropolis
 - [OpenToontownTools/OpenLevelEditor](https://github.com/OpenToontownTools/OpenLevelEditor) - An open sourced modernized version of Disney's in-house Toontown Online level editor used to create .dna files.
 - [paulovn/python-aiml](https://github.com/paulovn/python-aiml) - An interpreter module for AIML (Artificial Intelligence Markup Language), implemented in pure Python
 - [darktohka/libtoontown](https://github.com/darktohka/libtoontown) - libotp and libtoontown built for the latest Panda3D 1.11.0 engine, supporting both Python 2 and Python 3.
@@ -734,7 +729,6 @@
 
 ## python 
 
-- [nopecha-ai/nopecha-python](https://github.com/nopecha-ai/nopecha-python) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Python.
 - [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2! Automatically moderate your server using AI!
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
