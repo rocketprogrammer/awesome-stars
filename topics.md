@@ -97,7 +97,7 @@
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
-- [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
+- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
 
 ## ansible 
@@ -371,7 +371,7 @@
 ## java 
 
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-- [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
+- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
@@ -692,7 +692,6 @@
 - [P3DCAT/BamUpgrader](https://github.com/P3DCAT/BamUpgrader) - Converts old Panda3D BAM version 3.3 models to the new Panda3D BAM format.
 - [CFSworks/limeade](https://github.com/CFSworks/limeade) - Live module editing and development enhancement supporting hot reloading for Python 3.4+
 - [ToontownRewritten/ToontownReleaseArchive](https://github.com/ToontownRewritten/ToontownReleaseArchive) - 
-- [DavidACrompton/Toontropolis-Unity-2019-4-3f1](https://github.com/DavidACrompton/Toontropolis-Unity-2019-4-3f1) - TT2 Toontropolis
 - [OpenToontownTools/OpenLevelEditor](https://github.com/OpenToontownTools/OpenLevelEditor) - An open sourced modernized version of Disney's in-house Toontown Online level editor used to create .dna files.
 - [paulovn/python-aiml](https://github.com/paulovn/python-aiml) - An interpreter module for AIML (Artificial Intelligence Markup Language), implemented in pure Python
 - [darktohka/libtoontown](https://github.com/darktohka/libtoontown) - libotp and libtoontown built for the latest Panda3D 1.11.0 engine, supporting both Python 2 and Python 3.
