@@ -112,7 +112,6 @@
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
 - [chandler14362/DcSharp](https://github.com/chandler14362/DcSharp) - 
 - [Eperty123/OpenFusion-Launcher](https://github.com/Eperty123/OpenFusion-Launcher) - A launcher for OpenFusion client.
-- [DavidACrompton/Toontropolis-Unity-2019-4-3f1](https://github.com/DavidACrompton/Toontropolis-Unity-2019-4-3f1) - TT2 Toontropolis
 - [Gericom/dspatch](https://github.com/Gericom/dspatch) - DS Download Station Patcher
 - [rocketprogrammer/TheToonTownSpoofer](https://github.com/rocketprogrammer/TheToonTownSpoofer) - Deobfuscated decompiled code for The Toontown Spoofer.
 
@@ -214,7 +213,7 @@
 
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-- [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
+- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
