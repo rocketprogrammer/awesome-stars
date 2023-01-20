@@ -500,6 +500,8 @@
 
 ## others 
 
+- [proxidize/4g-proxy](https://github.com/proxidize/4g-proxy) - How to create a 4G proxy from a USB modem/dongle using Proxidize free version.
+- [proxidize/proxidize-android](https://github.com/proxidize/proxidize-android) - Proxidize Android is an Android application that allows anyone to create a 5G or 4G mobile proxy using their phone. Learn more about Proxidize on https://proxidize.com/
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
