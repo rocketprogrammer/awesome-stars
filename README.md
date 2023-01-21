@@ -346,6 +346,7 @@
 
 ## Python 
 
+- [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
