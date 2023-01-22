@@ -295,6 +295,7 @@
 
 ## Others 
 
+- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [proxidize/4g-proxy](https://github.com/proxidize/4g-proxy) - How to create a 4G proxy from a USB modem/dongle using Proxidize free version.
 - [KohnoseLami/hcaptcha-hsw.js](https://github.com/KohnoseLami/hcaptcha-hsw.js) - Provides an API to compute hsw.js for hCaptcha and return the result.
 - [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
@@ -341,7 +342,7 @@
 ## PowerShell 
 
 - [madduci/docker-msvc-cpp](https://github.com/madduci/docker-msvc-cpp) - Dockerized Visual C++ environment with wine
-- [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [paleozogt/MSVCDocker](https://github.com/paleozogt/MSVCDocker) - MSVC via Wine in Docker
 
 ## Python 
