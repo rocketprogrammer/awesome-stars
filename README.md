@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ActionScript](#actionscript)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -35,6 +36,10 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## ActionScript 
+
+- [loonaticx/ToontownSWFAssets](https://github.com/loonaticx/ToontownSWFAssets) - An archive of all publicly accessible Toontown SWF files, including all of their asset files!
 
 ## Batchfile 
 
@@ -359,7 +364,7 @@
 - [acheong08/OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - 
