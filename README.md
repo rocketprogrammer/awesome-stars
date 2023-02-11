@@ -371,7 +371,7 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
-- [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - 
+- [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - A python wrapper for golang that lets you mimic chrome requests and evade tls fingerprinting
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [AndreiDrang/python3-captchaai](https://github.com/AndreiDrang/python3-captchaai) - Python library for CaptchaAI
