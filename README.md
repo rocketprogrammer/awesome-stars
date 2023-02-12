@@ -205,7 +205,7 @@
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
-- [OpenFusionProject/Client](https://github.com/OpenFusionProject/Client) - Electron app to easily connect to FusionFall servers
+- [OpenFusionProject/OpenFusionClient](https://github.com/OpenFusionProject/OpenFusionClient) - Electron app to easily connect to FusionFall servers
 - [OpenFusionProject/OpenFusionMap](https://github.com/OpenFusionProject/OpenFusionMap) - Web-based player visualizer for OpenFusion.
 - [ToontownRewritten/ToontownReleaseArchive](https://github.com/ToontownRewritten/ToontownReleaseArchive) - 
 - [cuzitsjonny/JALUS](https://github.com/cuzitsjonny/JALUS) - A PoC of a LEGO Universe server emulator; Written in C++; Discontinued
@@ -236,6 +236,7 @@
 
 ## JavaScript 
 
+- [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
 - [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
