@@ -506,6 +506,7 @@
 
 ## others 
 
+- [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
 - [loonaticx/ToontownSWFAssets](https://github.com/loonaticx/ToontownSWFAssets) - An archive of all publicly accessible Toontown SWF files, including all of their asset files!
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
@@ -691,7 +692,7 @@
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [xgladius/wiz-packet-map](https://github.com/xgladius/wiz-packet-map) - Wizard101 tool that dynamically dumps packet data and decrypts packets to and from the server that use aes-gcm encryption
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
-- [OpenFusionProject/Client](https://github.com/OpenFusionProject/Client) - Electron app to easily connect to FusionFall servers
+- [OpenFusionProject/OpenFusionClient](https://github.com/OpenFusionProject/OpenFusionClient) - Electron app to easily connect to FusionFall servers
 - [Eperty123/OpenFusion-Web-API](https://github.com/Eperty123/OpenFusion-Web-API) - A web API for Open Fusion (Fusionfall)
 - [kamilprzyb/OpenFusionCrateTool](https://github.com/kamilprzyb/OpenFusionCrateTool) - Simple tool for modifying mob drops and crates data for OpenFusion
 - [OpenFusionProject/OpenFusionMap](https://github.com/OpenFusionProject/OpenFusionMap) - Web-based player visualizer for OpenFusion.
