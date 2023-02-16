@@ -237,7 +237,6 @@
 ## JavaScript 
 
 - [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
-- [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
 - [d4c5d1e0/hcaptcha](https://github.com/d4c5d1e0/hcaptcha) - hCaptcha fingerprinting script analysis
@@ -289,6 +288,7 @@
 
 ## Makefile 
 
+- [RetroGFX/UnofficialOS](https://github.com/RetroGFX/UnofficialOS) - Home of the uOS Linux distribution.
 - [SunResearchInstitute/SwitchPresence-Rewritten](https://github.com/SunResearchInstitute/SwitchPresence-Rewritten) - Nintendo Switch sysmodule server for PresenceClient!
 
 ## Markdown 
@@ -509,6 +509,7 @@
 
 ## TypeScript 
 
+- [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
