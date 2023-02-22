@@ -236,6 +236,7 @@
 
 ## JavaScript 
 
+- [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
