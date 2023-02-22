@@ -506,6 +506,7 @@
 
 ## others 
 
+- [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [FanaticalWarlock/RealmIsFree](https://github.com/FanaticalWarlock/RealmIsFree) - 
 - [RetroGFX/UnofficialOS](https://github.com/RetroGFX/UnofficialOS) - Home of the uOS Linux distribution.
 - [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
