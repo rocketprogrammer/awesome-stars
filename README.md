@@ -307,6 +307,7 @@
 
 ## Others 
 
+- [MrCoolAndroid/Xbox-Rich-Presence-Discord](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord) - Xbox Rich Presence for your Discord status! Join our Discord: https://discord.gg/y22ujrB5e2
 - [FanaticalWarlock/RealmIsFree](https://github.com/FanaticalWarlock/RealmIsFree) - 
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [proxidize/4g-proxy](https://github.com/proxidize/4g-proxy) - How to create a 4G proxy from a USB modem/dongle using Proxidize free version.
