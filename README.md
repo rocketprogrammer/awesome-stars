@@ -317,7 +317,7 @@
 - [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, PocketGo, PowKiddy V90/Q90/20 and third party handheld consoles
 - [manovisible/lunarinjector](https://github.com/manovisible/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
 - [jingye-xu/jy-personal-notes](https://github.com/jingye-xu/jy-personal-notes) - This is my personal notes.
-- [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - hCaptcha Solver automated Captcha Solver bypass Ai service. Free 6000 🔥solves/month! Signup &gt; https://noCaptchaAi.com
+- [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - Captcha Solver bypass Service. hCaptcha, reCaptcha(beta) solver Chrome Extension. Free 6000/month 🔥 Signup =&gt; https://noCaptchaAi.com
 - [robertfwallis/Consistooncy](https://github.com/robertfwallis/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
 - [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
@@ -371,7 +371,7 @@
 - [magneticchen/Daijishou](https://github.com/magneticchen/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries.
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
 - [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
-- [acheong08/OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
+- [acheong08/OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - Reverse engineered Auth0 for OpenAI
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
