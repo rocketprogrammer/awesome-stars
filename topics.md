@@ -84,6 +84,7 @@
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [webapp](#webapp)
 - [windows](#windows)
 
@@ -892,6 +893,11 @@
 
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+## vuejs 
+
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 
 ## webapp 
 
