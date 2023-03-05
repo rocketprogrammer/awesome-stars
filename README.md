@@ -127,7 +127,6 @@
 
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer) - kernel mode spoofer disk and smbios, socket communication
-- [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [Tugcga/SmartFox-Python-Communicator](https://github.com/Tugcga/SmartFox-Python-Communicator) - Minimal Python bindigs for SmartFox server c++ API
@@ -242,6 +241,7 @@
 - [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
+- [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
 - [d4c5d1e0/hcaptcha](https://github.com/d4c5d1e0/hcaptcha) - hCaptcha fingerprinting script analysis
 - [Hammad69275/NoCaptchaSolver](https://github.com/Hammad69275/NoCaptchaSolver) - Solve HCaptcha Challenges With The Power Of NoCaptchaAI
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -368,7 +368,6 @@
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
-- [2xmonth/hCaptcha-Solvers](https://github.com/2xmonth/hCaptcha-Solvers) - My hCaptcha solver + dataset creator using stable diffusion
 - [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [magneticchen/Daijishou](https://github.com/magneticchen/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries.
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
