@@ -364,6 +364,7 @@
 
 ## Python 
 
+- [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
 - [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
