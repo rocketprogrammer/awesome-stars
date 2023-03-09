@@ -519,6 +519,7 @@
 
 ## others 
 
+- [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
 - [HailStorm32/LU-Player-Tracker-Code](https://github.com/HailStorm32/LU-Player-Tracker-Code) - 
 - [SvenGDK/XboxMediaUSB](https://github.com/SvenGDK/XboxMediaUSB) - Creates a new drive for Xbox consoles or adds missing permissions.
