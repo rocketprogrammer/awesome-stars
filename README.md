@@ -200,6 +200,7 @@
 
 ## HTML 
 
+- [WorldOfCarsRE/media](https://github.com/WorldOfCarsRE/media) - Full media dump
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
 - [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
