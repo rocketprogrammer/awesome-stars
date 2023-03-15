@@ -167,6 +167,7 @@
 
 ## CSS 
 
+- [WorldOfCarsRE/woc-site](https://github.com/WorldOfCarsRE/woc-site) - Website data for The World of Cars Online
 - [tborychowski/elastic-dark](https://github.com/tborychowski/elastic-dark) - Roundcube Skin
 - [snappycreeper/OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 - [Courvix-Network/Courvix-Dark](https://github.com/Courvix-Network/Courvix-Dark) - Dark theme for Roundcube as used by Courvix Mail
@@ -241,6 +242,9 @@
 
 ## JavaScript 
 
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [WorldOfCarsRE/woc-media](https://github.com/WorldOfCarsRE/woc-media) - Media files of Disney-Pixar's World of Cars Online
+- [WorldOfCarsRE/woc-api](https://github.com/WorldOfCarsRE/woc-api) - Web API for The World of Cars Online
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
@@ -368,6 +372,7 @@
 
 ## Python 
 
+- [WorldOfCarsRE/woc-otp](https://github.com/WorldOfCarsRE/woc-otp) - Temporary OTP until otp.js is ready
 - [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
 - [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
