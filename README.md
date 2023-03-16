@@ -242,6 +242,7 @@
 
 ## JavaScript 
 
+- [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [WorldOfCarsRE/woc-media](https://github.com/WorldOfCarsRE/woc-media) - Media files of Disney-Pixar's World of Cars Online
 - [WorldOfCarsRE/woc-api](https://github.com/WorldOfCarsRE/woc-api) - Web API for The World of Cars Online
