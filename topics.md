@@ -99,6 +99,7 @@
 
 ## android 
 
+- [felikcat/unlimited-hotspot](https://github.com/felikcat/unlimited-hotspot) - Unlimit/un-throttle/un-restrict/bypass the tethering/hotspot classification for Android and devices connected to it
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [magneticchen/Daijishou](https://github.com/magneticchen/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
@@ -492,6 +493,7 @@
 
 ## mobile 
 
+- [felikcat/unlimited-hotspot](https://github.com/felikcat/unlimited-hotspot) - Unlimit/un-throttle/un-restrict/bypass the tethering/hotspot classification for Android and devices connected to it
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 
 ## mongodb 
