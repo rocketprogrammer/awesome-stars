@@ -125,6 +125,7 @@
 
 ## C++ 
 
+- [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer) - kernel mode spoofer disk and smbios, socket communication
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
@@ -223,6 +224,7 @@
 
 ## Java 
 
+- [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
