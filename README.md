@@ -454,7 +454,7 @@
 - [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
 - [lcdr/luserver](https://github.com/lcdr/luserver) - Python LU server emulator, previously used in lcdr Universe.
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
-- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
+- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [StarrFox/wizwalker](https://github.com/StarrFox/wizwalker) - Wizard101 scripting api
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [thwackertoon/team-ct-toontown-house](https://github.com/thwackertoon/team-ct-toontown-house) - Team CT build of Toontown House dated 03-07-2014, known as the first community-source project.
