@@ -503,7 +503,6 @@
 
 ## Shell 
 
-- [felikcat/unlimited-hotspot](https://github.com/felikcat/unlimited-hotspot) - Unlimit/un-throttle/un-restrict/bypass the tethering/hotspot classification for Android and devices connected to it
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
