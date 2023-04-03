@@ -125,7 +125,7 @@
 
 ## automation 
 
-- [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - Captcha Solver bypass Service. hCaptcha, reCaptcha(beta) solver Chrome Extension. Free 6000/month 🔥 Signup =&gt; https://noCaptchaAi.com
+- [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - Captcha Solver - hCaptcha, reCaptcha v2 Image and Audio, OCR Captcha. Chrome Extension. Free 6000/month 🔥 Signup =&gt; https://noCaptchaAi.com
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [StarrFox/wizwalker](https://github.com/StarrFox/wizwalker) - Wizard101 scripting api
@@ -153,7 +153,7 @@
 
 - [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
-- [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - Captcha Solver bypass Service. hCaptcha, reCaptcha(beta) solver Chrome Extension. Free 6000/month 🔥 Signup =&gt; https://noCaptchaAi.com
+- [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - Captcha Solver - hCaptcha, reCaptcha v2 Image and Audio, OCR Captcha. Chrome Extension. Free 6000/month 🔥 Signup =&gt; https://noCaptchaAi.com
 - [forscht/ddrive](https://github.com/forscht/ddrive) - A lightweight cloud storage system using discord as storage device written in nodejs
 - [StarrFox/wizwalker](https://github.com/StarrFox/wizwalker) - Wizard101 scripting api
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
