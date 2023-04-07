@@ -166,6 +166,7 @@
 ## chatgpt 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
 ## chrome-extension 
@@ -581,7 +582,6 @@
 - [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
 - [acheong08/OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - Reverse engineered Auth0 for OpenAI
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [tborychowski/elastic-dark](https://github.com/tborychowski/elastic-dark) - Roundcube Skin
 - [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, PocketGo, PowKiddy V90-Q90-Q20 and third party handheld consoles
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers
