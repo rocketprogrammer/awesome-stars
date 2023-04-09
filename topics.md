@@ -24,6 +24,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [deno](#deno)
 - [deployment](#deployment)
 - [discord](#discord)
 - [docker](#docker)
@@ -205,6 +206,10 @@
 - [UchuServer/Uchu](https://github.com/UchuServer/Uchu) - LEGO Universe server written in C#
 
 ## css 
+
+- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
+
+## deno 
 
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 
@@ -556,6 +561,8 @@
 
 ## others 
 
+- [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
