@@ -12,6 +12,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Crystal](#crystal)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -87,6 +88,7 @@
 
 ## C# # 
 
+- [FeroxFoxxo/MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) - An open source reimplementation & emulation of the backend for MQ's servers, written from scratch without included intellectual property from the original game.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [mnickw/CycleTLS-dotnet](https://github.com/mnickw/CycleTLS-dotnet) - .NET client for https://github.com/Danny-Dasilva/CycleTLS to spoof TLS/JA3 fingerprints
 - [Collective-Software/ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click.
@@ -174,6 +176,10 @@
 - [tborychowski/elastic-dark](https://github.com/tborychowski/elastic-dark) - Roundcube Skin
 - [snappycreeper/OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 - [Courvix-Network/Courvix-Dark](https://github.com/Courvix-Network/Courvix-Dark) - Dark theme for Roundcube as used by Courvix Mail
+
+## Crystal 
+
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## Cython 
 
