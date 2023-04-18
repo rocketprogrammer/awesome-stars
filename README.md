@@ -333,6 +333,7 @@
 
 ## Others 
 
+- [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
 - [MrCoolAndroid/Xbox-Rich-Presence-Discord](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord) - Xbox Rich Presence for your Discord status! Join our Discord: https://discord.gg/y22ujrB5e2
 - [FanaticalWarlock/RealmIsFree](https://github.com/FanaticalWarlock/RealmIsFree) - 
@@ -395,7 +396,7 @@
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
 - [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
-- [magneticchen/Daijishou](https://github.com/magneticchen/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
+- [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
 - [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare v2 challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
