@@ -106,7 +106,7 @@
 
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
-- [magneticchen/Daijishou](https://github.com/magneticchen/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
+- [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
@@ -578,6 +578,7 @@
 
 ## others 
 
+- [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
