@@ -482,6 +482,7 @@
 
 ## linux 
 
+- [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -990,6 +991,7 @@
 
 ## windows 
 
+- [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
