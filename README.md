@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: Custom, open-source qlaunch (Nintendo Switch HOME menu) replacement/reimplementation
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer) - kernel mode spoofer disk and smbios, socket communication
@@ -389,6 +390,7 @@
 
 ## Python 
 
+- [solero/tusk](https://github.com/solero/tusk) - Card Jitsu Snow game server
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [WorldOfCarsRE/woc-otp](https://github.com/WorldOfCarsRE/woc-otp) - Temporary OTP until otp.js is ready
 - [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
