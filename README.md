@@ -173,7 +173,6 @@
 
 ## CSS 
 
-- [WorldOfCarsRE/woc-site](https://github.com/WorldOfCarsRE/woc-site) - Website data for The World of Cars Online
 - [tborychowski/elastic-dark](https://github.com/tborychowski/elastic-dark) - Roundcube Skin
 - [snappycreeper/OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 - [Courvix-Network/Courvix-Dark](https://github.com/Courvix-Network/Courvix-Dark) - Dark theme for Roundcube as used by Courvix Mail
@@ -258,6 +257,7 @@
 
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [WorldOfCarsRE/woc-site](https://github.com/WorldOfCarsRE/woc-site) - Website data for The World of Cars Online
 - [WorldOfCarsRE/woc-media](https://github.com/WorldOfCarsRE/woc-media) - Media files of Disney-Pixar's World of Cars Online
 - [WorldOfCarsRE/woc-api](https://github.com/WorldOfCarsRE/woc-api) - Web API for The World of Cars Online
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -390,6 +390,7 @@
 
 ## Python 
 
+- [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [solero/tusk](https://github.com/solero/tusk) - Card Jitsu Snow game server
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [WorldOfCarsRE/woc-otp](https://github.com/WorldOfCarsRE/woc-otp) - Temporary OTP until otp.js is ready
