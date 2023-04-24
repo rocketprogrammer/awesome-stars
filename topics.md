@@ -581,6 +581,7 @@
 
 ## others 
 
+- [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
 - [solero/tusk](https://github.com/solero/tusk) - Card Jitsu Snow game server
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
@@ -745,7 +746,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [elnormous/HTTPRequest](https://github.com/elnormous/HTTPRequest) - Single-header C++ HTTP request class
 - [DarkflameUniverse/DarkflameRPC](https://github.com/DarkflameUniverse/DarkflameRPC) - Darkflame Universe Discord RPC
-- [TechPerplexed/Gooby](https://github.com/TechPerplexed/Gooby) - Gooby: The ultimate infinite Plex media server using a VPS and Cloud service
 - [dfletcher/docker-jellyfin-vps](https://github.com/dfletcher/docker-jellyfin-vps) - 
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
 - [jwasham/docker-nuke](https://github.com/jwasham/docker-nuke) - Removes all docker containers, images, and volumes.
