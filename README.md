@@ -518,6 +518,7 @@
 
 ## Shell 
 
+- [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
@@ -531,7 +532,6 @@
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
-- [TechPerplexed/Gooby](https://github.com/TechPerplexed/Gooby) - Gooby: The ultimate infinite Plex media server using a VPS and Cloud service
 - [dfletcher/docker-jellyfin-vps](https://github.com/dfletcher/docker-jellyfin-vps) - 
 - [jwasham/docker-nuke](https://github.com/jwasham/docker-nuke) - Removes all docker containers, images, and volumes.
 - [Toontown-Texture-Restoration/Toontown-Texture-Restoration](https://github.com/Toontown-Texture-Restoration/Toontown-Texture-Restoration) - 
