@@ -869,7 +869,7 @@
 ## python3 
 
 - [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare v2 challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
-- [AndreiDrang/python3-captchaai](https://github.com/AndreiDrang/python3-captchaai) - Python library for CaptchaAI
+- [AndreiDrang/python3-capsolver](https://github.com/AndreiDrang/python3-capsolver) - Python library for Capsolver
 - [ImNimboss/uberduck](https://github.com/ImNimboss/uberduck) - A synchronous and asynchronous API wrapper for the UberDuck text-to-speech service (https://uberduck.ai) with 100% coverage and top-notch utilities.
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
