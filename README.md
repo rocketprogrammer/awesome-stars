@@ -272,7 +272,7 @@
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
 - [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
-- [forscht/ddrive](https://github.com/forscht/ddrive) - A lightweight cloud storage system using discord as storage device written in nodejs
+- [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
@@ -473,7 +473,7 @@
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [thwackertoon/team-ct-toontown-house](https://github.com/thwackertoon/team-ct-toontown-house) - Team CT build of Toontown House dated 03-07-2014, known as the first community-source project.
 - [mongodb/motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
-- [zackelia/ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
+- [zackelia/ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra
 - [loonaticx/Housekeeper](https://github.com/loonaticx/Housekeeper) - "Housekeeps" Toontown resources
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [StarrFox/wizki](https://github.com/StarrFox/wizki) - python library for various ki systems
