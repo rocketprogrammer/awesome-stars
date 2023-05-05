@@ -582,6 +582,9 @@
 
 ## others 
 
+- [ps2homebrew/Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
+- [israpps/Funtuna-Fork](https://github.com/israpps/Funtuna-Fork) - a homebrew ps2 app launcher for FMCB-incompatible ps2 units
+- [CTurt/FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) - PlayStation 2 DVD Player Exploit
 - [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
 - [solero/tusk](https://github.com/solero/tusk) - Card Jitsu Snow game server
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
