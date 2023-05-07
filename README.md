@@ -269,7 +269,7 @@
 - [silexlabs/amfphp-2.0](https://github.com/silexlabs/amfphp-2.0) - Simple Remoting for Web Applications
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
-- [Sqaaakoi/noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
+- [Sqaaakoi/legacy-noptcha-patch-archived](https://github.com/Sqaaakoi/legacy-noptcha-patch-archived) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -550,7 +550,7 @@
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
 - [noCaptchaAi/nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) - Puppeteer package for NoCaptchaAI (hCaptcha solver) ⚡️
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) - A tool to convert .obj files into Minecraft Schematics
+- [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) - A tool to convert 3D models into Minecraft formats such as .schematic, .litematic, .schem and .nbt
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
