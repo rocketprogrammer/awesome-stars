@@ -678,7 +678,7 @@
 - [BartGunshot/potco-blender-tools](https://github.com/BartGunshot/potco-blender-tools) - Blender addon adding various tools for working with POTCO models
 - [rdb/blender-egg-importer](https://github.com/rdb/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
 - [no127nowand4ever/dummywsus](https://github.com/no127nowand4ever/dummywsus) - Dummy WSUS - A simple implementation of WSUS server in PHP
-- [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Minecraft Server Scanner
+- [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Toy Minecraft Server Scanner
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
 - [exploit3dguy/ipwndfu](https://github.com/exploit3dguy/ipwndfu) - My fork of ipwndfu
 - [NealSpellman/NexusHQ](https://github.com/NealSpellman/NexusHQ) - An open-source tool to visualize many of LEGO Universe's drop tables, made with Unity.
