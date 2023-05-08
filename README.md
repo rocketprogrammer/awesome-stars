@@ -244,7 +244,7 @@
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [End-Tech/syncmatica](https://github.com/End-Tech/syncmatica) - Server-wide shared litematics.
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
-- [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Minecraft Server Scanner
+- [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Toy Minecraft Server Scanner
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [AllinolCP/CPI-SFS2X-Extension](https://github.com/AllinolCP/CPI-SFS2X-Extension) - CPI SFS2X Extension never finished
