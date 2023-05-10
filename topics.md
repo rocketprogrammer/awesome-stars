@@ -582,6 +582,8 @@
 
 ## others 
 
+- [ali-raheem/esrtool](https://github.com/ali-raheem/esrtool) - Port of the PS2 Homebrew ESRtool to Rust and modern platforms.
+- [MechaResearch/MechaPwn](https://github.com/MechaResearch/MechaPwn) - 
 - [ps2homebrew/Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
 - [israpps/Funtuna-Fork](https://github.com/israpps/Funtuna-Fork) - a homebrew ps2 app launcher for FMCB-incompatible ps2 units
 - [CTurt/FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) - PlayStation 2 DVD Player Exploit
