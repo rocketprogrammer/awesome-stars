@@ -56,6 +56,7 @@
 
 ## C 
 
+- [MechaResearch/MechaPwn](https://github.com/MechaResearch/MechaPwn) - 
 - [ps2homebrew/Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
 - [israpps/Funtuna-Fork](https://github.com/israpps/Funtuna-Fork) - a homebrew ps2 app launcher for FMCB-incompatible ps2 units
 - [CTurt/FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) - PlayStation 2 DVD Player Exploit
@@ -507,6 +508,7 @@
 
 ## Rust 
 
+- [ali-raheem/esrtool](https://github.com/ali-raheem/esrtool) - Port of the PS2 Homebrew ESRtool to Rust and modern platforms.
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
 - [Among-Suss/mimicri](https://github.com/Among-Suss/mimicri) - A small, performant, feature-rich Discord music bot written in Rust
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
