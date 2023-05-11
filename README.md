@@ -262,7 +262,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
-- [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨ (Now with Updates!)
+- [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
 - [d4c5d1e0/hcaptcha](https://github.com/d4c5d1e0/hcaptcha) - hCaptcha fingerprinting script analysis
 - [Hammad69275/NoCaptchaSolver](https://github.com/Hammad69275/NoCaptchaSolver) - Solve HCaptcha Challenges With The Power Of NoCaptchaAI
