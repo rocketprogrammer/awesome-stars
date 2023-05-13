@@ -11,8 +11,6 @@
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
-- [awesome](#awesome)
-- [awesome-list](#awesome-list)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -135,14 +133,6 @@
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [StarrFox/wizwalker](https://github.com/StarrFox/wizwalker) - Wizard101 scripting api
 
-## awesome 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
-## awesome-list 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
 ## bash 
 
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
@@ -245,7 +235,7 @@
 - [colinhartigan/valorant-rpc](https://github.com/colinhartigan/valorant-rpc) - Feature-rich Discord rich-presence implementation for VALORANT
 - [ntpopgetdope/ida-rpc](https://github.com/ntpopgetdope/ida-rpc) - Discord rich presence plugin for IDA Pro 7.0
 - [Aethese/Switchence](https://github.com/Aethese/Switchence) - Simple Nintendo Switch rich presence app for discord.
-- [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink) - Standalone audio sending node based on Lavaplayer.
+- [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
@@ -266,7 +256,7 @@
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 - [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 - [madduci/docker-msvc-cpp](https://github.com/madduci/docker-msvc-cpp) - Dockerized Visual C++ environment with wine
-- [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink) - Standalone audio sending node based on Lavaplayer.
+- [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
@@ -386,7 +376,7 @@
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [jellyfin/jellyfin-plugin-webhook](https://github.com/jellyfin/jellyfin-plugin-webhook) - 
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink) - Standalone audio sending node based on Lavaplayer.
+- [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
@@ -947,7 +937,7 @@
 
 ## spring-boot 
 
-- [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink) - Standalone audio sending node based on Lavaplayer.
+- [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 
 ## swift 
 
