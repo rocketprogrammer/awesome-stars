@@ -109,7 +109,7 @@
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
-- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
 
 ## ansible 
@@ -426,7 +426,7 @@
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
