@@ -67,7 +67,7 @@
 - [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
 - [josephl70/DPAKToolset](https://github.com/josephl70/DPAKToolset) - Extracts and Packages DPAKs as well as XMCs
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4.1 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [misterupkeep/libsoerudp](https://github.com/misterupkeep/libsoerudp) - An implementation of Sony Online Entertainment's Reliable UDP (layer 7) protocol
