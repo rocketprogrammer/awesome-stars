@@ -391,6 +391,7 @@
 
 ## Python 
 
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [solero/tusk](https://github.com/solero/tusk) - Card Jitsu Snow game server
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
