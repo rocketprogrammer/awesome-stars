@@ -651,7 +651,6 @@
 - [kokiez/hcaptcha-solver](https://github.com/kokiez/hcaptcha-solver) - Sovles hcaptcha and gets captcha key by sending requests.
 - [d4c5d1e0/hcaptcha](https://github.com/d4c5d1e0/hcaptcha) - hCaptcha fingerprinting script analysis
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
-- [AdminAnticaptcha/anticaptcha-python](https://github.com/AdminAnticaptcha/anticaptcha-python) - Anti Captcha API for Python 3. Solve captcha, Recaptcha, Hcaptcha, etc automatically.
 - [jingye-xu/jy-personal-notes](https://github.com/jingye-xu/jy-personal-notes) - This is my personal notes.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
 - [noCaptchaAi/noCaptcha-py](https://github.com/noCaptchaAi/noCaptcha-py) - :zap: hcaptcha, reCaptcha soolver pypi module
