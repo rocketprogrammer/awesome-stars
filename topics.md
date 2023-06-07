@@ -588,6 +588,8 @@
 
 ## others 
 
+- [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art asset from within gaming mode.
+- [steve228uk/TunnelDeck](https://github.com/steve228uk/TunnelDeck) - A Decky Plugin for Steam Deck to Access Wireguard and OpenVPN Connections From Gaming Mode
 - [ali-raheem/esrtool](https://github.com/ali-raheem/esrtool) - Port of the PS2 Homebrew ESRtool to Rust and modern platforms.
 - [MechaResearch/MechaPwn](https://github.com/MechaResearch/MechaPwn) - 
 - [ps2homebrew/Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
@@ -842,6 +844,7 @@
 
 ## python 
 
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
