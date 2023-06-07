@@ -392,6 +392,7 @@
 
 ## Python 
 
+- [steve228uk/TunnelDeck](https://github.com/steve228uk/TunnelDeck) - A Decky Plugin for Steam Deck to Access Wireguard and OpenVPN Connections From Gaming Mode
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [solero/tusk](https://github.com/solero/tusk) - Card Jitsu Snow game server
@@ -547,6 +548,8 @@
 
 ## TypeScript 
 
+- [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art asset from within gaming mode.
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
