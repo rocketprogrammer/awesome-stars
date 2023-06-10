@@ -133,6 +133,8 @@
 
 ## C++ 
 
+- [LittleToonCat/dcparser](https://github.com/LittleToonCat/dcparser) - Emscripten bindings for Panda3D's DC file reader and packer.
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: Custom, open-source qlaunch (Nintendo Switch HOME menu) replacement/reimplementation
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
@@ -183,6 +185,7 @@
 
 ## Crystal 
 
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## Cython 
@@ -524,7 +527,6 @@
 
 - [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers
-- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
 - [npjohnson/sabrina-unlock](https://github.com/npjohnson/sabrina-unlock) - 
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
