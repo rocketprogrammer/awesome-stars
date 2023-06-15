@@ -567,6 +567,7 @@
 
 ## nodejs 
 
+- [foxifyjs/net](https://github.com/foxifyjs/net) - Low level TCP library for Node.js
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
