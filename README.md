@@ -87,7 +87,7 @@
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [rocketprogrammer/disney-miles](https://github.com/rocketprogrammer/disney-miles) - Disney's original Miles audio library.
 - [xgladius/wiz-packet-map](https://github.com/xgladius/wiz-packet-map) - Wizard101 tool that dynamically dumps packet data and decrypts packets to and from the server that use aes-gcm encryption
-- [KuromeSan/eCDP-Serial-Code](https://github.com/KuromeSan/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
+- [LiEnby/eCDP-Serial-Code](https://github.com/LiEnby/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
 - [SimonNitzsche/OpCrux-Server](https://github.com/SimonNitzsche/OpCrux-Server) - Discord: https://discord.opcrux.org/
 
 ## C# # 
