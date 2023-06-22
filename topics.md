@@ -811,7 +811,7 @@
 - [Eperty123/OpenFusion-Web-API](https://github.com/Eperty123/OpenFusion-Web-API) - A web API for Open Fusion (Fusionfall)
 - [kamilprzyb/OpenFusionCrateTool](https://github.com/kamilprzyb/OpenFusionCrateTool) - Simple tool for modifying mob drops and crates data for OpenFusion
 - [OpenFusionProject/OpenFusionMap](https://github.com/OpenFusionProject/OpenFusionMap) - Web-based player visualizer for OpenFusion.
-- [KuromeSan/eCDP-Serial-Code](https://github.com/KuromeSan/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
+- [LiEnby/eCDP-Serial-Code](https://github.com/LiEnby/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
 - [OpenFusionProject/tabledata](https://github.com/OpenFusionProject/tabledata) - Dumped tabledata from the OG FusionFall clients
 - [chandler14362/DcSharp](https://github.com/chandler14362/DcSharp) - 
 - [Eperty123/OpenFusion-Launcher](https://github.com/Eperty123/OpenFusion-Launcher) - A launcher for OpenFusion client.
