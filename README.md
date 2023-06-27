@@ -59,7 +59,7 @@
 
 - [MechaResearch/MechaPwn](https://github.com/MechaResearch/MechaPwn) - 
 - [ps2homebrew/Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
-- [israpps/Funtuna-Fork](https://github.com/israpps/Funtuna-Fork) - a homebrew ps2 app launcher for FMCB-incompatible ps2 units
+- [israpps/Funtuna-Fork](https://github.com/israpps/Funtuna-Fork) - old FreeMcBoot package for ps2 models incompatible with system updates
 - [CTurt/FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) - PlayStation 2 DVD Player Exploit
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
 - [HailStorm32/LU-Player-Tracker-Code](https://github.com/HailStorm32/LU-Player-Tracker-Code) - 
