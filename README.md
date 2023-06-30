@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Crystal](#crystal)
 - [Cython](#cython)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
@@ -195,6 +196,10 @@
 
 - [Open-OTP/amfpack](https://github.com/Open-OTP/amfpack) - 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+
+## Emacs Lisp 
+
+- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Go 
 
