@@ -32,6 +32,7 @@
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [electron](#electron)
+- [emacs](#emacs)
 - [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
@@ -96,6 +97,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vagrant](#vagrant)
+- [vim](#vim)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [webapp](#webapp)
@@ -292,6 +294,10 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨
 - [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) - A tool to convert 3D models into Minecraft formats such as .schematic, .litematic, .schem and .nbt
+
+## emacs 
+
+- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## emulator 
 
@@ -1016,6 +1022,10 @@
 ## vagrant 
 
 - [paleozogt/MSVCDocker](https://github.com/paleozogt/MSVCDocker) - MSVC via Wine in Docker
+
+## vim 
+
+- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## vue 
 
