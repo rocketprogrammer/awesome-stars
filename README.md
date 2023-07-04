@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Crystal](#crystal)
 - [Cython](#cython)
+- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -196,6 +197,10 @@
 
 - [Open-OTP/amfpack](https://github.com/Open-OTP/amfpack) - 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+
+## Dart 
+
+- [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
 
 ## Emacs Lisp 
 
