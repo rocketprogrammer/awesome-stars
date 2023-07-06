@@ -1017,6 +1017,7 @@
 
 ## ubuntu 
 
+- [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [frederic/sabrina-custom-os](https://github.com/frederic/sabrina-custom-os) - Resources to boot Ubuntu on Chromecast with Google TV
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
