@@ -388,7 +388,7 @@
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -443,7 +443,7 @@
 ## ios 
 
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -611,6 +611,7 @@
 
 ## others 
 
+- [vbe0201/wizproxy](https://github.com/vbe0201/wizproxy) - Proxy to circumvent Wizard101 packet encryption
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [dafta/DeckMTP](https://github.com/dafta/DeckMTP) - A DeckyLoader plugin for enabling MTP transfer over USB
 - [LittleToonCat/dcparser](https://github.com/LittleToonCat/dcparser) - Emscripten bindings for Panda3D's DC file reader and packer.
@@ -720,7 +721,7 @@
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [misterupkeep/libsoerudp](https://github.com/misterupkeep/libsoerudp) - An implementation of Sony Online Entertainment's Reliable UDP (layer 7) protocol
 - [npjohnson/sabrina-unlock](https://github.com/npjohnson/sabrina-unlock) - 
-- [willf668/bezos-presence](https://github.com/willf668/bezos-presence) - Discord Integration for Amazon Music
+- [wakeupingear/bezos-presence](https://github.com/wakeupingear/bezos-presence) - Discord Integration for Amazon Music
 - [eerimoq/asyncudp](https://github.com/eerimoq/asyncudp) - Asyncio high level UDP sockets.
 - [HakanL/PcapngUtils](https://github.com/HakanL/PcapngUtils) - C# full managed implementation Pcap/PcapNG file format
 - [Joshsora/LibSOE](https://github.com/Joshsora/LibSOE) - A reverse engineering of Sony Online Entertainment's (or as it's now known as, Daybreak Games) ForgeLight networking library written in C#. (Specifically for traffic from Free Realms)
