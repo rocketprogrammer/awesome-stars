@@ -208,6 +208,7 @@
 
 ## Go 
 
+- [cedws/ki-keyring](https://github.com/cedws/ki-keyring) - Utility for ejecting/injecting sets of obfuscated public keys from/into WizardGraphicalClient binaries
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [JustTalDevelops/go-hcaptcha](https://github.com/JustTalDevelops/go-hcaptcha) - A Go library for solving hCaptchas with any image recognition API.
 - [Matthew17-21/Captcha-Tools](https://github.com/Matthew17-21/Captcha-Tools) - All-in-one Python (And now Go!) module to help solve captchas with Capmonster, 2captcha, Anticaptcha, and Capsolver API's!
