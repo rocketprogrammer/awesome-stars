@@ -152,6 +152,7 @@
 
 ## bash 
 
+- [L1so/benchy](https://github.com/L1so/benchy) - POSIX Compliant script to bench your server.
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
@@ -509,6 +510,7 @@
 
 ## linux 
 
+- [L1so/benchy](https://github.com/L1so/benchy) - POSIX Compliant script to bench your server.
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -979,6 +981,7 @@
 
 ## server 
 
+- [L1so/benchy](https://github.com/L1so/benchy) - POSIX Compliant script to bench your server.
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
 - [py-mine/PyMine-Server](https://github.com/py-mine/PyMine-Server) - A fast and easy to use, moddable, Python based Minecraft server!
 - [barneygale/quarry](https://github.com/barneygale/quarry) - Python library that implements the Minecraft network protocol and data types
@@ -987,6 +990,7 @@
 
 ## shell 
 
+- [L1so/benchy](https://github.com/L1so/benchy) - POSIX Compliant script to bench your server.
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
