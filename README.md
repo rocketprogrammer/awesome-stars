@@ -273,6 +273,7 @@
 
 ## JavaScript 
 
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [WorldOfCarsRE/woc-media](https://github.com/WorldOfCarsRE/woc-media) - Media files of Disney-Pixar's World of Cars Online
@@ -568,6 +569,7 @@
 
 ## TypeScript 
 
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [dafta/DeckMTP](https://github.com/dafta/DeckMTP) - A DeckyLoader plugin for enabling MTP transfer over USB
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art asset from within gaming mode.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
