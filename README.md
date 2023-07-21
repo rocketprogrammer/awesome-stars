@@ -137,7 +137,7 @@
 ## C++ 
 
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [LittleToonCat/dcparser](https://github.com/LittleToonCat/dcparser) - Emscripten bindings for Panda3D's DC file reader and packer.
+- [LittleToonCat/dcparser-wasm](https://github.com/LittleToonCat/dcparser-wasm) - Emscripten bindings for Panda3D's DC file reader and packer.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: Custom, open-source qlaunch (Nintendo Switch HOME menu) replacement/reimplementation
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
