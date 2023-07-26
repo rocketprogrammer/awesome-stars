@@ -382,6 +382,7 @@
 
 ## hacktoberfest 
 
+- [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -695,7 +696,7 @@
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [Tugcga/SmartFox-Python-Communicator](https://github.com/Tugcga/SmartFox-Python-Communicator) - Minimal Python bindigs for SmartFox server c++ API
 - [silexlabs/amfphp-2.0](https://github.com/silexlabs/amfphp-2.0) - Simple Remoting for Web Applications
-- [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
+- [uchks/repo.me](https://github.com/uchks/repo.me) - a modern apt repository template built by the community
 - [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate) - Guaranteed compile-time string literal obfuscation header-only library for C++14
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
@@ -1064,6 +1065,7 @@
 
 ## windows 
 
+- [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
