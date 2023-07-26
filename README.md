@@ -94,6 +94,7 @@
 
 ## C# # 
 
+- [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
 - [FeroxFoxxo/MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) - An open source reimplementation & emulation of the backend for MQ's servers, written from scratch without included intellectual property from the original game.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
@@ -237,7 +238,7 @@
 - [WorldOfCarsRE/media](https://github.com/WorldOfCarsRE/media) - Full media dump
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
-- [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
+- [uchks/repo.me](https://github.com/uchks/repo.me) - a modern apt repository template built by the community
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
