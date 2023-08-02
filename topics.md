@@ -616,6 +616,7 @@
 
 ## others 
 
+- [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download youtube videos and audios by title/id/url
 - [LittleToonCat/dcparser-go](https://github.com/LittleToonCat/dcparser-go) - Panda3D's DC file reader and packer bindings for Go.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [vbe0201/wizproxy](https://github.com/vbe0201/wizproxy) - Proxy to circumvent Wizard101 packet encryption
