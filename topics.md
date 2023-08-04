@@ -798,7 +798,7 @@
 - [thwackertoon/team-ct-toontown-house](https://github.com/thwackertoon/team-ct-toontown-house) - Team CT build of Toontown House dated 03-07-2014, known as the first community-source project.
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [gabefraser/ttoffline-launcher-go](https://github.com/gabefraser/ttoffline-launcher-go) - Toontown Offline Launcher rewritten in Go
-- [toonjoey/toontown-project-bikehorn](https://github.com/toonjoey/toontown-project-bikehorn) - An extremely faithful HD textures pack for Toontown Rewritten.
+- [toonjoey/toontown-project-bikehorn](https://github.com/toonjoey/toontown-project-bikehorn) - A full remaster of Toontown using the original source textures.
 - [loonaticx/Housekeeper](https://github.com/loonaticx/Housekeeper) - "Housekeeps" Toontown resources
 - [AllinolCP/CPI-SFS2X-Extension](https://github.com/AllinolCP/CPI-SFS2X-Extension) - CPI SFS2X Extension never finished
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
