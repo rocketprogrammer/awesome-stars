@@ -622,6 +622,7 @@
 
 ## others 
 
+- [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download youtube videos and audios by title/id/url
 - [LittleToonCat/dcparser-go](https://github.com/LittleToonCat/dcparser-go) - Panda3D's DC file reader and packer bindings for Go.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
