@@ -314,6 +314,7 @@
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
+- [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## es6 
@@ -505,7 +506,7 @@
 ## laravel 
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - Convoy aims to be a scalable, reliable panel better than most solutions on the market made for selling virtual machines. It works by utilizing Proxmox's API to automatically manage/deploy virtual mach
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - Easy AdminLTE integration with Laravel
@@ -748,7 +749,6 @@
 - [mm201/pkmn-classic-framework](https://github.com/mm201/pkmn-classic-framework) - Pokémon application logic for Generation IV and V, including servers
 - [Fluvian/tpp](https://github.com/Fluvian/tpp) - The Preservation Project is a recreation of the SpaceWorld 95 demo of Super Mario 64.
 - [AmJayden/wizard101-spoofer](https://github.com/AmJayden/wizard101-spoofer) - Spoof your HWID on Wizard101 and log events and packets by name
-- [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
 - [FIX94/Nintendont](https://github.com/FIX94/Nintendont) - A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
 - [Fullmetal5/str2hax](https://github.com/Fullmetal5/str2hax) - An implementation of CVE-2009-0689 for the Nintendo Wii.
@@ -875,7 +875,7 @@
 ## php 
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - Convoy aims to be a scalable, reliable panel better than most solutions on the market made for selling virtual machines. It works by utilizing Proxmox's API to automatically manage/deploy virtual mach
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
@@ -1066,7 +1066,7 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 
 ## webapp 
 
