@@ -389,7 +389,7 @@
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - Convoy aims to be a scalable, reliable panel better than most solutions on the market made for selling virtual machines. It works by utilizing Proxmox's API to automatically manage/deploy virtual mach
 - [no127nowand4ever/dummywsus](https://github.com/no127nowand4ever/dummywsus) - Dummy WSUS - A simple implementation of WSUS server in PHP
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
