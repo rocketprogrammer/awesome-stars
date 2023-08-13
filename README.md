@@ -67,6 +67,7 @@
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
 - [HailStorm32/LU-Player-Tracker-Code](https://github.com/HailStorm32/LU-Player-Tracker-Code) - 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
 - [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
 - [josephl70/DPAKToolset](https://github.com/josephl70/DPAKToolset) - Extracts and Packages DPAKs as well as XMCs
@@ -95,6 +96,9 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin-plugin-trakt](https://github.com/jellyfin/jellyfin-plugin-trakt) - 
+- [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) - 
+- [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites.
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
 - [FeroxFoxxo/MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) - An open source reimplementation & emulation of the backend for MQ's servers, written from scratch without included intellectual property from the original game.
@@ -257,7 +261,6 @@
 
 - [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
-- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
