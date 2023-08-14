@@ -78,6 +78,7 @@
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
+- [p2p](#p2p)
 - [php](#php)
 - [python](#python)
 - [python3](#python3)
@@ -509,7 +510,7 @@
 ## laravel 
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - Convoy aims to be a scalable, reliable panel better than most solutions on the market made for selling virtual machines. It works by utilizing Proxmox's API to automatically manage/deploy virtual mach
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - Easy AdminLTE integration with Laravel
@@ -877,10 +878,14 @@
 - [peppythegod/ToontownOnline](https://github.com/peppythegod/ToontownOnline) - The python source code for Disney's now discontinued MMO, Toontown Online.
 - [cuzitsjonny/JALUS](https://github.com/cuzitsjonny/JALUS) - A PoC of a LEGO Universe server emulator; Written in C++; Discontinued
 
+## p2p 
+
+- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
+
 ## php 
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - Convoy aims to be a scalable, reliable panel better than most solutions on the market made for selling virtual machines. It works by utilizing Proxmox's API to automatically manage/deploy virtual mach
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
@@ -1071,7 +1076,7 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## webapp 
 
