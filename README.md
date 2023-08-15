@@ -68,7 +68,6 @@
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
 - [HailStorm32/LU-Player-Tracker-Code](https://github.com/HailStorm32/LU-Player-Tracker-Code) - 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
 - [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
 - [josephl70/DPAKToolset](https://github.com/josephl70/DPAKToolset) - Extracts and Packages DPAKs as well as XMCs
@@ -97,6 +96,7 @@
 
 ## C# # 
 
+- [Open-Source-Free-Realms/OpenSourceFreeRealms](https://github.com/Open-Source-Free-Realms/OpenSourceFreeRealms) - 
 - [jellyfin/jellyfin-plugin-trakt](https://github.com/jellyfin/jellyfin-plugin-trakt) - 
 - [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) - 
 - [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites.
@@ -110,7 +110,6 @@
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [darkalfx/requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
-- [cccfire/OpenRealms](https://github.com/cccfire/OpenRealms) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [NealSpellman/NexusHQ](https://github.com/NealSpellman/NexusHQ) - An open-source tool to visualize many of LEGO Universe's drop tables, made with Unity.
 - [HakanL/PcapngUtils](https://github.com/HakanL/PcapngUtils) - C# full managed implementation Pcap/PcapNG file format
@@ -137,7 +136,6 @@
 - [UchuServer/Uchu](https://github.com/UchuServer/Uchu) - LEGO Universe server written in C#
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
 - [chandler14362/DcSharp](https://github.com/chandler14362/DcSharp) - 
-- [Eperty123/OpenFusion-Launcher](https://github.com/Eperty123/OpenFusion-Launcher) - A launcher for OpenFusion client.
 - [Gericom/dspatch](https://github.com/Gericom/dspatch) - DS Download Station Patcher
 - [rocketprogrammer/TheToonTownSpoofer](https://github.com/rocketprogrammer/TheToonTownSpoofer) - Deobfuscated decompiled code for The Toontown Spoofer.
 
@@ -262,6 +260,7 @@
 
 - [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
+- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
@@ -583,6 +582,7 @@
 
 ## TypeScript 
 
+- [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [dafta/DeckMTP](https://github.com/dafta/DeckMTP) - A DeckyLoader plugin for enabling MTP transfer over USB
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art asset from within gaming mode.
