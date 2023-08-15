@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [LittleToonCat/dcparser-go](https://github.com/LittleToonCat/dcparser-go) - Panda3D's DC file reader and packer bindings for Go.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [LittleToonCat/dcparser-wasm](https://github.com/LittleToonCat/dcparser-wasm) - Emscripten bindings for Panda3D's DC file reader and packer.
@@ -361,6 +362,7 @@
 
 ## Others 
 
+- [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
 - [MrCoolAndroid/Xbox-Rich-Presence-Discord](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord) - Xbox Rich Presence for your Discord status! Join our Discord: https://discord.gg/y22ujrB5e2
@@ -607,6 +609,7 @@
 
 ## Vue 
 
+- [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [ngrie/rtmpie](https://github.com/ngrie/rtmpie) - Out-of-the-box RTMP streaming server with a clean and powerful web interface
