@@ -641,7 +641,6 @@
 
 ## others 
 
-- [rocketprogrammer/awesome-stars](https://github.com/rocketprogrammer/awesome-stars) - My GitHub repo stars
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [Open-Source-Free-Realms/OpenSourceFreeRealms](https://github.com/Open-Source-Free-Realms/OpenSourceFreeRealms) - 
