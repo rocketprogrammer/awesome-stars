@@ -69,7 +69,6 @@
 - [HailStorm32/LU-Player-Tracker-Code](https://github.com/HailStorm32/LU-Player-Tracker-Code) - 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
-- [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
 - [josephl70/DPAKToolset](https://github.com/josephl70/DPAKToolset) - Extracts and Packages DPAKs as well as XMCs
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
@@ -136,7 +135,6 @@
 - [atauenis/webone](https://github.com/atauenis/webone) - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.
 - [UchuServer/Uchu](https://github.com/UchuServer/Uchu) - LEGO Universe server written in C#
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
-- [chandler14362/DcSharp](https://github.com/chandler14362/DcSharp) - 
 - [Gericom/dspatch](https://github.com/Gericom/dspatch) - DS Download Station Patcher
 - [rocketprogrammer/TheToonTownSpoofer](https://github.com/rocketprogrammer/TheToonTownSpoofer) - Deobfuscated decompiled code for The Toontown Spoofer.
 
@@ -281,6 +279,7 @@
 
 ## JavaScript 
 
+- [Sqaaakoi/legacy-noptcha-patch-archived](https://github.com/Sqaaakoi/legacy-noptcha-patch-archived) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -297,7 +296,6 @@
 - [silexlabs/amfphp-2.0](https://github.com/silexlabs/amfphp-2.0) - Simple Remoting for Web Applications
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
-- [Sqaaakoi/legacy-noptcha-patch-archived](https://github.com/Sqaaakoi/legacy-noptcha-patch-archived) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -363,6 +361,7 @@
 
 ## Others 
 
+- [rocketprogrammer/awesome-stars](https://github.com/rocketprogrammer/awesome-stars) - My GitHub repo stars
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
