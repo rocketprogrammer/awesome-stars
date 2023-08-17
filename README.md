@@ -422,6 +422,7 @@
 
 ## Python 
 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download youtube videos and audios by title/id/url
 - [vbe0201/wizproxy](https://github.com/vbe0201/wizproxy) - Proxy to circumvent Wizard101 packet encryption
