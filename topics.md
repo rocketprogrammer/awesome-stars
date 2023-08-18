@@ -114,6 +114,7 @@
 
 ## android 
 
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
@@ -641,6 +642,7 @@
 
 ## others 
 
+- [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [Open-Source-Free-Realms/OpenSourceFreeRealms](https://github.com/Open-Source-Free-Realms/OpenSourceFreeRealms) - 
