@@ -279,6 +279,7 @@
 
 ## JavaScript 
 
+- [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
 - [Sqaaakoi/legacy-noptcha-patch-archived](https://github.com/Sqaaakoi/legacy-noptcha-patch-archived) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
@@ -323,6 +324,7 @@
 
 ## Kotlin 
 
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 - [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
