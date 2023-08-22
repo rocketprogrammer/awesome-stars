@@ -480,7 +480,7 @@
 - [py-mine/PyMine-Server](https://github.com/py-mine/PyMine-Server) - A fast and easy to use, moddable, Python based Minecraft server!
 - [barneygale/quarry](https://github.com/barneygale/quarry) - Python library that implements the Minecraft network protocol and data types
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [Mini-Exploit/ra1nstorm](https://github.com/Mini-Exploit/ra1nstorm) - A tool for downgrading 64-bit iDevices vulnerable to checkm8
+- [miniexploit/ra1nstorm](https://github.com/miniexploit/ra1nstorm) - A tool for downgrading 64-bit iDevices vulnerable to checkm8
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [Moguri/blend2bam](https://github.com/Moguri/blend2bam) - A CLI tool to convert Blender blend files to Panda3D BAM files
 - [kronos-project/moonlight](https://github.com/kronos-project/moonlight) - W101 traffic decoding
