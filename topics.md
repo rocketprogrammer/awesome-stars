@@ -783,7 +783,7 @@
 - [FIX94/Nintendont](https://github.com/FIX94/Nintendont) - A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
 - [Fullmetal5/str2hax](https://github.com/Fullmetal5/str2hax) - An implementation of CVE-2009-0689 for the Nintendo Wii.
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
-- [Mini-Exploit/ra1nstorm](https://github.com/Mini-Exploit/ra1nstorm) - A tool for downgrading 64-bit iDevices vulnerable to checkm8
+- [miniexploit/ra1nstorm](https://github.com/miniexploit/ra1nstorm) - A tool for downgrading 64-bit iDevices vulnerable to checkm8
 - [elecyb/OSPE](https://github.com/elecyb/OSPE) - Open Source Packet Editor wirtten in C# and C++
 - [chros73/rtorrent-wiki](https://github.com/chros73/rtorrent-wiki) - Oficcial rTorrent WIKI repository
 - [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
