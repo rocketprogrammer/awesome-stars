@@ -450,7 +450,7 @@
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [AndreiDrang/python3-capsolver](https://github.com/AndreiDrang/python3-capsolver) - Python library for Capsolver
 - [kokiez/hcaptcha-solver](https://github.com/kokiez/hcaptcha-solver) - Sovles hcaptcha and gets captcha key by sending requests.
-- [RuslanUC/aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) - Unofficial async wrapper for interacting with hCaptcha (with automatic solver)
+- [RuslanUC/aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) - Unofficial async wrapper for interacting with hCaptcha
 - [ImNimboss/uberduck](https://github.com/ImNimboss/uberduck) - A synchronous and asynchronous API wrapper for the UberDuck text-to-speech service (https://uberduck.ai) with 100% coverage and top-notch utilities.
 - [FlorianREGAZ/Python-Tls-Client](https://github.com/FlorianREGAZ/Python-Tls-Client) - Advanced HTTP Library
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
