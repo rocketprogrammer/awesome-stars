@@ -246,6 +246,7 @@
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
+- [OpenFusionProject/OpenFusionClient](https://github.com/OpenFusionProject/OpenFusionClient) - Electron app to easily connect to FusionFall servers
 - [OpenFusionProject/OpenFusionMap](https://github.com/OpenFusionProject/OpenFusionMap) - Web-based player visualizer for OpenFusion.
 - [ToontownRewritten/ToontownReleaseArchive](https://github.com/ToontownRewritten/ToontownReleaseArchive) - 
 - [cuzitsjonny/JALUS](https://github.com/cuzitsjonny/JALUS) - A PoC of a LEGO Universe server emulator; Written in C++; Discontinued
@@ -313,7 +314,6 @@
 - [wizguin/yukon](https://github.com/wizguin/yukon) - 
 - [arizvisa/antifreeze](https://github.com/arizvisa/antifreeze) - my earlier part of antifreeze before we merged our work and refined it. this is incomplete and unmaintained. you guys were lucky i found this on a hard disk image, anywayz.
 - [ashah360/GrubNinja](https://github.com/ashah360/GrubNinja) - Wizard101 Grub Guardian automation client
-- [OpenFusionProject/OpenFusionClient](https://github.com/OpenFusionProject/OpenFusionClient) - Electron app to easily connect to FusionFall servers
 
 ## Jinja 
 
