@@ -279,6 +279,7 @@
 
 ## JavaScript 
 
+- [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - (Discord Bot Client) A patched version of discord, with bot login support (and Vencord !?)
 - [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
 - [Sqaaakoi/legacy-noptcha-patch-archived](https://github.com/Sqaaakoi/legacy-noptcha-patch-archived) - [Archived] GPU Drops' captcha solving extension without affiliate tracking code injection
