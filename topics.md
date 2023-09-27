@@ -100,6 +100,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [terminal](#terminal)
+- [termux](#termux)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
@@ -116,6 +117,7 @@
 
 ## android 
 
+- [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
@@ -1077,6 +1079,10 @@
 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+
+## termux 
+
+- [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 
 ## typescript 
 
