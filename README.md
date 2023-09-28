@@ -258,6 +258,7 @@
 
 ## Java 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
@@ -418,7 +419,7 @@
 ## PowerShell 
 
 - [madduci/docker-msvc-cpp](https://github.com/madduci/docker-msvc-cpp) - Dockerized Visual C++ environment with wine
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
+- [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [paleozogt/MSVCDocker](https://github.com/paleozogt/MSVCDocker) - MSVC via Wine in Docker
 
 ## Python 
@@ -545,7 +546,7 @@
 
 - [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) - Displays the content you're currently watching on Discord!
 - [ali-raheem/esrtool](https://github.com/ali-raheem/esrtool) - Port of the PS2 Homebrew ESRtool to Rust and modern platforms.
-- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data.
 - [Among-Suss/mimicri](https://github.com/Among-Suss/mimicri) - A small, performant, feature-rich Discord music bot written in Rust
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎵 A Spotify music and playlist downloader written in Rust which also works with a free Spotify account
