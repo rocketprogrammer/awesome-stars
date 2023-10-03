@@ -423,6 +423,7 @@
 
 ## Python 
 
+- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download youtube videos and audios by title/id/url
