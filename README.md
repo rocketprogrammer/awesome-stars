@@ -537,7 +537,6 @@
 - [Open-OTP/OpenOTP](https://github.com/Open-OTP/OpenOTP) - Python-based async networking solution based on Disney's OTP system
 - [Cog-Invasion-Online/cio-src](https://github.com/Cog-Invasion-Online/cio-src) - Cog Invasion Online source code repository
 - [Toontown-Open-Source-Initiative/Toontown-School-House](https://github.com/Toontown-Open-Source-Initiative/Toontown-School-House) - The source code for the Toontown School House course
-- [peppythegod/ToontownOnline](https://github.com/peppythegod/ToontownOnline) - The python source code for Disney's now discontinued MMO, Toontown Online.
 - [ethanlindley/tlopo-launcher](https://github.com/ethanlindley/tlopo-launcher) - Simple game launcher for TLoPO written in Python 3.7.x
 
 ## Rust 
