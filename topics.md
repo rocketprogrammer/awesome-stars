@@ -920,7 +920,6 @@
 - [loonaticx/play.test.toontown.com](https://github.com/loonaticx/play.test.toontown.com) - The ORIGINAL Toontown Test website with self-hosting support!
 - [Cog-Invasion-Online/cio-src](https://github.com/Cog-Invasion-Online/cio-src) - Cog Invasion Online source code repository
 - [Toontown-Open-Source-Initiative/Toontown-School-House](https://github.com/Toontown-Open-Source-Initiative/Toontown-School-House) - The source code for the Toontown School House course
-- [peppythegod/ToontownOnline](https://github.com/peppythegod/ToontownOnline) - The python source code for Disney's now discontinued MMO, Toontown Online.
 - [cuzitsjonny/JALUS](https://github.com/cuzitsjonny/JALUS) - A PoC of a LEGO Universe server emulator; Written in C++; Discontinued
 
 ## p2p 
