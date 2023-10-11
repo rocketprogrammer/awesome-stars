@@ -15,6 +15,7 @@
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -205,6 +206,10 @@
 ## Dart 
 
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
+
+## Dockerfile 
+
+- [gabe565/linuxserver-mod-vuetorrent](https://github.com/gabe565/linuxserver-mod-vuetorrent) - Docker mod that installs VueTorrent to the LinuxServer.io qBittorrent images
 
 ## Emacs Lisp 
 
