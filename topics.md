@@ -13,6 +13,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [backend](#backend)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -160,6 +161,11 @@
 ## awesome-list 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## backend 
+
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 
 ## bash 
 
@@ -668,6 +674,7 @@
 
 ## others 
 
+- [gabe565/linuxserver-mod-vuetorrent](https://github.com/gabe565/linuxserver-mod-vuetorrent) - Docker mod that installs VueTorrent to the LinuxServer.io qBittorrent images
 - [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core) - YouTube video downloader in javascript.
 - [ChonDoit/treble_cherishos_patches](https://github.com/ChonDoit/treble_cherishos_patches) - Patches for build CherishOS as PHH-Treble GSI
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
