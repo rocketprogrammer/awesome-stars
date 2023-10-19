@@ -426,6 +426,7 @@
 - [jellyfin/jellyfin-plugin-trakt](https://github.com/jellyfin/jellyfin-plugin-trakt) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
