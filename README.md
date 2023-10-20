@@ -422,6 +422,7 @@
 
 ## Python 
 
+- [mghost99/Toontown-Launcher-PyQt5](https://github.com/mghost99/Toontown-Launcher-PyQt5) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too.
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -562,7 +563,6 @@
 - [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers
 - [laset-com/speedtest](https://github.com/laset-com/speedtest) - 
-- [npjohnson/sabrina-unlock](https://github.com/npjohnson/sabrina-unlock) - 
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [arakasi72/rtinst](https://github.com/arakasi72/rtinst) - seedbox installation script for Ubuntu and Debian systems
