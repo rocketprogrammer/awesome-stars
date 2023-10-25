@@ -24,6 +24,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [code](#code)
+- [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [crystal](#crystal)
 - [csharp](#csharp)
@@ -225,6 +226,10 @@
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
+## computer-vision 
+
+- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
+
 ## cpp 
 
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
@@ -345,6 +350,7 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+- [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
 
 ## es6 
 
@@ -777,7 +783,6 @@
 - [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
-- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [aronamao/Discord-Rich-Presence-For-Maya](https://github.com/aronamao/Discord-Rich-Presence-For-Maya) - Simple Plugin for Autodesk Maya to display current status in Discord
 - [End-Tech/syncmatica](https://github.com/End-Tech/syncmatica) - Server-wide shared litematics.
