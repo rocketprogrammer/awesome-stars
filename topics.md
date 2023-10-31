@@ -185,7 +185,6 @@
 ## bot 
 
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
-- [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - HCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension. Free 6000/month 🔥 on signup
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
@@ -394,6 +393,7 @@
 
 ## github 
 
+- [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 
 ## go 
@@ -434,7 +434,6 @@
 - [jellyfin/jellyfin-plugin-trakt](https://github.com/jellyfin/jellyfin-plugin-trakt) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
