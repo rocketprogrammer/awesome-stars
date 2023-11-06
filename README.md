@@ -423,7 +423,7 @@
 
 ## Python 
 
-- [mghost99/Toontown-Launcher-PyQt5](https://github.com/mghost99/Toontown-Launcher-PyQt5) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too.
+- [mghost99/Toontown-Launcher-PySide6](https://github.com/mghost99/Toontown-Launcher-PySide6) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too.
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
