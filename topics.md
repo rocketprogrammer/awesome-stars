@@ -51,6 +51,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
@@ -94,6 +95,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
@@ -144,6 +146,7 @@
 
 ## api 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) - ShareXen - Another ShareX Custom Uploader PHP Script
 
@@ -423,6 +426,10 @@
 
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 
+## graphql 
+
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+
 ## hacking 
 
 - [R3nzTheCodeGOD/Spotify-Internal](https://github.com/R3nzTheCodeGOD/Spotify-Internal) - Remove ads and add extra features for spotify desktop version.
@@ -694,6 +701,7 @@
 
 ## others 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [mghost99/Toontown-Launcher-PySide6](https://github.com/mghost99/Toontown-Launcher-PySide6) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too.
 - [gabe565/linuxserver-mod-vuetorrent](https://github.com/gabe565/linuxserver-mod-vuetorrent) - Docker mod that installs VueTorrent to the LinuxServer.io qBittorrent images
@@ -1033,6 +1041,10 @@
 ## redux 
 
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
+
+## rest-api 
+
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
 ## reverse-engineering 
 
