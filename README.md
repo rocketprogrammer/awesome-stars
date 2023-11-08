@@ -285,6 +285,7 @@
 
 ## JavaScript 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core) - YouTube video downloader in javascript.
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - (Discord Bot Client) A patched version of discord, with bot login support (and Vencord !?)
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
@@ -369,6 +370,7 @@
 
 ## Others 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
