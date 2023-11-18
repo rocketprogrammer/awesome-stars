@@ -87,7 +87,6 @@
 - [0x7ff/eclipsa](https://github.com/0x7ff/eclipsa) - Checkm8 PoC tool for A8, A8X and A9 devices that allows you to boot untrusted images (macOS only, credits: checkra1n team).
 - [xerpi/vita2hos](https://github.com/xerpi/vita2hos) - [WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [rocketprogrammer/disney-miles](https://github.com/rocketprogrammer/disney-miles) - Disney's original Miles audio library.
 - [xgladius/wiz-packet-map](https://github.com/xgladius/wiz-packet-map) - Wizard101 tool that dynamically dumps packet data and decrypts packets to and from the server that use aes-gcm encryption
@@ -177,6 +176,7 @@
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [misson20000/twili](https://github.com/misson20000/twili) - Homebrew debug monitor for the Nintendo Switch.
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
 - [R3nzTheCodeGOD/Spotify-Internal](https://github.com/R3nzTheCodeGOD/Spotify-Internal) - Remove ads and add extra features for spotify desktop version.
