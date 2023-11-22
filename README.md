@@ -150,7 +150,6 @@
 - [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer) - kernel mode spoofer disk and smbios, socket communication
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
-- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [Tugcga/SmartFox-Python-Communicator](https://github.com/Tugcga/SmartFox-Python-Communicator) - Minimal Python bindigs for SmartFox server c++ API
 - [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate) - Guaranteed compile-time string literal obfuscation header-only library for C++14
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
