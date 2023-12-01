@@ -601,7 +601,7 @@
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [dafta/DeckMTP](https://github.com/dafta/DeckMTP) - A DeckyLoader plugin for enabling MTP transfer over USB
-- [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art asset from within gaming mode.
+- [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
