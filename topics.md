@@ -89,6 +89,7 @@
 - [p2p](#p2p)
 - [pentesting](#pentesting)
 - [php](#php)
+- [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -962,6 +963,10 @@
 - [NicheOffice/php-web-proxy](https://github.com/NicheOffice/php-web-proxy) - Online Web Proxy Website Script Written in PHP
 - [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
+
+## privacy 
+
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## python 
 
