@@ -400,7 +400,7 @@
 
 ## PHP 
 
-- [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - Convoy aims to be a scalable, reliable panel better than most solutions on the market made for selling virtual machines. It works by utilizing Proxmox's API to automatically manage/deploy virtual mach
+- [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per
 - [no127nowand4ever/dummywsus](https://github.com/no127nowand4ever/dummywsus) - Dummy WSUS - A simple implementation of WSUS server in PHP
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
