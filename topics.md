@@ -157,7 +157,6 @@
 ## automation 
 
 - [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - HCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension. Free 6000/month 🔥 on signup
-- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [StarrFox/wizwalker](https://github.com/StarrFox/wizwalker) - Wizard101 scripting api
 
@@ -697,6 +696,7 @@
 
 ## others 
 
+- [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [robertfwallis/TheToontownLogoVault](https://github.com/robertfwallis/TheToontownLogoVault) - An archive of Toontown logos and their evolvement over the years.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
