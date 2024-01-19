@@ -753,7 +753,6 @@
 - [SvenGDK/XboxMediaUSB](https://github.com/SvenGDK/XboxMediaUSB) - Creates a new drive for Xbox consoles or adds missing permissions.
 - [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [FanaticalWarlock/RealmIsFree](https://github.com/FanaticalWarlock/RealmIsFree) - 
-- [RetroGFX/UnofficialOS](https://github.com/RetroGFX/UnofficialOS) - Home of the uOS Linux distribution.
 - [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
 - [loonaticx/ToontownSWFAssets](https://github.com/loonaticx/ToontownSWFAssets) - An archive of all publicly accessible Toontown SWF files, including all of their asset files!
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
