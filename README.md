@@ -350,7 +350,6 @@
 
 ## Makefile 
 
-- [RetroGFX/UnofficialOS](https://github.com/RetroGFX/UnofficialOS) - Home of the uOS Linux distribution.
 - [SunResearchInstitute/SwitchPresence-Rewritten](https://github.com/SunResearchInstitute/SwitchPresence-Rewritten) - Nintendo Switch sysmodule server for PresenceClient!
 
 ## Markdown 
