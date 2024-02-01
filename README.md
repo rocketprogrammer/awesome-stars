@@ -35,6 +35,7 @@
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -178,7 +179,6 @@
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
-- [R3nzTheCodeGOD/Spotify-Internal](https://github.com/R3nzTheCodeGOD/Spotify-Internal) - Remove ads and add extra features for spotify desktop version.
 - [bakatrouble/sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader) - 
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
@@ -426,6 +426,7 @@
 
 ## Python 
 
+- [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [mghost99/Toontown-Launcher-PySide2](https://github.com/mghost99/Toontown-Launcher-PySide2) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too. Went from PyQt5, t
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -544,6 +545,10 @@
 - [Cog-Invasion-Online/cio-src](https://github.com/Cog-Invasion-Online/cio-src) - Cog Invasion Online source code repository
 - [Toontown-Open-Source-Initiative/Toontown-School-House](https://github.com/Toontown-Open-Source-Initiative/Toontown-School-House) - The source code for the Toontown School House course
 - [ethanlindley/tlopo-launcher](https://github.com/ethanlindley/tlopo-launcher) - Simple game launcher for TLoPO written in Python 3.7.x
+
+## QML 
+
+- [enielrodriguez/optimus-gpu-switcher](https://github.com/enielrodriguez/optimus-gpu-switcher) - KDE Plasma widget to change the GPU mode using the EnvyControl command line tool.
 
 ## Rust 
 
