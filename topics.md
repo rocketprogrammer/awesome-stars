@@ -52,7 +52,6 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
-- [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -429,10 +428,6 @@
 
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
-## hacking 
-
-- [R3nzTheCodeGOD/Spotify-Internal](https://github.com/R3nzTheCodeGOD/Spotify-Internal) - Remove ads and add extra features for spotify desktop version.
-
 ## hacktoberfest 
 
 - [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
@@ -702,6 +697,8 @@
 
 ## others 
 
+- [enielrodriguez/optimus-gpu-switcher](https://github.com/enielrodriguez/optimus-gpu-switcher) - KDE Plasma widget to change the GPU mode using the EnvyControl command line tool.
+- [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [robertfwallis/TheToontownLogoVault](https://github.com/robertfwallis/TheToontownLogoVault) - An archive of Toontown logos and their evolvement over the years.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
@@ -1063,7 +1060,6 @@
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
 - [zackelia/ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra
-- [R3nzTheCodeGOD/Spotify-Internal](https://github.com/R3nzTheCodeGOD/Spotify-Internal) - Remove ads and add extra features for spotify desktop version.
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
 
