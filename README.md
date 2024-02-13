@@ -439,7 +439,7 @@
 - [solero/tusk](https://github.com/solero/tusk) - Card Jitsu Snow game server
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
-- [WorldOfCarsRE/woc-otp](https://github.com/WorldOfCarsRE/woc-otp) - Temporary OTP until OtpGo is ready
+- [WorldOfCarsRE/game-server](https://github.com/WorldOfCarsRE/game-server) - Powered by OtpGo
 - [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
 - [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
