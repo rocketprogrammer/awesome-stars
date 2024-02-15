@@ -261,6 +261,8 @@
 
 ## Java 
 
+- [antoniovazquezblanco/GhidraFindcrypt](https://github.com/antoniovazquezblanco/GhidraFindcrypt) - Ghidra analysis plugin to locate cryptographic constants
+- [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
@@ -284,6 +286,7 @@
 
 ## JavaScript 
 
+- [CheshireCaat/puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core) - YouTube video downloader in javascript.
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
