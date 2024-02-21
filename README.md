@@ -620,7 +620,7 @@
 - [noCaptchaAi/nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) - Puppeteer package for NoCaptchaAI (hCaptcha solver) ⚡️
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) - A tool to convert 3D models into Minecraft formats such as .schematic, .litematic, .schem and .nbt
-- [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+- [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
