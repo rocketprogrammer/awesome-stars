@@ -370,7 +370,7 @@
 
 ## Others 
 
-- [robertfwallis/TheToontownLogoVault](https://github.com/robertfwallis/TheToontownLogoVault) - An archive of Toontown logos and their evolvement over the years.
+- [robertfwallis/TheToontownLogoVault](https://github.com/robertfwallis/TheToontownLogoVault) - An archive of Toontown fan project logos and their evolvement over the years.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
