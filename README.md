@@ -437,6 +437,7 @@
 - [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download YouTube videos and audios by title/id/url
 - [vbe0201/wizproxy](https://github.com/vbe0201/wizproxy) - Proxy to circumvent Wizard101 packet encryption
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [dafta/DeckMTP](https://github.com/dafta/DeckMTP) - A DeckyLoader plugin for enabling MTP transfer over USB
 - [steve228uk/TunnelDeck](https://github.com/steve228uk/TunnelDeck) - A Decky Plugin for Steam Deck to Access Wireguard and OpenVPN Connections From Gaming Mode
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
@@ -610,7 +611,6 @@
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
-- [dafta/DeckMTP](https://github.com/dafta/DeckMTP) - A DeckyLoader plugin for enabling MTP transfer over USB
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
