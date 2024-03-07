@@ -246,6 +246,7 @@
 
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
 - [madduci/docker-msvc-cpp](https://github.com/madduci/docker-msvc-cpp) - Dockerized Visual C++ environment with wine
 - [skypjack/uvw](https://github.com/skypjack/uvw) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
@@ -458,6 +459,7 @@
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
@@ -632,6 +634,7 @@
 ## minecraft 
 
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
@@ -814,7 +817,6 @@
 - [rocketprogrammer/ttsrc](https://github.com/rocketprogrammer/ttsrc) - Toontown Anesidora (sv1.0.40.25.test)
 - [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
-- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [aronamao/Discord-Rich-Presence-For-Maya](https://github.com/aronamao/Discord-Rich-Presence-For-Maya) - Simple Plugin for Autodesk Maya to display current status in Discord
 - [End-Tech/syncmatica](https://github.com/End-Tech/syncmatica) - Server-wide shared litematics.
@@ -1038,6 +1040,7 @@
 
 ## qt 
 
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
 
 ## react 
