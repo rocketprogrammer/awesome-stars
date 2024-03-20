@@ -499,7 +499,7 @@
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [StdCarrot/Py3AMF](https://github.com/StdCarrot/Py3AMF) - AMF for Python
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
 - [solero/canon](https://github.com/solero/canon) - Python implementation of the proprietary Club Penguin mini-game compression
