@@ -72,7 +72,7 @@
 - [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
 - [josephl70/DPAKToolset](https://github.com/josephl70/DPAKToolset) - Extracts and Packages DPAKs as well as XMCs
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [misterupkeep/libsoerudp](https://github.com/misterupkeep/libsoerudp) - An implementation of Sony Online Entertainment's Reliable UDP (layer 7) protocol
@@ -219,6 +219,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [vadv/gopher-lua-libs](https://github.com/vadv/gopher-lua-libs) - Libs for gopher lua
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
+- [LittleToonCat/OtpGo](https://github.com/LittleToonCat/OtpGo) - Disney's OTP (Online Theme Park) server written in Go.
 - [cedws/ki-keyring](https://github.com/cedws/ki-keyring) - Utility for ejecting/injecting sets of obfuscated public keys from/into WizardGraphicalClient binaries
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [JustTalDevelops/go-hcaptcha](https://github.com/JustTalDevelops/go-hcaptcha) - A Go library for solving hCaptchas with any image recognition API.
