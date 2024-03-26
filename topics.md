@@ -393,7 +393,7 @@
 
 - [FeroxFoxxo/MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) - An open source emulation for the backend of MQ's servers, written from scratch with love!
 - [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
-- [robertfwallis/The-Classic-Pack](https://github.com/robertfwallis/The-Classic-Pack) - A content pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
+- [toontownlpz/The-Classic-Pack](https://github.com/toontownlpz/The-Classic-Pack) - A content pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
 
 ## game-engine 
 
@@ -716,7 +716,7 @@
 - [enielrodriguez/optimus-gpu-switcher](https://github.com/enielrodriguez/optimus-gpu-switcher) - KDE Plasma widget to change the GPU mode using the EnvyControl command line tool.
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
-- [robertfwallis/TheToontownLogoVault](https://github.com/robertfwallis/TheToontownLogoVault) - An archive of Toontown fan project logos and their evolvement over the years.
+- [toontownlpz/TheToontownLogoVault](https://github.com/toontownlpz/TheToontownLogoVault) - An archive of Toontown fan project logos and their evolvement over the years.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -813,7 +813,7 @@
 - [an0ndev/requests-ja3](https://github.com/an0ndev/requests-ja3) - Modifying Python's requests module to spoof a ja3 fingerprint
 - [williexu/random_username](https://github.com/williexu/random_username) - A package to randomly generate usernames
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
-- [robertfwallis/Consistooncy](https://github.com/robertfwallis/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
+- [toontownlpz/Consistooncy](https://github.com/toontownlpz/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
 - [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
 - [rocketprogrammer/ttsrc](https://github.com/rocketprogrammer/ttsrc) - Toontown Anesidora (sv1.0.40.25.test)
 - [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
