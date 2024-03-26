@@ -372,7 +372,7 @@
 
 ## Others 
 
-- [robertfwallis/TheToontownLogoVault](https://github.com/robertfwallis/TheToontownLogoVault) - An archive of Toontown fan project logos and their evolvement over the years.
+- [toontownlpz/TheToontownLogoVault](https://github.com/toontownlpz/TheToontownLogoVault) - An archive of Toontown fan project logos and their evolvement over the years.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
@@ -386,7 +386,7 @@
 - [visibou/lunarinjector](https://github.com/visibou/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
 - [jingye-xu/jy-personal-notes](https://github.com/jingye-xu/jy-personal-notes) - This is my personal notes.
 - [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - HCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension. Free 6000/month 🔥 on signup
-- [robertfwallis/Consistooncy](https://github.com/robertfwallis/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
+- [toontownlpz/Consistooncy](https://github.com/toontownlpz/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
 - [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
 - [chros73/rtorrent-wiki](https://github.com/chros73/rtorrent-wiki) - Oficcial rTorrent WIKI repository
@@ -398,7 +398,7 @@
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [OpenFusionProject/tabledata](https://github.com/OpenFusionProject/tabledata) - Dumped tabledata from the OG FusionFall clients
-- [robertfwallis/The-Classic-Pack](https://github.com/robertfwallis/The-Classic-Pack) - A content pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
+- [toontownlpz/The-Classic-Pack](https://github.com/toontownlpz/The-Classic-Pack) - A content pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
 - [CloudCityDev/Toontown-macOS-sv1.0.47.31](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.47.31) - 
 
 ## PHP 
