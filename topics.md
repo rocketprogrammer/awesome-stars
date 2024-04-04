@@ -95,6 +95,7 @@
 - [python3](#python3)
 - [qt](#qt)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [rest-api](#rest-api)
@@ -126,6 +127,7 @@
 
 ## android 
 
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -514,6 +516,7 @@
 
 ## ios 
 
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
@@ -844,7 +847,6 @@
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 - [Courvix-Network/Courvix-VPN](https://github.com/Courvix-Network/Courvix-VPN) - The official VPN client for the Courvix Network
 - [mm201/pkmn-classic-framework](https://github.com/mm201/pkmn-classic-framework) - Pokémon application logic for Generation IV and V, including servers
-- [Fluvian/tpp](https://github.com/Fluvian/tpp) - The Preservation Project is a recreation of the SpaceWorld 95 demo of Super Mario 64.
 - [AmJayden/wizard101-spoofer](https://github.com/AmJayden/wizard101-spoofer) - Spoof your HWID on Wizard101 and log events and packets by name
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
 - [FIX94/Nintendont](https://github.com/FIX94/Nintendont) - A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
@@ -1052,6 +1054,10 @@
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+
+## react-native 
+
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 
 ## reactjs 
 
