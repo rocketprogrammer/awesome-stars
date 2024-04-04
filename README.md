@@ -77,7 +77,6 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [misterupkeep/libsoerudp](https://github.com/misterupkeep/libsoerudp) - An implementation of Sony Online Entertainment's Reliable UDP (layer 7) protocol
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
-- [Fluvian/tpp](https://github.com/Fluvian/tpp) - The Preservation Project is a recreation of the SpaceWorld 95 demo of Super Mario 64.
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [FIX94/Nintendont](https://github.com/FIX94/Nintendont) - A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
 - [Fullmetal5/str2hax](https://github.com/Fullmetal5/str2hax) - An implementation of CVE-2009-0689 for the Nintendo Wii.
@@ -607,6 +606,7 @@
 
 ## TypeScript 
 
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
