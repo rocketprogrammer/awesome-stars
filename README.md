@@ -470,7 +470,7 @@
 - [noCaptchaAi/noCaptcha-py](https://github.com/noCaptchaAi/noCaptcha-py) - :zap: hcaptcha, reCaptcha soolver pypi module
 - [ergrelet/unlicense](https://github.com/ergrelet/unlicense) - Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 - [an0ndev/requests-ja3](https://github.com/an0ndev/requests-ja3) - Modifying Python's requests module to spoof a ja3 fingerprint
 - [williexu/random_username](https://github.com/williexu/random_username) - A package to randomly generate usernames
