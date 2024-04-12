@@ -526,7 +526,6 @@
 - [loonaticx/Housekeeper](https://github.com/loonaticx/Housekeeper) - "Housekeeps" Toontown resources
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [StarrFox/wizki](https://github.com/StarrFox/wizki) - python library for various ki systems
-- [xgladius/wizard101-reversal](https://github.com/xgladius/wizard101-reversal) - reversal of wizard10 (x64)1 internal structures
 - [Team-Neptune/DeepSea](https://github.com/Team-Neptune/DeepSea) - The new All-in-One CFW package for the Nintendo Switch.
 - [lovvskillz/python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) - execute discord webhooks
 - [bakatrouble/sys-screenuploader-servers](https://github.com/bakatrouble/sys-screenuploader-servers) - 
