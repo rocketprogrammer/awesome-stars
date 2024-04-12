@@ -909,7 +909,6 @@
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
 - [StarrFox/wizki](https://github.com/StarrFox/wizki) - python library for various ki systems
-- [xgladius/wizard101-reversal](https://github.com/xgladius/wizard101-reversal) - reversal of wizard10 (x64)1 internal structures
 - [horta/zlib.install](https://github.com/horta/zlib.install) - ZLIB installer for Windows.
 - [bakatrouble/sys-screenuploader-servers](https://github.com/bakatrouble/sys-screenuploader-servers) - 
 - [bakatrouble/sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader) - 
