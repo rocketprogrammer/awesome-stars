@@ -345,7 +345,7 @@
 ## Lua 
 
 - [misterupkeep/soe-dissector](https://github.com/misterupkeep/soe-dissector) - Wireshark dissector(s) for Sony Online Entertainment's Reliable UDP protocol (version string `CGAPI_527`).
-- [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel
+- [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) - Service eggs for the pterodactyl panel
 - [xuwaters/wireshark-smartfoxserver](https://github.com/xuwaters/wireshark-smartfoxserver) - This wireshark plugin is used for dissecting SmartFoxServer protocol.
 
 ## MDX 
@@ -432,6 +432,7 @@
 
 ## Python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [mghost99/Toontown-Launcher-PySide2](https://github.com/mghost99/Toontown-Launcher-PySide2) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too. Went from PyQt5, t
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
