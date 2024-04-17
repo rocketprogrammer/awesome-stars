@@ -51,6 +51,7 @@
 
 ## Batchfile 
 
+- [toontownlpz/PorTTRguese](https://github.com/toontownlpz/PorTTRguese) - A content pack for Toontown Rewritten, restoring many of the texture changes featured in Toontown Brazil. For the Portuguese fans.
 - [frederic/sabrina-custom-os](https://github.com/frederic/sabrina-custom-os) - Resources to boot Ubuntu on Chromecast with Google TV
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [horta/zlib.install](https://github.com/horta/zlib.install) - ZLIB installer for Windows.
