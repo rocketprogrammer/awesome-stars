@@ -706,7 +706,7 @@
 
 ## opengl 
 
-- [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
+- [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Mach
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## operating-system 
