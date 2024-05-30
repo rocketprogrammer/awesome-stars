@@ -718,6 +718,7 @@
 
 ## others 
 
+- [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
 - [toontownlpz/PorTTRguese](https://github.com/toontownlpz/PorTTRguese) - A content pack for Toontown Rewritten, restoring many of the texture changes featured in Toontown Brazil. For the Portuguese fans.
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
