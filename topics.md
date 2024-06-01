@@ -495,7 +495,7 @@
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
-- [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
+- [PretendoNetwork/.github](https://github.com/PretendoNetwork/.github) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 
 ## homebrew 
 
@@ -718,6 +718,7 @@
 
 ## others 
 
+- [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
 - [toontownlpz/PorTTRguese](https://github.com/toontownlpz/PorTTRguese) - A content pack for Toontown Rewritten, restoring many of the texture changes featured in Toontown Brazil. For the Portuguese fans.
@@ -1096,7 +1097,7 @@
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
 - [zackelia/ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra
-- [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
+- [PretendoNetwork/.github](https://github.com/PretendoNetwork/.github) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [latelylk/On-Wiz](https://github.com/latelylk/On-Wiz) - A place for resources related to the inner-workings of Kingsisle Entertainment's Wizard101
 
 ## rust 
