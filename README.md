@@ -401,7 +401,7 @@
 - [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) - System patches to stream most switch games with sysdvr
 - [86Box/roms](https://github.com/86Box/roms) - ROMs for the 86Box emulator. For development versions of 86Box, the recommended way to use this repository is to clone it instead of downloading the tagged releases.
 - [toonjoey/toontown-project-bikehorn](https://github.com/toonjoey/toontown-project-bikehorn) - A full remaster of Toontown using the original source textures.
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
 - [PretendoNetwork/.github](https://github.com/PretendoNetwork/.github) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [OpenFusionProject/tabledata](https://github.com/OpenFusionProject/tabledata) - Dumped tabledata from the OG FusionFall clients
 - [toontownlpz/The-Classic-Pack](https://github.com/toontownlpz/The-Classic-Pack) - A content pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
