@@ -931,7 +931,7 @@
 - [atauenis/webone](https://github.com/atauenis/webone) - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.
 - [xuwaters/wireshark-smartfoxserver](https://github.com/xuwaters/wireshark-smartfoxserver) - This wireshark plugin is used for dissecting SmartFoxServer protocol.
 - [NathaanTFM/ttotp](https://github.com/NathaanTFM/ttotp) - Python OTP for Toontown Anesidora
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
 - [rocketprogrammer/DPackUtils](https://github.com/rocketprogrammer/DPackUtils) - Quickly written packer/unpacker for DPack found in the Disney website assets.
 - [open-toontown/open-toontown](https://github.com/open-toontown/open-toontown) - Open source Toontown Online, based on the latest version of Disney's Toontown Online (sv1.0.47.38).
 - [darktohka/p3dephaser](https://github.com/darktohka/p3dephaser) - Dephaser: decrypt Panda3D multifiles on the fly.
