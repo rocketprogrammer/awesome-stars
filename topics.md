@@ -718,6 +718,7 @@
 
 ## others 
 
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
