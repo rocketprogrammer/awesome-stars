@@ -120,6 +120,7 @@
 - [vuejs](#vuejs)
 - [webapp](#webapp)
 - [windows](#windows)
+- [zig](#zig)
 
 ## 3d 
 
@@ -1233,6 +1234,10 @@
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [paleozogt/MSVCDocker](https://github.com/paleozogt/MSVCDocker) - MSVC via Wine in Docker
+
+## zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
