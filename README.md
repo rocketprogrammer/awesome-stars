@@ -20,6 +20,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -28,7 +29,6 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
-- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -263,6 +263,10 @@
 - [Jeeperpretzel900/Toontown-Library](https://github.com/Jeeperpretzel900/Toontown-Library) - An archive for anything Toontown related
 - [loonaticx/play.test.toontown.com](https://github.com/loonaticx/play.test.toontown.com) - The ORIGINAL Toontown Test website with self-hosting support!
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -369,10 +373,6 @@
 ## Makefile 
 
 - [SunResearchInstitute/SwitchPresence-Rewritten](https://github.com/SunResearchInstitute/SwitchPresence-Rewritten) - Nintendo Switch sysmodule server for PresenceClient!
-
-## Markdown 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mathematica 
 
