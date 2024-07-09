@@ -681,7 +681,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
-- [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+- [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 
@@ -1029,7 +1029,7 @@
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
-- [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+- [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [py-mine/PyMine-Server](https://github.com/py-mine/PyMine-Server) - A fast and easy to use, moddable, Python based Minecraft server!
 - [barneygale/quarry](https://github.com/barneygale/quarry) - Python library that implements the Minecraft network protocol and data types
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
