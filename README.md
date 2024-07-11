@@ -513,7 +513,7 @@
 - [richardg867/WaybackProxy](https://github.com/richardg867/WaybackProxy) - HTTP proxy for tunneling requests through the Internet Archive Wayback Machine
 - [Aethese/Switchence](https://github.com/Aethese/Switchence) - Simple Nintendo Switch rich presence app for discord.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [StdCarrot/Py3AMF](https://github.com/StdCarrot/Py3AMF) - AMF for Python
+- [StdCarrot/Py3AMF](https://github.com/StdCarrot/Py3AMF) - AMF for Python3
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
