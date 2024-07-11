@@ -884,7 +884,6 @@
 - [CPunch/Laika](https://github.com/CPunch/Laika) - Cross-platform RAT, written in C
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
-- [StdCarrot/Py3AMF](https://github.com/StdCarrot/Py3AMF) - AMF for Python
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
 - [Pyrodash/libamf](https://github.com/Pyrodash/libamf) - Action Message Format library for node.js.
 - [oonqt/MBCord](https://github.com/oonqt/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨
@@ -1058,6 +1057,7 @@
 - [ImNimboss/uberduck](https://github.com/ImNimboss/uberduck) - A synchronous and asynchronous API wrapper for the UberDuck text-to-speech service (https://uberduck.ai) with 100% coverage and top-notch utilities.
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [StdCarrot/Py3AMF](https://github.com/StdCarrot/Py3AMF) - AMF for Python3
 - [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
 - [alperensert/capmonster_python](https://github.com/alperensert/capmonster_python) - Capmonster.cloud library for Python3
