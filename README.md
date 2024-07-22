@@ -168,6 +168,7 @@
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 - [OpenFusionProject/OpenFusion](https://github.com/OpenFusionProject/OpenFusion) - Open source server for the FusionFall client
+- [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [Bforartists/Bforartists](https://github.com/Bforartists/Bforartists) - Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 - [chronoxor/CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 - [pgarba/King](https://github.com/pgarba/King) - port of checkm8 to C
@@ -402,7 +403,6 @@
 - [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
 - [chros73/rtorrent-wiki](https://github.com/chros73/rtorrent-wiki) - Oficcial rTorrent WIKI repository
-- [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [CloudCityDev/Toontown-macOS-sv1.0.47.35](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.47.35) - 
 - [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) - System patches to stream most switch games with sysdvr
 - [86Box/roms](https://github.com/86Box/roms) - ROMs for the 86Box emulator. For development versions of 86Box, the recommended way to use this repository is to clone it instead of downloading the tagged releases.
