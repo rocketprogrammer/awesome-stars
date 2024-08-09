@@ -727,6 +727,7 @@
 
 ## others 
 
+- [XielQs/httptoolkit-pro-patcher](https://github.com/XielQs/httptoolkit-pro-patcher) - Basic program that patches pro version to HTTP Toolkit
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - An easier way to download media
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
