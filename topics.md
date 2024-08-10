@@ -252,6 +252,7 @@
 
 ## cpp 
 
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
@@ -520,6 +521,7 @@
 
 ## http 
 
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [FlorianREGAZ/Python-Tls-Client](https://github.com/FlorianREGAZ/Python-Tls-Client) - Advanced HTTP Library
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -918,7 +920,6 @@
 - [Courvix-Network/Courvix-Dark](https://github.com/Courvix-Network/Courvix-Dark) - Dark theme for Roundcube as used by Courvix Mail
 - [lcdr/luserver](https://github.com/lcdr/luserver) - Python LU server emulator, previously used in lcdr Universe.
 - [loonaticx/new-resources](https://github.com/loonaticx/new-resources) - Organized & built Spotify models with textures & models. Experiment using my Spotify tools.
-- [elnormous/HTTPRequest](https://github.com/elnormous/HTTPRequest) - Single-header C++ HTTP request class
 - [DarkflameUniverse/DarkflameRPC](https://github.com/DarkflameUniverse/DarkflameRPC) - Darkflame Universe Discord RPC
 - [dfletcher/docker-jellyfin-vps](https://github.com/dfletcher/docker-jellyfin-vps) - 
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
