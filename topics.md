@@ -650,6 +650,7 @@
 
 ## minecraft 
 
+- [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
@@ -729,6 +730,7 @@
 
 ## others 
 
+- [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
 - [XielQs/httptoolkit-pro-patcher](https://github.com/XielQs/httptoolkit-pro-patcher) - Basic program that patches pro version to HTTP Toolkit
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - An easier way to download media
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
