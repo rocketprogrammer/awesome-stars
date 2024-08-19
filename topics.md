@@ -111,6 +111,7 @@
 - [spring-boot](#spring-boot)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [termux](#termux)
 - [typescript](#typescript)
@@ -268,7 +269,7 @@
 
 ## crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## csharp 
 
@@ -295,7 +296,7 @@
 
 ## devops 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## discord 
 
@@ -333,7 +334,7 @@
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare v2 challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
@@ -593,7 +594,7 @@
 
 ## kubernetes 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## language 
 
@@ -1184,6 +1185,11 @@
 ## swiftui 
 
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
+
+## tailwindcss 
+
+- [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
+- [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 
 ## terminal 
 
