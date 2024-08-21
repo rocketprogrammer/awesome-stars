@@ -806,7 +806,7 @@
 - [SvenGDK/XboxMediaUSB](https://github.com/SvenGDK/XboxMediaUSB) - Creates a new drive for Xbox consoles or adds missing permissions.
 - [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [FanaticalWarlock/RealmIsFree](https://github.com/FanaticalWarlock/RealmIsFree) - 
-- [MrbeastmodeXD/outlook-generator](https://github.com/MrbeastmodeXD/outlook-generator) - Outlook account generator
+- [pglang00/outlook-generator](https://github.com/pglang00/outlook-generator) - Outlook account generator
 - [loonaticx/ToontownSWFAssets](https://github.com/loonaticx/ToontownSWFAssets) - An archive of all publicly accessible Toontown SWF files, including all of their asset files!
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
