@@ -187,7 +187,7 @@
 ## backend 
 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 
 ## bash 
 
@@ -499,7 +499,7 @@
 - [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) - Service eggs for the pterodactyl panel
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -800,9 +800,9 @@
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [WorldOfCarsRE/game-server](https://github.com/WorldOfCarsRE/game-server) - Powered by OtpGo
-- [WorldOfCarsRE/woc-site](https://github.com/WorldOfCarsRE/woc-site) - Website data for The World of Cars Online
-- [WorldOfCarsRE/woc-media](https://github.com/WorldOfCarsRE/woc-media) - Media files of Disney-Pixar's World of Cars Online
-- [WorldOfCarsRE/woc-api](https://github.com/WorldOfCarsRE/woc-api) - Web API for The World of Cars Online
+- [WorldOfCarsRE/site](https://github.com/WorldOfCarsRE/site) - Website data for The World of Cars Online
+- [WorldOfCarsRE/old-media](https://github.com/WorldOfCarsRE/old-media) - Media files of Disney-Pixar's World of Cars Online
+- [WorldOfCarsRE/api-server](https://github.com/WorldOfCarsRE/api-server) - Web API for The World of Cars Online
 - [Open-OTP/amfpack](https://github.com/Open-OTP/amfpack) - 
 - [WorldOfCarsRE/media](https://github.com/WorldOfCarsRE/media) - Full media dump
 - [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
@@ -819,7 +819,7 @@
 - [proxidize/proxidize-android](https://github.com/proxidize/proxidize-android) - Proxidize Android is an Android application that allows anyone to create a 5G or 4G mobile proxy using their phone. Learn more about Proxidize on https://proxidize.com/
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [dolfies/discord-protos](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.
-- [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
+- [hood-network/patchcord](https://github.com/hood-network/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
 - [Matthew17-21/Captcha-Tools](https://github.com/Matthew17-21/Captcha-Tools) - All-in-one Python (And now Go!) module to help solve captchas with Capmonster, 2captcha, Anticaptcha, and Capsolver API's!
 - [toontownretro/documentation](https://github.com/toontownretro/documentation) - 
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
@@ -1015,7 +1015,7 @@
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [NicheOffice/php-web-proxy](https://github.com/NicheOffice/php-web-proxy) - Online Web Proxy Website Script Written in PHP
@@ -1154,7 +1154,7 @@
 ## self-hosted 
 
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
