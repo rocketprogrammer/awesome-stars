@@ -247,7 +247,7 @@
 
 ## HTML 
 
-- [WorldOfCarsRE/woc-site](https://github.com/WorldOfCarsRE/woc-site) - Website data for The World of Cars Online
+- [WorldOfCarsRE/site](https://github.com/WorldOfCarsRE/site) - Website data for The World of Cars Online
 - [WorldOfCarsRE/media](https://github.com/WorldOfCarsRE/media) - Full media dump
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
@@ -307,8 +307,8 @@
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-- [WorldOfCarsRE/woc-media](https://github.com/WorldOfCarsRE/woc-media) - Media files of Disney-Pixar's World of Cars Online
-- [WorldOfCarsRE/woc-api](https://github.com/WorldOfCarsRE/woc-api) - Web API for The World of Cars Online
+- [WorldOfCarsRE/old-media](https://github.com/WorldOfCarsRE/old-media) - Media files of Disney-Pixar's World of Cars Online
+- [WorldOfCarsRE/api-server](https://github.com/WorldOfCarsRE/api-server) - Web API for The World of Cars Online
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [pglang00/outlook-generator](https://github.com/pglang00/outlook-generator) - Outlook account generator
@@ -421,7 +421,7 @@
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) - ShareXen - Another ShareX Custom Uploader PHP Script
 - [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
@@ -470,7 +470,7 @@
 - [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [dolfies/patchcord](https://github.com/dolfies/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
+- [hood-network/patchcord](https://github.com/hood-network/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
