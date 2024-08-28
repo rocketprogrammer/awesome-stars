@@ -338,6 +338,7 @@
 
 ## docker 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
@@ -463,7 +464,6 @@
 
 ## hacktoberfest 
 
-- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
@@ -1253,6 +1253,7 @@
 
 ## windows 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
