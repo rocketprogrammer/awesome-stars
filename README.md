@@ -624,7 +624,7 @@
 
 ## TypeScript 
 
-- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - An easier way to download media
+- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - Ultimate media downloader
 - [pyoncord/Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
