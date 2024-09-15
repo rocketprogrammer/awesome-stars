@@ -94,6 +94,7 @@
 - [p2p](#p2p)
 - [pentesting](#pentesting)
 - [php](#php)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
@@ -753,7 +754,7 @@
 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
 - [XielQs/httptoolkit-pro-patcher](https://github.com/XielQs/httptoolkit-pro-patcher) - Basic program that patches pro version to HTTP Toolkit
-- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - An easier way to download media
+- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - Ultimate media downloader
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
@@ -1028,6 +1029,10 @@
 - [NicheOffice/php-web-proxy](https://github.com/NicheOffice/php-web-proxy) - Online Web Proxy Website Script Written in PHP
 - [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
+
+## powershell 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## privacy 
 
