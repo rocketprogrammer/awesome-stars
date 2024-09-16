@@ -764,7 +764,7 @@
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [satire7/Toontown-Online-September-2007-US-](https://github.com/satire7/Toontown-Online-September-2007-US-) - 2007 Toontown Online Client
 - [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
-- [thomst08/requestrr](https://github.com/thomst08/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for 
+- [thomst08/requestrr](https://github.com/thomst08/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
 - [enielrodriguez/optimus-gpu-switcher](https://github.com/enielrodriguez/optimus-gpu-switcher) - KDE Plasma widget to change the GPU mode using the EnvyControl command line tool.
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
