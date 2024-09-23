@@ -850,7 +850,6 @@
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [visibou/lunarinjector](https://github.com/visibou/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
-- [crwn1337/wine_injector](https://github.com/crwn1337/wine_injector) - an injector that works with wine
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer) - kernel mode spoofer disk and smbios, socket communication
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
