@@ -33,6 +33,7 @@
 - [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
+- [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
 - [devops](#devops)
@@ -76,6 +77,7 @@
 - [linux](#linux)
 - [lua](#lua)
 - [mac](#mac)
+- [machine-learning](#machine-learning)
 - [macos](#macos)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -99,6 +101,7 @@
 - [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [qt](#qt)
 - [react](#react)
 - [react-native](#react-native)
@@ -266,6 +269,7 @@
 
 ## computer-vision 
 
+- [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
 - [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
 
 ## cpp 
@@ -301,6 +305,11 @@
 
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
+
+## deep-learning 
+
+- [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 
 ## deno 
 
@@ -408,6 +417,7 @@
 
 ## firefox 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Undetected web scraping browser
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 
 ## flask 
@@ -655,6 +665,11 @@
 
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+
+## machine-learning 
+
+- [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 
 ## macos 
 
@@ -1047,6 +1062,7 @@
 
 ## python 
 
+- [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -1100,6 +1116,10 @@
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
 - [alperensert/capmonster_python](https://github.com/alperensert/capmonster_python) - Capmonster.cloud library for Python3
 - [ethanlindley/tlopo-launcher](https://github.com/ethanlindley/tlopo-launcher) - Simple game launcher for TLoPO written in Python 3.7.x
+
+## pytorch 
+
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 
 ## qt 
 
