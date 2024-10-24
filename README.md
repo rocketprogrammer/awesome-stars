@@ -495,7 +495,6 @@
 - [williexu/random_username](https://github.com/williexu/random_username) - A package to randomly generate usernames
 - [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord!
 - [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
-- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [BartGunshot/blender-egg-importer](https://github.com/BartGunshot/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
 - [BartGunshot/potco-blender-tools](https://github.com/BartGunshot/potco-blender-tools) - Blender addon adding various tools for working with POTCO models
@@ -625,7 +624,7 @@
 ## TypeScript 
 
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - Ultimate media downloader
-- [pyoncord/Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
