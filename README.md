@@ -142,7 +142,7 @@
 
 ## C++ 
 
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Undetected web scraping browser
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -623,7 +623,7 @@
 
 ## TypeScript 
 
-- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - Ultimate media downloader
+- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - 🌀 Ultimate media downloader
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
