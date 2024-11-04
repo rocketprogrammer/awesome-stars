@@ -177,6 +177,7 @@
 
 ## automation 
 
+- [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
 - [CheshireCaat/puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - HCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension. Free 6000/month 🔥 on signup
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
@@ -210,6 +211,7 @@
 
 ## bot 
 
+- [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [noCaptchaAi/hCaptchaSolverApi](https://github.com/noCaptchaAi/hCaptchaSolverApi) - HCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension. Free 6000/month 🔥 on signup
@@ -767,6 +769,7 @@
 
 ## others 
 
+- [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
 - [XielQs/httptoolkit-pro-patcher](https://github.com/XielQs/httptoolkit-pro-patcher) - Basic program that patches pro version to HTTP Toolkit
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - 🌀 Ultimate media downloader
