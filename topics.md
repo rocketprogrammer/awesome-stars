@@ -324,7 +324,7 @@
 
 ## discord 
 
-- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
@@ -774,6 +774,7 @@
 
 ## others 
 
+- [emrovsky/hcaptcha-blob-encryption](https://github.com/emrovsky/hcaptcha-blob-encryption) - hcaptcha blob encryption sanboxed solution
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
 - [XielQs/httptoolkit-pro-patcher](https://github.com/XielQs/httptoolkit-pro-patcher) - Basic program that patches pro version to HTTP Toolkit
@@ -958,7 +959,7 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) - System patches to stream most switch games with sysdvr
 - [wizguin/yukon-server](https://github.com/wizguin/yukon-server) - A server for https://github.com/wizguin/yukon
-- [wizguin/yukon](https://github.com/wizguin/yukon) - 
+- [wizguin/yukon](https://github.com/wizguin/yukon) - HTML5 virtual world
 - [dosdude1/discord-lite](https://github.com/dosdude1/discord-lite) - An ultra-lightweight native Discord client for vintage and modern Mac OS
 - [86Box/roms](https://github.com/86Box/roms) - ROMs for the 86Box emulator. For development versions of 86Box, the recommended way to use this repository is to clone it instead of downloading the tagged releases.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
@@ -1138,7 +1139,7 @@
 
 ## react-native 
 
-- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 
 ## reactjs 
