@@ -777,7 +777,6 @@
 - [emrovsky/hcaptcha-blob-encryption](https://github.com/emrovsky/hcaptcha-blob-encryption) - hcaptcha blob encryption sanboxed solution
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
-- [XielQs/httptoolkit-pro-patcher](https://github.com/XielQs/httptoolkit-pro-patcher) - Basic program that patches pro version to HTTP Toolkit
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - 🌀 Ultimate media downloader
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
