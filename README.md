@@ -289,7 +289,6 @@
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
 - [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Toy Minecraft Server Scanner
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
-- [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [AllinolCP/CPI-SFS2X-Extension](https://github.com/AllinolCP/CPI-SFS2X-Extension) - CPI SFS2X Extension never finished
 - [legitatx/cpi-web-service](https://github.com/legitatx/cpi-web-service) - Web service impl for Club Penguin Island private servers
 - [loonaticx/DemiBOT](https://github.com/loonaticx/DemiBOT) - DemiBOT is an amazing remote control Java Discord bot, created by the infamous Loonatic and Disyer.
@@ -626,6 +625,7 @@
 
 ## TypeScript 
 
+- [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - Ultimate media downloader
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
