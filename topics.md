@@ -127,6 +127,7 @@
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [webapp](#webapp)
@@ -800,7 +801,6 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [mghost99/Toontown-Launcher-PySide2](https://github.com/mghost99/Toontown-Launcher-PySide2) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too. Went from PyQt5, t
 - [gabe565/linuxserver-mod-vuetorrent](https://github.com/gabe565/linuxserver-mod-vuetorrent) - Docker mod that installs VueTorrent to the LinuxServer.io qBittorrent images
-- [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core) - YouTube video downloader in javascript.
 - [ChonDoit/treble_cherishos_patches](https://github.com/ChonDoit/treble_cherishos_patches) - Patches for build CherishOS as PHH-Treble GSI
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
@@ -820,7 +820,6 @@
 - [LittleToonCat/dcparser-wasm](https://github.com/LittleToonCat/dcparser-wasm) - Emscripten bindings for Panda3D's DC file reader and packer.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
-- [steve228uk/TunnelDeck](https://github.com/steve228uk/TunnelDeck) - A Decky Plugin for Steam Deck to Access Wireguard and OpenVPN Connections From Gaming Mode
 - [ali-raheem/esrtool](https://github.com/ali-raheem/esrtool) - Port of the PS2 Homebrew ESRtool to Rust and modern platforms.
 - [MechaResearch/MechaPwn](https://github.com/MechaResearch/MechaPwn) - 
 - [ps2homebrew/Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
@@ -919,7 +918,6 @@
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-- [Courvix-Network/Courvix-VPN](https://github.com/Courvix-Network/Courvix-VPN) - The official VPN client for the Courvix Network
 - [mm201/pkmn-classic-framework](https://github.com/mm201/pkmn-classic-framework) - Pokémon application logic for Generation IV and V, including servers
 - [AmJayden/wizard101-spoofer](https://github.com/AmJayden/wizard101-spoofer) - Spoof your HWID on Wizard101 and log events and packets by name
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
@@ -1278,6 +1276,17 @@
 
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+## vpn 
+
+- [steve228uk/TunnelDeck](https://github.com/steve228uk/TunnelDeck) - A Decky Plugin for Steam Deck to Access Wireguard and OpenVPN Connections From Gaming Mode
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+- [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+- [Courvix-Network/Courvix-VPN](https://github.com/Courvix-Network/Courvix-VPN) - The official VPN client for the Courvix Network
+- [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## vue 
 
