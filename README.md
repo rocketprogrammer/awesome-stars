@@ -146,6 +146,7 @@
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [LittleToonCat/OtpGo](https://github.com/LittleToonCat/OtpGo) - Disney's OTP (Online Theme Park) server written in Go.
 - [LittleToonCat/dcparser-go](https://github.com/LittleToonCat/dcparser-go) - Panda3D's DC file reader and packer bindings for Go.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [LittleToonCat/dcparser-wasm](https://github.com/LittleToonCat/dcparser-wasm) - Emscripten bindings for Panda3D's DC file reader and packer.
@@ -224,7 +225,6 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [vadv/gopher-lua-libs](https://github.com/vadv/gopher-lua-libs) - Libs for gopher lua
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
-- [LittleToonCat/OtpGo](https://github.com/LittleToonCat/OtpGo) - Disney's OTP (Online Theme Park) server written in Go.
 - [cedws/ki-keyring](https://github.com/cedws/ki-keyring) - Utility for ejecting/injecting sets of obfuscated public keys from/into WizardGraphicalClient binaries
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [JustTalDevelops/go-hcaptcha](https://github.com/JustTalDevelops/go-hcaptcha) - A Go library for solving hCaptchas with any image recognition API.
@@ -299,7 +299,6 @@
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
 - [CheshireCaat/puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core) - YouTube video downloader in javascript.
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
