@@ -625,7 +625,7 @@
 ## TypeScript 
 
 - [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
-- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - Ultimate media downloader
+- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save your favorite content effortlessly
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
