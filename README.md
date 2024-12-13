@@ -443,6 +443,7 @@
 
 ## Python 
 
+- [CSolverV2/hCaptcha-Encoding-Reverse](https://github.com/CSolverV2/hCaptcha-Encoding-Reverse) - Fully reversed hCaptcha event encoding function written in python
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
