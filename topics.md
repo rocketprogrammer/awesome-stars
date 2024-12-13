@@ -778,6 +778,7 @@
 
 ## others 
 
+- [CSolverV2/hCaptcha-Encoding-Reverse](https://github.com/CSolverV2/hCaptcha-Encoding-Reverse) - Fully reversed hCaptcha event encoding function written in python
 - [emrovsky/hcaptcha-blob-encryption](https://github.com/emrovsky/hcaptcha-blob-encryption) - hcaptcha blob encryption sanboxed solution
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
