@@ -443,6 +443,8 @@
 
 ## Python 
 
+- [CSolverV2/hCaptcha-Blob-Reverse](https://github.com/CSolverV2/hCaptcha-Blob-Reverse) - Not a full reverse, but a dynamic sandbox to encrypt hCaptcha's events into the `fingerprint_blob` value
+- [CSolverV2/hCaptcha-ID-Decoder](https://github.com/CSolverV2/hCaptcha-ID-Decoder) - Decode hCaptcha's event id's dynamically, they are not standard like they are in the hsw, they are encoded.
 - [CSolverV2/hCaptcha-Encoding-Reverse](https://github.com/CSolverV2/hCaptcha-Encoding-Reverse) - Fully reversed hCaptcha event encoding function written in python
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
