@@ -778,6 +778,8 @@
 
 ## others 
 
+- [CSolverV2/hCaptcha-Blob-Reverse](https://github.com/CSolverV2/hCaptcha-Blob-Reverse) - Not a full reverse, but a dynamic sandbox to encrypt hCaptcha's events into the `fingerprint_blob` value
+- [CSolverV2/hCaptcha-ID-Decoder](https://github.com/CSolverV2/hCaptcha-ID-Decoder) - Decode hCaptcha's event id's dynamically, they are not standard like they are in the hsw, they are encoded.
 - [CSolverV2/hCaptcha-Encoding-Reverse](https://github.com/CSolverV2/hCaptcha-Encoding-Reverse) - Fully reversed hCaptcha event encoding function written in python
 - [emrovsky/hcaptcha-blob-encryption](https://github.com/emrovsky/hcaptcha-blob-encryption) - hcaptcha blob encryption sanboxed solution
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
