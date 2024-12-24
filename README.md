@@ -52,11 +52,11 @@
 
 ## Batchfile 
 
+- [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [toontownlpz/PorTTRguese](https://github.com/toontownlpz/PorTTRguese) - A content pack for Toontown Rewritten, restoring many of the texture changes featured in Toontown Brazil. For the Portuguese fans.
 - [frederic/sabrina-custom-os](https://github.com/frederic/sabrina-custom-os) - Resources to boot Ubuntu on Chromecast with Google TV
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [horta/zlib.install](https://github.com/horta/zlib.install) - ZLIB installer for Windows.
-- [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 
 ## Blade 
 
