@@ -779,7 +779,6 @@
 ## others 
 
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
-- [emrovsky/hcaptcha-blob-encryption](https://github.com/emrovsky/hcaptcha-blob-encryption) - hcaptcha blob encryption sanboxed solution
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save your favorite content effortlessly
