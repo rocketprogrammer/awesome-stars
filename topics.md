@@ -634,7 +634,7 @@
 ## laravel 
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [cp6/my-idlers](https://github.com/cp6/my-idlers) - Web app for displaying, organizing and storing information about servers (VPS), shared hosting, reseller hosting, domains and more.
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
@@ -1046,6 +1046,7 @@
 ## php 
 
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
@@ -1197,6 +1198,7 @@
 
 ## self-hosted 
 
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
