@@ -987,7 +987,7 @@
 - [TheNexusAvenger/Nexus-Relay](https://github.com/TheNexusAvenger/Nexus-Relay) - Relays TCP and UDP traffic to another host.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
-- [legitatx/cpi-web-service](https://github.com/legitatx/cpi-web-service) - Web service impl for Club Penguin Island private servers
+- [ryanatlascreative/cpi-web-service](https://github.com/ryanatlascreative/cpi-web-service) - Web service impl for Club Penguin Island private servers
 - [arizvisa/antifreeze](https://github.com/arizvisa/antifreeze) - my earlier part of antifreeze before we merged our work and refined it. this is incomplete and unmaintained. you guys were lucky i found this on a hard disk image, anywayz.
 - [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
 - [atauenis/webone](https://github.com/atauenis/webone) - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.
