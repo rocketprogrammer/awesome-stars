@@ -64,6 +64,7 @@
 
 ## C 
 
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [MechaResearch/MechaPwn](https://github.com/MechaResearch/MechaPwn) - 
@@ -142,6 +143,7 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Loukious/StremioDiscordRichPresence](https://github.com/Loukious/StremioDiscordRichPresence) - Discord rich presence for Stremio
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
@@ -623,6 +625,7 @@
 
 ## TypeScript 
 
+- [MiddleSchoolStudent/BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) - BotBrowser modifies Chromium's C++ kernel to emulate a real browser, bypassing Cloudflare, F5 Shape, PerimeterX, Akamai, Kasada, and reCAPTCHA with unmatched stealth and reliability.
 - [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save your favorite content effortlessly
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
