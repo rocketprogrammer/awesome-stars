@@ -180,7 +180,6 @@
 
 ## automation 
 
-- [MiddleSchoolStudent/BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) - BotBrowser modifies Chromium's C++ kernel to emulate a real browser, bypassing Cloudflare, F5 Shape, PerimeterX, Akamai, Kasada, and reCAPTCHA with unmatched stealth and reliability.
 - [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
 - [CheshireCaat/puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [noCaptchaAi/NoCaptcha-Ai-Browser-Extension](https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension) - qCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension
@@ -331,7 +330,7 @@
 
 ## discord 
 
-- [Loukious/StremioDiscordRichPresence](https://github.com/Loukious/StremioDiscordRichPresence) - Discord rich presence for Stremio
+- [Loukious/StremioDiscordRichPresence](https://github.com/Loukious/StremioDiscordRichPresence) - Discord rich presence for Stremio 4
 - [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
