@@ -144,7 +144,7 @@
 ## C++ 
 
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [Loukious/StremioDiscordRichPresence](https://github.com/Loukious/StremioDiscordRichPresence) - Discord rich presence for Stremio
+- [Loukious/StremioDiscordRichPresence](https://github.com/Loukious/StremioDiscordRichPresence) - Discord rich presence for Stremio 4
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
@@ -625,7 +625,6 @@
 
 ## TypeScript 
 
-- [MiddleSchoolStudent/BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) - BotBrowser modifies Chromium's C++ kernel to emulate a real browser, bypassing Cloudflare, F5 Shape, PerimeterX, Akamai, Kasada, and reCAPTCHA with unmatched stealth and reliability.
 - [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save your favorite content effortlessly
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
