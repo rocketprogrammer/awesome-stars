@@ -218,7 +218,7 @@
 
 - [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
-- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [noCaptchaAi/NoCaptcha-Ai-Browser-Extension](https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension) - qCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
@@ -340,7 +340,7 @@
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
-- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) - Displays the content you're currently watching on Discord!
 - [MrCoolAndroid/Xbox-Rich-Presence-Discord](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord) - Xbox Rich Presence for your Discord status! Join our Discord: https://discord.gg/y22ujrB5e2
