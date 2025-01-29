@@ -635,7 +635,7 @@
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
-- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
