@@ -459,7 +459,7 @@
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download YouTube videos and audios by title/id/url
+- [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download YouTube videos  in mp4 and mp3 formats by specifying title/id/url
 - [vbe0201/wizproxy](https://github.com/vbe0201/wizproxy) - Proxy to circumvent Wizard101 packet encryption
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [dafta/DeckMTP](https://github.com/dafta/DeckMTP) - A DeckyLoader plugin for enabling MTP transfer over USB
