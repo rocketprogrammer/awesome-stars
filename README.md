@@ -392,7 +392,6 @@
 
 - [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
 - [satire7/Toontown-Online-September-2007-US-](https://github.com/satire7/Toontown-Online-September-2007-US-) - 2007 Toontown Online Client
-- [toontownlpz/TheToontownLogoVault](https://github.com/toontownlpz/TheToontownLogoVault) - An archive of Toontown fan project logos and their evolvement over the years.
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
 - [FanaticalWarlock/RealmIsFree](https://github.com/FanaticalWarlock/RealmIsFree) - 
