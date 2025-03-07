@@ -822,7 +822,6 @@
 - [enielrodriguez/optimus-gpu-switcher](https://github.com/enielrodriguez/optimus-gpu-switcher) - KDE Plasma widget to change the GPU mode using the EnvyControl command line tool.
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
-- [toontownlpz/TheToontownLogoVault](https://github.com/toontownlpz/TheToontownLogoVault) - An archive of Toontown fan project logos and their evolvement over the years.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
