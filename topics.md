@@ -146,7 +146,6 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
-- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
@@ -583,6 +582,7 @@
 
 ## ios 
 
+- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
@@ -1213,6 +1213,7 @@
 
 ## security 
 
+- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app
 - [CheshireCaat/puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
