@@ -124,7 +124,6 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
-- [termux](#termux)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
@@ -143,11 +142,9 @@
 
 ## android 
 
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
-- [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
@@ -795,6 +792,7 @@
 
 ## others 
 
+- [avadhesh18/rdx](https://github.com/avadhesh18/rdx) - RDX for Reddit - web viewer for Reddit, Anonymously browse Reddit
 - [ToontownGrindworks/ttgrindworks](https://github.com/ToontownGrindworks/ttgrindworks) - Toontown: The Grindworks
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
 - [crispyaus/tabby-discord-presence](https://github.com/crispyaus/tabby-discord-presence) - Adds a Rich Presence for Discord to Tabby Terminal
@@ -1275,10 +1273,6 @@
 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-
-## termux 
-
-- [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 
 ## typescript 
 
