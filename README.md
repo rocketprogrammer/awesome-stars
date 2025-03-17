@@ -285,7 +285,6 @@
 - [NEU-SNS/wehe-android](https://github.com/NEU-SNS/wehe-android) - Wehe Android app source code
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
-- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [nodusclient/gatekeep](https://github.com/nodusclient/gatekeep) - 
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
@@ -304,7 +303,7 @@
 
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
 - [Loukious/stremio-shell-ng](https://github.com/Loukious/stremio-shell-ng) - Stremio shell using WebView2/mpv, written in Rust with Discord Rich Presence and media keys support
-- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save your favorite content effortlessly
+- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save now, watch and listen later
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
 - [CheshireCaat/puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
@@ -629,6 +628,8 @@
 
 ## Swift 
 
+- [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
+- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
 - [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app
 - [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
