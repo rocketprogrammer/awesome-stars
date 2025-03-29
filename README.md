@@ -600,6 +600,7 @@
 
 ## Shell 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
 - [ChonDoit/treble_cherishos_patches](https://github.com/ChonDoit/treble_cherishos_patches) - Patches for build CherishOS as PHH-Treble GSI
@@ -638,7 +639,6 @@
 
 ## TypeScript 
 
-- [voideditor/void](https://github.com/voideditor/void) - 
 - [crispyaus/tabby-discord-presence](https://github.com/crispyaus/tabby-discord-presence) - Adds a Rich Presence for Discord to Tabby Terminal
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
