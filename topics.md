@@ -131,7 +131,6 @@
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
-- [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -241,7 +240,6 @@
 
 ## chatgpt 
 
-- [voideditor/void](https://github.com/voideditor/void) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -683,7 +681,6 @@
 ## llm 
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
-- [voideditor/void](https://github.com/voideditor/void) - 
 
 ## lua 
 
@@ -782,13 +779,11 @@
 
 ## open-source 
 
-- [voideditor/void](https://github.com/voideditor/void) - 
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 
 ## openai 
 
-- [voideditor/void](https://github.com/voideditor/void) - 
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
@@ -804,6 +799,7 @@
 
 ## others 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [avadhesh18/rdx](https://github.com/avadhesh18/rdx) - RDX for Reddit - web viewer for Reddit, Anonymously browse Reddit
 - [ToontownGrindworks/ttgrindworks](https://github.com/ToontownGrindworks/ttgrindworks) - Toontown: The Grindworks
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
@@ -1322,10 +1318,6 @@
 
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-## visual-studio-code 
-
-- [voideditor/void](https://github.com/voideditor/void) - 
 
 ## vpn 
 
