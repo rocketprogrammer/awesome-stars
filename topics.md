@@ -274,7 +274,6 @@
 
 - [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
-- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
 
 ## cpp 
 
@@ -681,6 +680,7 @@
 ## llm 
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 ## lua 
 
