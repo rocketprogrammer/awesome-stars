@@ -243,6 +243,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 ## chatgpt-api 
 
@@ -788,6 +789,7 @@
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
+- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 ## opengl 
 
