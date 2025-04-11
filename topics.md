@@ -37,6 +37,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -327,6 +328,12 @@
 
 ## deployment 
 
+- [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
+
+## development 
+
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
 
 ## devops 
