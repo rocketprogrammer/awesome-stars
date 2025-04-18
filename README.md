@@ -304,7 +304,6 @@
 
 ## JavaScript 
 
-- [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
 - [Loukious/stremio-shell-ng](https://github.com/Loukious/stremio-shell-ng) - Stremio shell using WebView2/mpv, written in Rust with Discord Rich Presence and media keys support
 - [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save now, watch and listen later
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
