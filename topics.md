@@ -812,7 +812,7 @@
 
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [avadhesh18/rdx](https://github.com/avadhesh18/rdx) - RDX for Reddit - web viewer for Reddit, Anonymously browse Reddit
-- [ToontownGrindworks/ttgrindworks](https://github.com/ToontownGrindworks/ttgrindworks) - Toontown: The Grindworks
+- [ToontownGrindworks/grindworks](https://github.com/ToontownGrindworks/grindworks) - Toontown: The Grindworks
 - [crispyaus/tabby-discord-presence](https://github.com/crispyaus/tabby-discord-presence) - Adds a Rich Presence for Discord to Tabby Terminal
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [itsToggle/rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
