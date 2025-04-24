@@ -227,7 +227,7 @@
 
 ## GDScript 
 
-- [ToontownGrindworks/ttgrindworks](https://github.com/ToontownGrindworks/ttgrindworks) - Toontown: The Grindworks
+- [ToontownGrindworks/grindworks](https://github.com/ToontownGrindworks/grindworks) - Toontown: The Grindworks
 
 ## Go 
 
