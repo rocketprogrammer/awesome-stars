@@ -810,6 +810,7 @@
 
 ## others 
 
+- [hansalemaos/get_free_port](https://github.com/hansalemaos/get_free_port) - Get free dynamic / registered ports
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [avadhesh18/rdx](https://github.com/avadhesh18/rdx) - RDX for Reddit - web viewer for Reddit, Anonymously browse Reddit
 - [ToontownGrindworks/grindworks](https://github.com/ToontownGrindworks/grindworks) - Toontown: The Grindworks
