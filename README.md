@@ -452,6 +452,7 @@
 
 ## Python 
 
+- [hansalemaos/get_free_port](https://github.com/hansalemaos/get_free_port) - Get free dynamic / registered ports
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
