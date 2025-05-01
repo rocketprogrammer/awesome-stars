@@ -654,7 +654,7 @@
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
-- [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs.
+- [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
 - [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
