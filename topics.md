@@ -1039,7 +1039,7 @@
 - [open-toontown/open-toontown](https://github.com/open-toontown/open-toontown) - Open source Toontown Online, based on the latest version of Disney's Toontown Online (sv1.0.47.38).
 - [darktohka/p3dephaser](https://github.com/darktohka/p3dephaser) - Dephaser: decrypt Panda3D multifiles on the fly.
 - [P3DCAT/TTAlphaCombiner](https://github.com/P3DCAT/TTAlphaCombiner) - Converts Panda3D bam models using JPG+RGB textures to use PNG textures.
-- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
+- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [hax0kartik/wumiibo](https://github.com/hax0kartik/wumiibo) - Amiibo Emulation for 3ds
 - [rocketprogrammer/disney-miles](https://github.com/rocketprogrammer/disney-miles) - Disney's original Miles audio library.
 - [ashah360/GrubNinja](https://github.com/ashah360/GrubNinja) - Wizard101 Grub Guardian automation client
