@@ -293,7 +293,7 @@
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
-- [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
+- [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://modrinth.com/plugin/fastasyncworldedit
 - [End-Tech/syncmatica](https://github.com/End-Tech/syncmatica) - Server-wide shared litematics.
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
 - [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Toy Minecraft Server Scanner
@@ -453,7 +453,6 @@
 
 ## Python 
 
-- [hansalemaos/get_free_port](https://github.com/hansalemaos/get_free_port) - Get free dynamic / registered ports
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
