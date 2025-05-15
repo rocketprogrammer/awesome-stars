@@ -826,7 +826,7 @@
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
-- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - ✨ Save now, watch and listen later
+- [vitalygashkov/streamyx](https://github.com/vitalygashkov/streamyx) - A powerful, extensible app for downloading videos
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
