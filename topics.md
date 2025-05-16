@@ -1179,7 +1179,7 @@
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 
 ## react-native 
 
@@ -1188,7 +1188,7 @@
 
 ## reactjs 
 
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 
 ## redux 
 
