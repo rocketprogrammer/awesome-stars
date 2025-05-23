@@ -491,7 +491,7 @@
 ## golang 
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Qbittorent API with Debrid Support
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent API with Debrid Support
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [JustTalDevelops/go-hcaptcha](https://github.com/JustTalDevelops/go-hcaptcha) - A Go library for solving hCaptchas with any image recognition API.
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
@@ -1080,7 +1080,7 @@
 ## p2p 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
+- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 
 ## pentesting 
 
