@@ -300,7 +300,7 @@
 
 ## csharp 
 
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) - C# custom implementation for Discord Rich Presence. Not deprecated and still available!
@@ -593,7 +593,7 @@
 
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
 - [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
-- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app
+- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS Auth iOS app
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
@@ -1228,7 +1228,7 @@
 
 ## security 
 
-- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app
+- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS Auth iOS app
 - [CheshireCaat/puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
