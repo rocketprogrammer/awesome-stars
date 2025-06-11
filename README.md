@@ -14,7 +14,6 @@
 - [CSS](#css)
 - [Crystal](#crystal)
 - [Cython](#cython)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [GDScript](#gdscript)
@@ -213,10 +212,6 @@
 - [Open-OTP/amfpack](https://github.com/Open-OTP/amfpack) - 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
-## Dart 
-
-- [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
-
 ## Dockerfile 
 
 - [gabe565/linuxserver-mod-vuetorrent](https://github.com/gabe565/linuxserver-mod-vuetorrent) - Docker mod that installs VueTorrent to the LinuxServer.io qBittorrent images
@@ -231,6 +226,7 @@
 
 ## Go 
 
+- [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [itsToggle/rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
 - [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent API with Debrid Support
@@ -630,6 +626,7 @@
 
 ## Swift 
 
+- [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
 - [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
 - [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS Auth iOS app
