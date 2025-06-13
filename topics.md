@@ -444,6 +444,7 @@
 
 ## flask 
 
+- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [DarkflameUniverse/NexusDashboard](https://github.com/DarkflameUniverse/NexusDashboard) - Dashboard for Complete Management of a DLU game server
 
 ## flutter 
