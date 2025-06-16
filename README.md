@@ -167,7 +167,6 @@
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [rocketprogrammer/ttsrc](https://github.com/rocketprogrammer/ttsrc) - Toontown Anesidora (sv1.0.40.25.test)
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
-- [aronamao/Discord-Rich-Presence-For-Maya](https://github.com/aronamao/Discord-Rich-Presence-For-Maya) - Simple Plugin for Autodesk Maya to display current status in Discord
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
 - [AmJayden/wizard101-spoofer](https://github.com/AmJayden/wizard101-spoofer) - Spoof your HWID on Wizard101 and log events and packets by name
 - [ntpopgetdope/ida-rpc](https://github.com/ntpopgetdope/ida-rpc) - Discord rich presence plugin for IDA Pro 7.0
@@ -504,6 +503,7 @@
 - [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
 - [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
+- [aronamao/Discord-Rich-Presence-For-Maya](https://github.com/aronamao/Discord-Rich-Presence-For-Maya) - Simple Plugin for Autodesk Maya to display current status in Discord
 - [BartGunshot/blender-egg-importer](https://github.com/BartGunshot/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
 - [BartGunshot/potco-blender-tools](https://github.com/BartGunshot/potco-blender-tools) - Blender addon adding various tools for working with POTCO models
 - [rdb/blender-egg-importer](https://github.com/rdb/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
