@@ -350,7 +350,7 @@
 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
-- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
 - [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [proxidize/proxidize-android](https://github.com/proxidize/proxidize-android) - Proxidize Android is an Android application that allows anyone to create a 5G or 4G mobile proxy using their phone. Learn more about Proxidize on https://proxidize.com/
