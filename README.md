@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Crystal](#crystal)
 - [Cython](#cython)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [GDScript](#gdscript)
@@ -209,6 +210,10 @@
 
 - [Open-OTP/amfpack](https://github.com/Open-OTP/amfpack) - 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+
+## Dart 
+
+- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 
 ## Dockerfile 
 
