@@ -58,6 +58,7 @@
 - [frederic/sabrina-custom-os](https://github.com/frederic/sabrina-custom-os) - Resources to boot Ubuntu on Chromecast with Google TV
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [horta/zlib.install](https://github.com/horta/zlib.install) - ZLIB installer for Windows.
+- [toontownlpz/The-Classic-Pack](https://github.com/toontownlpz/The-Classic-Pack) - A content pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
 
 ## Blade 
 
@@ -310,7 +311,6 @@
 - [bablosoft/puppeteer-with-fingerprints](https://github.com/bablosoft/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
-- [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -419,7 +419,6 @@
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
 - [PretendoNetwork/.github](https://github.com/PretendoNetwork/.github) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [OpenFusionProject/tabledata](https://github.com/OpenFusionProject/tabledata) - Dumped tabledata from the OG FusionFall clients
-- [toontownlpz/The-Classic-Pack](https://github.com/toontownlpz/The-Classic-Pack) - A content pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
 - [CloudCityDev/Toontown-macOS-sv1.0.47.31](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.47.31) - 
 
 ## PHP 
@@ -652,6 +651,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
