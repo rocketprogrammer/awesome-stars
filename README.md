@@ -24,10 +24,10 @@
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
 - [Objective-C](#objective-c)
@@ -230,7 +230,7 @@
 ## Go 
 
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [itsToggle/rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
 - [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent API with Debrid Support
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -347,6 +347,10 @@
 - [ashah360/GrubNinja](https://github.com/ashah360/GrubNinja) - Wizard101 Grub Guardian automation client
 - [OpenFusionProject/OpenFusionClient](https://github.com/OpenFusionProject/OpenFusionClient) - Electron app to easily connect to FusionFall servers
 
+## Jupyter Notebook 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
 ## Kotlin 
 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
@@ -370,10 +374,6 @@
 - [misterupkeep/soe-dissector](https://github.com/misterupkeep/soe-dissector) - Wireshark dissector(s) for Sony Online Entertainment's Reliable UDP protocol (version string `CGAPI_527`).
 - [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) - Service eggs for the pterodactyl panel
 - [xuwaters/wireshark-smartfoxserver](https://github.com/xuwaters/wireshark-smartfoxserver) - This wireshark plugin is used for dissecting SmartFoxServer protocol.
-
-## MDX 
-
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
 
