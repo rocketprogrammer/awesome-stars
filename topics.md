@@ -823,7 +823,7 @@
 
 ## others 
 
-- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows.
+- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [avadhesh18/rdx](https://github.com/avadhesh18/rdx) - RDX for Reddit - web viewer for Reddit, Anonymously browse Reddit
