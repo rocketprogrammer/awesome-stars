@@ -197,6 +197,7 @@
 
 ## CSS 
 
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [tborychowski/elastic-dark](https://github.com/tborychowski/elastic-dark) - Roundcube Skin
 - [snappycreeper/OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 - [Courvix-Network/Courvix-Dark](https://github.com/Courvix-Network/Courvix-Dark) - Dark theme for Roundcube as used by Courvix Mail
