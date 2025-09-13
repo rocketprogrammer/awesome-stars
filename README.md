@@ -639,7 +639,7 @@
 ## TypeScript 
 
 - [crispyaus/tabby-discord-presence](https://github.com/crispyaus/tabby-discord-presence) - Adds a Rich Presence for Discord to Tabby Terminal
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [c0ders-io/lavamusic](https://github.com/c0ders-io/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
