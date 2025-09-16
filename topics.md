@@ -824,6 +824,7 @@
 
 ## others 
 
+- [wizspoil/wiztype](https://github.com/wizspoil/wiztype) - A type dumper for wizard101
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
