@@ -96,6 +96,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opengl](#opengl)
@@ -800,6 +801,10 @@
 ## npm 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## obsidian 
+
+- [ObsidianMC/Obsidian](https://github.com/ObsidianMC/Obsidian) - A C# implementation of the Minecraft server protocol.
 
 ## open-source 
 
