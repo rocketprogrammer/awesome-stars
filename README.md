@@ -299,7 +299,7 @@
 - [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Toy Minecraft Server Scanner
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [AllinolCP/CPI-SFS2X-Extension](https://github.com/AllinolCP/CPI-SFS2X-Extension) - CPI SFS2X Extension never finished
-- [ryanatlascreative/cpi-web-service](https://github.com/ryanatlascreative/cpi-web-service) - Web service impl for Club Penguin Island private servers
+- [legitatx/cpi-web-service](https://github.com/legitatx/cpi-web-service) - Web service impl for Club Penguin Island private servers
 - [loonaticx/DemiBOT](https://github.com/loonaticx/DemiBOT) - DemiBOT is an amazing remote control Java Discord bot, created by the infamous Loonatic and Disyer.
 
 ## JavaScript 
