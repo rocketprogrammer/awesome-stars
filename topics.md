@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -29,11 +30,13 @@
 - [code](#code)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptography](#cryptography)
 - [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
+- [data](#data)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
@@ -148,6 +151,10 @@
 
 - [Bforartists/Bforartists](https://github.com/Bforartists/Bforartists) - Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 
+## ai 
+
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+
 ## android 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -185,6 +192,7 @@
 
 ## automation 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
 - [bablosoft/puppeteer-with-fingerprints](https://github.com/bablosoft/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [noCaptchaAi/NoCaptcha-Ai-Browser-Extension](https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension) - qCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension
@@ -294,6 +302,10 @@
 - [madduci/docker-msvc-cpp](https://github.com/madduci/docker-msvc-cpp) - Dockerized Visual C++ environment with wine
 - [skypjack/uvw](https://github.com/skypjack/uvw) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
 
+## crawler 
+
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+
 ## cryptography 
 
 - [cedws/ki-keyring](https://github.com/cedws/ki-keyring) - Utility for ejecting/injecting sets of obfuscated public keys from/into WizardGraphicalClient binaries
@@ -323,6 +335,10 @@
 ## dart 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+## data 
+
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 
 ## deep-learning 
 
@@ -508,7 +524,7 @@
 
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent API with Debrid Support
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent Mock with Debrid Support
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [JustTalDevelops/go-hcaptcha](https://github.com/JustTalDevelops/go-hcaptcha) - A Go library for solving hCaptchas with any image recognition API.
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
@@ -608,7 +624,7 @@
 ## ios 
 
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
-- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS Auth iOS app
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
@@ -724,7 +740,7 @@
 
 ## macos 
 
-- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
@@ -1133,6 +1149,7 @@
 
 ## python 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
@@ -1304,7 +1321,7 @@
 ## swiftui 
 
 - [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
-- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 
 ## tailwindcss 
@@ -1359,7 +1376,7 @@
 
 ## vpn 
 
-- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [steve228uk/TunnelDeck](https://github.com/steve228uk/TunnelDeck) - A Decky Plugin for Steam Deck to Access Wireguard and OpenVPN Connections From Gaming Mode
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
