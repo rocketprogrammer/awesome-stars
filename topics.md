@@ -569,7 +569,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [cp6/my-idlers](https://github.com/cp6/my-idlers) - Web app for displaying, organizing and storing information about servers (VPS), shared hosting, reseller hosting, domains and more.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+- [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows of newer clients to connect to older server versions for Minecraft servers.
 - [ObsidianMC/Obsidian](https://github.com/ObsidianMC/Obsidian) - A C# implementation of the Minecraft server protocol.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -645,7 +645,7 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [GraxCode/threadtear](https://github.com/GraxCode/threadtear) - Multifunctional java deobfuscation tool suite
-- [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+- [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows of newer clients to connect to older server versions for Minecraft servers.
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [loonaticx/DemiBOT](https://github.com/loonaticx/DemiBOT) - DemiBOT is an amazing remote control Java Discord bot, created by the infamous Loonatic and Disyer.
 
@@ -759,7 +759,7 @@
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) - A tool to convert 3D models into Minecraft formats such as .schematic, .litematic, .schem and .nbt
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
-- [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+- [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows of newer clients to connect to older server versions for Minecraft servers.
 - [ObsidianMC/Obsidian](https://github.com/ObsidianMC/Obsidian) - A C# implementation of the Minecraft server protocol.
 - [py-mine/PyMine-Server](https://github.com/py-mine/PyMine-Server) - A fast and easy to use, moddable, Python based Minecraft server!
 - [barneygale/quarry](https://github.com/barneygale/quarry) - Python library that implements the Minecraft network protocol and data types
