@@ -492,7 +492,6 @@
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [AndreiDrang/python3-capsolver](https://github.com/AndreiDrang/python3-capsolver) - Python library for Capsolver
 - [RuslanUC/aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) - Unofficial async wrapper for interacting with hCaptcha
-- [ImNimboss/uberduck](https://github.com/ImNimboss/uberduck) - A synchronous and asynchronous API wrapper for the UberDuck text-to-speech service (https://uberduck.ai) with 100% coverage and top-notch utilities.
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [noCaptchaAi/noCaptcha-py](https://github.com/noCaptchaAi/noCaptcha-py) - :zap: qCaptcha, reCaptcha soolver pypi module
 - [ergrelet/unlicense](https://github.com/ergrelet/unlicense) - Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.
