@@ -39,7 +39,6 @@
 - [QML](#qml)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -146,6 +145,7 @@
 
 ## C++ 
 
+- [openvinotoolkit/openvino_contrib](https://github.com/openvinotoolkit/openvino_contrib) - Repository for OpenVINO's extra modules
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
@@ -230,6 +230,7 @@
 
 ## Go 
 
+- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [itsToggle/rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
@@ -305,6 +306,7 @@
 
 ## JavaScript 
 
+- [miguelsolorio/vscode-symbols](https://github.com/miguelsolorio/vscode-symbols) - A file icon theme for VS Code
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
 - [Loukious/stremio-shell-ng](https://github.com/Loukious/stremio-shell-ng) - Stremio shell using WebView2/mpv, written in Rust with Discord Rich Presence and media keys support
 - [azot-labs/azot](https://github.com/azot-labs/azot) - A powerful, extensible app for downloading videos
@@ -448,6 +450,7 @@
 
 ## Python 
 
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [wizspoil/wiztype](https://github.com/wizspoil/wiztype) - A type dumper for wizard101
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
@@ -482,7 +485,7 @@
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [hood-network/patchcord](https://github.com/hood-network/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
-- [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
+- [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.
 - [mghost99/toontown-launcher](https://github.com/mghost99/toontown-launcher) - A recreation of the Disney's Toontown Online game launcher.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -624,10 +627,6 @@
 - [jwasham/docker-nuke](https://github.com/jwasham/docker-nuke) - Removes all docker containers, images, and volumes.
 - [Toontown-Texture-Restoration/Toontown-Texture-Restoration](https://github.com/Toontown-Texture-Restoration/Toontown-Texture-Restoration) - 
 
-## Svelte 
-
-- [hayase-app/ui](https://github.com/hayase-app/ui) - Formerly Miru. Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
-
 ## Swift 
 
 - [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
@@ -640,6 +639,9 @@
 
 ## TypeScript 
 
+- [CarlosDanielDev/saopaulo-night](https://github.com/CarlosDanielDev/saopaulo-night) - The theme captures that muted cyberpunk São Paulo aesthetic perfectly - pale neon signs through smog, concrete and asphalt tones, metro blue lights, and that dystopian Akira vibe!
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [crispyaus/tabby-discord-presence](https://github.com/crispyaus/tabby-discord-presence) - Adds a Rich Presence for Discord to Tabby Terminal
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
