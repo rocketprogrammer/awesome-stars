@@ -175,6 +175,7 @@
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
+- [crackededed/Xtra](https://github.com/crackededed/Xtra) - Third-party Twitch client for Android
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
 
@@ -583,7 +584,7 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
 - [cp6/my-idlers](https://github.com/cp6/my-idlers) - Web app for displaying, organizing and storing information about servers (VPS), shared hosting, reseller hosting, domains and more.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows of newer clients to connect to older server versions for Minecraft servers.
@@ -691,6 +692,7 @@
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
+- [crackededed/Xtra](https://github.com/crackededed/Xtra) - Third-party Twitch client for Android
 
 ## kubernetes 
 
@@ -1036,7 +1038,6 @@
 - [CPunch/Laika](https://github.com/CPunch/Laika) - Cross-platform RAT, written in C
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
-- [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
 - [Pyrodash/libamf](https://github.com/Pyrodash/libamf) - Action Message Format library for node.js.
 - [oonqt/MBCord](https://github.com/oonqt/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨
 - [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
@@ -1304,7 +1305,7 @@
 ## self-hosted 
 
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
