@@ -515,7 +515,7 @@
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [exploit3dguy/ipwndfu](https://github.com/exploit3dguy/ipwndfu) - My fork of ipwndfu
 - [jellyfin/jellyfin-kodi](https://github.com/jellyfin/jellyfin-kodi) - Jellyfin Plugin for Kodi
-- [wakeupingear/bezos-presence](https://github.com/wakeupingear/bezos-presence) - Discord Integration for Amazon Music
+- [wakeupinagear/bezos-presence](https://github.com/wakeupinagear/bezos-presence) - Discord Integration for Amazon Music
 - [eerimoq/asyncudp](https://github.com/eerimoq/asyncudp) - Asyncio high level UDP sockets.
 - [colinhartigan/valorant-rpc](https://github.com/colinhartigan/valorant-rpc) - Feature-rich Discord rich-presence implementation for VALORANT
 - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
