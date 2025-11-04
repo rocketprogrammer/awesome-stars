@@ -92,6 +92,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [material-design](#material-design)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -140,6 +141,7 @@
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -336,6 +338,7 @@
 
 ## css 
 
+- [Niyko/Hydra-Dark-Theme-for-Adminer](https://github.com/Niyko/Hydra-Dark-Theme-for-Adminer) - Hydra - Material Design Dark Theme for Adminer Database Management tool, Hydra's dark UI improves visibility and works on all major browsers
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -350,6 +353,7 @@
 
 ## database 
 
+- [Niyko/Hydra-Dark-Theme-for-Adminer](https://github.com/Niyko/Hydra-Dark-Theme-for-Adminer) - Hydra - Material Design Dark Theme for Adminer Database Management tool, Hydra's dark UI improves visibility and works on all major browsers
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 
 ## deep-learning 
@@ -696,6 +700,7 @@
 
 ## kubernetes 
 
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## language 
@@ -718,6 +723,7 @@
 
 ## linux 
 
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [L1so/benchy](https://github.com/L1so/benchy) - POSIX Compliant script to bench your server.
@@ -758,6 +764,7 @@
 
 ## macos 
 
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -765,6 +772,10 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
 - [MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel) - An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices
+
+## material-design 
+
+- [Niyko/Hydra-Dark-Theme-for-Adminer](https://github.com/Niyko/Hydra-Dark-Theme-for-Adminer) - Hydra - Material Design Dark Theme for Adminer Database Management tool, Hydra's dark UI improves visibility and works on all major browsers
 
 ## microsoft 
 
@@ -1382,6 +1393,10 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [arakasi72/rtinst](https://github.com/arakasi72/rtinst) - seedbox installation script for Ubuntu and Debian systems
 
+## ui 
+
+- [Niyko/Hydra-Dark-Theme-for-Adminer](https://github.com/Niyko/Hydra-Dark-Theme-for-Adminer) - Hydra - Material Design Dark Theme for Adminer Database Management tool, Hydra's dark UI improves visibility and works on all major browsers
+
 ## unity 
 
 - [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) - C# custom implementation for Discord Rich Presence. Not deprecated and still available!
@@ -1425,6 +1440,8 @@
 
 ## windows 
 
+- [windirstat/windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
