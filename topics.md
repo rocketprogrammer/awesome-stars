@@ -16,6 +16,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
@@ -28,6 +29,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [code](#code)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
@@ -218,6 +220,10 @@
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
+## azure 
+
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
+
 ## backend 
 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -292,6 +298,10 @@
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+## cloud 
+
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 
 ## code 
 
@@ -371,6 +381,7 @@
 
 ## developer-tools 
 
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## development 
@@ -418,6 +429,7 @@
 
 ## docker 
 
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -700,6 +712,7 @@
 
 ## kubernetes 
 
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
@@ -875,6 +888,7 @@
 
 ## others 
 
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [CarlosDanielDev/saopaulo-night](https://github.com/CarlosDanielDev/saopaulo-night) - The theme captures that muted cyberpunk São Paulo aesthetic perfectly - pale neon signs through smog, concrete and asphalt tones, metro blue lights, and that dystopian Akira vibe!
 - [miguelsolorio/vscode-symbols](https://github.com/miguelsolorio/vscode-symbols) - A file icon theme for VS Code
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
