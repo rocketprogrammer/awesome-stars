@@ -244,7 +244,7 @@
 
 ## bot 
 
-- [c0ders-io/lavamusic](https://github.com/c0ders-io/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
+- [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
 - [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
@@ -396,7 +396,7 @@
 
 ## discord 
 
-- [c0ders-io/lavamusic](https://github.com/c0ders-io/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
+- [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
@@ -828,7 +828,7 @@
 
 ## music 
 
-- [c0ders-io/lavamusic](https://github.com/c0ders-io/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
+- [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
@@ -846,7 +846,7 @@
 
 ## nodejs 
 
-- [c0ders-io/lavamusic](https://github.com/c0ders-io/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
+- [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [aiko-chan-ai/DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) - A patched version of discord, with bot login & Vencord support
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1477,7 +1477,7 @@
 
 ## youtube 
 
-- [c0ders-io/lavamusic](https://github.com/c0ders-io/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
+- [appujet/lavamusic](https://github.com/appujet/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14
 - [Simatwa/y2mate-api](https://github.com/Simatwa/y2mate-api) - Download YouTube videos  in mp4 and mp3 formats by specifying title/id/url
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
