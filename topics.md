@@ -900,6 +900,7 @@
 
 ## others 
 
+- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
 - [amazon-oss/releases](https://github.com/amazon-oss/releases) - 
 - [amazon-oss/android_device_amazon_checkers](https://github.com/amazon-oss/android_device_amazon_checkers) - 
