@@ -945,7 +945,7 @@
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [mghost99/Toontown-Launcher-PySide2](https://github.com/mghost99/Toontown-Launcher-PySide2) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too. Went from PyQt5, t
 - [gabe565/linuxserver-mod-vuetorrent](https://github.com/gabe565/linuxserver-mod-vuetorrent) - Docker mod that installs VueTorrent to the LinuxServer.io qBittorrent images
 - [ChonDoit/treble_cherishos_patches](https://github.com/ChonDoit/treble_cherishos_patches) - Patches for build CherishOS as PHH-Treble GSI
