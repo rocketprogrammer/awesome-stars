@@ -39,6 +39,7 @@
 - [QML](#qml)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -639,6 +640,10 @@
 - [dfletcher/docker-jellyfin-vps](https://github.com/dfletcher/docker-jellyfin-vps) - 
 - [jwasham/docker-nuke](https://github.com/jwasham/docker-nuke) - Removes all docker containers, images, and volumes.
 - [Toontown-Texture-Restoration/Toontown-Texture-Restoration](https://github.com/Toontown-Texture-Restoration/Toontown-Texture-Restoration) - 
+
+## Svelte 
+
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
 
 ## Swift 
 
