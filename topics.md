@@ -31,6 +31,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [code](#code)
+- [command-line](#command-line)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [crawler](#crawler)
@@ -312,6 +313,11 @@
 ## code 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+
+## command-line 
+
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 
 ## computer-vision 
 
