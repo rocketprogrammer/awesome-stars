@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
@@ -89,6 +90,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [languages](#languages)
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
@@ -162,6 +164,10 @@
 ## 3d 
 
 - [Bforartists/Bforartists](https://github.com/Bforartists/Bforartists) - Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
+
+## agent 
+
+- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 ## ai 
 
@@ -289,12 +295,14 @@
 
 ## chrome 
 
+- [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 - [bablosoft/puppeteer-with-fingerprints](https://github.com/bablosoft/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 
 ## chrome-extension 
 
+- [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
@@ -510,6 +518,7 @@
 
 ## firefox 
 
+- [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 
 ## flask 
@@ -743,6 +752,10 @@
 ## language 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
+## languages 
+
+- [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 
 ## laravel 
 
@@ -1230,6 +1243,7 @@
 
 ## productivity 
 
+- [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per
 
