@@ -679,7 +679,7 @@
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [noCaptchaAi/nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) - Puppeteer package for NoCaptchaAI (qCaptcha solver) ⚡️
