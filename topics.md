@@ -147,6 +147,7 @@
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -1442,6 +1443,10 @@
 
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+
+## tui 
+
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 
 ## typescript 
