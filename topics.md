@@ -154,6 +154,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -969,7 +970,6 @@
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
-- [azot-labs/azot](https://github.com/azot-labs/azot) - A powerful, extensible app for downloading videos
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
@@ -1151,7 +1151,6 @@
 - [loonaticx/new-resources](https://github.com/loonaticx/new-resources) - Organized & built Spotify models with textures & models. Experiment using my Spotify tools.
 - [DarkflameUniverse/DarkflameRPC](https://github.com/DarkflameUniverse/DarkflameRPC) - Darkflame Universe Discord RPC
 - [dfletcher/docker-jellyfin-vps](https://github.com/dfletcher/docker-jellyfin-vps) - 
-- [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
 - [jwasham/docker-nuke](https://github.com/jwasham/docker-nuke) - Removes all docker containers, images, and volumes.
 - [thwackertoon/team-ct-toontown-house](https://github.com/thwackertoon/team-ct-toontown-house) - Team CT build of Toontown House dated 03-07-2014, known as the first community-source project.
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
@@ -1167,7 +1166,6 @@
 - [bakatrouble/sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader) - 
 - [TheNexusAvenger/Nexus-Relay](https://github.com/TheNexusAvenger/Nexus-Relay) - Relays TCP and UDP traffic to another host.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [legitatx/cpi-web-service](https://github.com/legitatx/cpi-web-service) - Web service impl for Club Penguin Island private servers
 - [arizvisa/antifreeze](https://github.com/arizvisa/antifreeze) - my earlier part of antifreeze before we merged our work and refined it. this is incomplete and unmaintained. you guys were lucky i found this on a hard disk image, anywayz.
 - [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
@@ -1486,6 +1484,14 @@
 ## vagrant 
 
 - [paleozogt/MSVCDocker](https://github.com/paleozogt/MSVCDocker) - MSVC via Wine in Docker
+
+## video 
+
+- [azot-labs/azot](https://github.com/azot-labs/azot) - A powerful, extensible app for downloading videos
+- [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 
 ## vim 
 
