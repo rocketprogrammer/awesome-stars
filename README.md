@@ -44,7 +44,6 @@
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
-- [YARA](#yara)
 - [Zig](#zig)
 
 ## ActionScript 
@@ -335,6 +334,7 @@
 - [MichalW/gnome-bluetooth-battery-indicator](https://github.com/MichalW/gnome-bluetooth-battery-indicator) - Gnome-Shell extension displaying battery percentage for bluetooth devices
 - [d4c5d1e0/hcaptcha](https://github.com/d4c5d1e0/hcaptcha) - hCaptcha fingerprinting script analysis
 - [Hammad69275/NoCaptchaSolver](https://github.com/Hammad69275/NoCaptchaSolver) - Solve HCaptcha Challenges With The Power Of NoCaptchaAI
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [silexlabs/amfphp-2.0](https://github.com/silexlabs/amfphp-2.0) - Simple Remoting for Web Applications
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV Media Server
 - [debouncedgit/repo.me](https://github.com/debouncedgit/repo.me) - a modern apt repository template built by the community
@@ -342,7 +342,7 @@
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -462,6 +462,7 @@
 
 ## Python 
 
+- [HumanSignal/label-studio-sdk](https://github.com/HumanSignal/label-studio-sdk) - Label Studio SDK
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
@@ -469,9 +470,8 @@
 - [wizspoil/wiztype](https://github.com/wizspoil/wiztype) - A type dumper for wizard101
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
-- [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
+- [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
-- [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
@@ -659,6 +659,7 @@
 
 ## TypeScript 
 
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [CarlosDanielDev/saopaulo-night](https://github.com/CarlosDanielDev/saopaulo-night) - The theme captures that muted cyberpunk São Paulo aesthetic perfectly - pale neon signs through smog, concrete and asphalt tones, metro blue lights, and that dystopian Akira vibe!
@@ -704,10 +705,6 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [ngrie/rtmpie](https://github.com/ngrie/rtmpie) - Out-of-the-box RTMP streaming server with a clean and powerful web interface
-
-## YARA 
-
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## Zig 
 
