@@ -291,7 +291,6 @@
 ## Java 
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
-- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [antoniovazquezblanco/GhidraFindcrypt](https://github.com/antoniovazquezblanco/GhidraFindcrypt) - Ghidra analysis plugin to locate cryptographic constants
@@ -365,6 +364,7 @@
 ## Kotlin 
 
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
+- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
