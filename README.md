@@ -288,7 +288,7 @@
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
-- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [antoniovazquezblanco/GhidraFindcrypt](https://github.com/antoniovazquezblanco/GhidraFindcrypt) - Ghidra analysis plugin to locate cryptographic constants
 - [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
@@ -402,7 +402,7 @@
 - [amazon-oss/releases](https://github.com/amazon-oss/releases) - 
 - [Niyko/Hydra-Dark-Theme-for-Adminer](https://github.com/Niyko/Hydra-Dark-Theme-for-Adminer) - Hydra - Material Design Dark Theme for Adminer Database Management tool, Hydra's dark UI improves visibility and works on all major browsers
 - [rebrowser/rebrowser-playwright](https://github.com/rebrowser/rebrowser-playwright) - A drop-in replacement for playwright patched with rebrowser-patches. It allows to pass modern automation detection tests.
-- [azot-labs/azot](https://github.com/azot-labs/azot) - A powerful, extensible app for downloading videos
+- [azot-labs/azot](https://github.com/azot-labs/azot) - Your shortcut to video downloads
 - [satire7/Toontown-Online-September-2007-US-](https://github.com/satire7/Toontown-Online-September-2007-US-) - 2007 Toontown Online Client
 - [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
 - [HailStorm32/LU-Player-Tracker-PCB](https://github.com/HailStorm32/LU-Player-Tracker-PCB) - 
