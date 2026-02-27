@@ -983,7 +983,7 @@
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
 - [toontownlpz/PorTTRguese](https://github.com/toontownlpz/PorTTRguese) - A content pack for Toontown Rewritten, restoring many of the texture changes featured in Toontown Brazil. For the Portuguese fans.
-- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [satire7/Toontown-Online-September-2007-US-](https://github.com/satire7/Toontown-Online-September-2007-US-) - 2007 Toontown Online Client
 - [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
 - [thomst08/requestrr](https://github.com/thomst08/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
@@ -1506,7 +1506,7 @@
 
 ## video 
 
-- [azot-labs/azot](https://github.com/azot-labs/azot) - A powerful, extensible app for downloading videos
+- [azot-labs/azot](https://github.com/azot-labs/azot) - Your shortcut to video downloads
 - [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
