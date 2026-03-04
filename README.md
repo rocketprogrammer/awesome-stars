@@ -38,7 +38,6 @@
 - [QML](#qml)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -641,10 +640,6 @@
 - [jwasham/docker-nuke](https://github.com/jwasham/docker-nuke) - Removes all docker containers, images, and volumes.
 - [Toontown-Texture-Restoration/Toontown-Texture-Restoration](https://github.com/Toontown-Texture-Restoration/Toontown-Texture-Restoration) - 
 
-## Svelte 
-
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
-
 ## Swift 
 
 - [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
@@ -659,6 +654,7 @@
 
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [CarlosDanielDev/saopaulo-night](https://github.com/CarlosDanielDev/saopaulo-night) - The theme captures that muted cyberpunk São Paulo aesthetic perfectly - pale neon signs through smog, concrete and asphalt tones, metro blue lights, and that dystopian Akira vibe!
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
