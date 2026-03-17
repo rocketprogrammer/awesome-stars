@@ -1186,7 +1186,6 @@
 - [hax0kartik/wumiibo](https://github.com/hax0kartik/wumiibo) - Amiibo Emulation for 3ds
 - [rocketprogrammer/disney-miles](https://github.com/rocketprogrammer/disney-miles) - Disney's original Miles audio library.
 - [ashah360/GrubNinja](https://github.com/ashah360/GrubNinja) - Wizard101 Grub Guardian automation client
-- [alperensert/capmonster_python](https://github.com/alperensert/capmonster_python) - Capmonster.cloud library for Python3
 - [xgladius/wiz-packet-map](https://github.com/xgladius/wiz-packet-map) - Wizard101 tool that dynamically dumps packet data and decrypts packets to and from the server that use aes-gcm encryption
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
 - [OpenFusionProject/OpenFusionClient](https://github.com/OpenFusionProject/OpenFusionClient) - Electron app to easily connect to FusionFall servers
@@ -1307,6 +1306,7 @@
 - [lovvskillz/python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) - execute discord webhooks
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [pmp-p/pydk](https://github.com/pmp-p/pydk) - An universal Python/pip+Panda3d build framework for Pythons Everywhere ( and Everyone )
+- [alperensert/capmonster_python](https://github.com/alperensert/capmonster_python) - Capmonster.cloud library for Python3
 
 ## python3 
 
