@@ -128,6 +128,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -944,6 +945,7 @@
 
 ## others 
 
+- [darktohka/clean-flash-browser-extension](https://github.com/darktohka/clean-flash-browser-extension) - Clean Flash Player browser extension, bringing the Flash Player back to modern Google Chrome and Firefox.
 - [HumanSignal/label-studio-sdk](https://github.com/HumanSignal/label-studio-sdk) - Label Studio SDK
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
@@ -1038,7 +1040,6 @@
 - [FanaticalWarlock/RealmIsFree](https://github.com/FanaticalWarlock/RealmIsFree) - 
 - [pglang00/outlook-generator](https://github.com/pglang00/outlook-generator) - Outlook account generator
 - [loonaticx/ToontownSWFAssets](https://github.com/loonaticx/ToontownSWFAssets) - An archive of all publicly accessible Toontown SWF files, including all of their asset files!
-- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [proxidize/4g-proxy](https://github.com/proxidize/4g-proxy) - How to create a 4G proxy from a USB modem/dongle using Proxidize free version.
 - [proxidize/proxidize-android](https://github.com/proxidize/proxidize-android) - Proxidize Android is an Android application that allows anyone to create a 5G or 4G mobile proxy using their phone. Learn more about Proxidize on https://proxidize.com/
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
@@ -1329,6 +1330,10 @@
 
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
+
+## raspberry-pi 
+
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 
 ## react 
 
