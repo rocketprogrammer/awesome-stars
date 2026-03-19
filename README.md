@@ -518,7 +518,7 @@
 - [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord!
 - [klabacher/Tusk](https://github.com/klabacher/Tusk) - Cardjitsu Snow Server Emulator
 - [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
-- [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
+- [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [aronamao/Discord-Rich-Presence-For-Maya](https://github.com/aronamao/Discord-Rich-Presence-For-Maya) - Simple Plugin for Autodesk Maya to display current status in Discord
 - [BartGunshot/blender-egg-importer](https://github.com/BartGunshot/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
 - [BartGunshot/potco-blender-tools](https://github.com/BartGunshot/potco-blender-tools) - Blender addon adding various tools for working with POTCO models
