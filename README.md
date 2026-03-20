@@ -378,7 +378,6 @@
 
 ## Lua 
 
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 - [misterupkeep/soe-dissector](https://github.com/misterupkeep/soe-dissector) - Wireshark dissector(s) for Sony Online Entertainment's Reliable UDP protocol (version string `CGAPI_527`).
 - [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) - Service eggs for the pterodactyl panel
 - [xuwaters/wireshark-smartfoxserver](https://github.com/xuwaters/wireshark-smartfoxserver) - This wireshark plugin is used for dissecting SmartFoxServer protocol.
@@ -492,6 +491,7 @@
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [WorldOfCarsRE/game-server](https://github.com/WorldOfCarsRE/game-server) - Powered by OtpGo
 - [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [hood-network/patchcord](https://github.com/hood-network/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
