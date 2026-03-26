@@ -128,7 +128,6 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
-- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -504,6 +503,7 @@
 
 ## emulator 
 
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 - [weihuoya/citra](https://github.com/weihuoya/citra) - A Nintendo 3DS Emulator
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -1330,10 +1330,6 @@
 
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [QuasarApp/CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - This project is used to deploy applications written using QML, qt or other С / С++ frameworks.
-
-## raspberry-pi 
-
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 
 ## react 
 
