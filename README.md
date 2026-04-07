@@ -211,7 +211,7 @@
 
 ## Dart 
 
-- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
+- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
 
 ## Dockerfile 
 
