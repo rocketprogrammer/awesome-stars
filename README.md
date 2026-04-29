@@ -92,6 +92,7 @@
 
 ## C# # 
 
+- [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
@@ -312,7 +313,6 @@
 
 - [miguelsolorio/vscode-symbols](https://github.com/miguelsolorio/vscode-symbols) - A file icon theme for VS Code
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
-- [Loukious/stremio-shell-ng](https://github.com/Loukious/stremio-shell-ng) - Stremio shell using WebView2/mpv, written in Rust with Discord Rich Presence and media keys support
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
 - [bablosoft/puppeteer-with-fingerprints](https://github.com/bablosoft/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
@@ -462,7 +462,7 @@
 - [HumanSignal/label-studio-sdk](https://github.com/HumanSignal/label-studio-sdk) - Label Studio SDK
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [wizspoil/wiztype](https://github.com/wizspoil/wiztype) - A type dumper for wizard101
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
@@ -602,6 +602,7 @@
 
 - [darktohka/clean-flash-browser-extension](https://github.com/darktohka/clean-flash-browser-extension) - Clean Flash Player browser extension, bringing the Flash Player back to modern Google Chrome and Firefox.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [Loukious/stremio-shell-ng](https://github.com/Loukious/stremio-shell-ng) - Stremio shell using WebView2/mpv, written in Rust with Discord Rich Presence and media keys support
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [JustRadical/jellyfin-rpc](https://github.com/JustRadical/jellyfin-rpc) - Displays the content you're currently watching on Discord!
 - [ali-raheem/esrtool](https://github.com/ali-raheem/esrtool) - Port of the PS2 Homebrew ESRtool to Rust and modern platforms.
