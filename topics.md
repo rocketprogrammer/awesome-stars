@@ -24,6 +24,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -286,6 +287,10 @@
 
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+
+## c-sharp 
+
+- [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
 
 ## chatbot 
 
@@ -800,7 +805,7 @@
 
 ## llm 
 
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
@@ -817,7 +822,7 @@
 
 ## machine-learning 
 
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -947,6 +952,7 @@
 
 ## others 
 
+- [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
 - [darktohka/clean-flash-browser-extension](https://github.com/darktohka/clean-flash-browser-extension) - Clean Flash Player browser extension, bringing the Flash Player back to modern Google Chrome and Firefox.
 - [HumanSignal/label-studio-sdk](https://github.com/HumanSignal/label-studio-sdk) - Label Studio SDK
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
@@ -1271,7 +1277,7 @@
 
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
@@ -1463,7 +1469,7 @@
 
 ## terminal 
 
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 
