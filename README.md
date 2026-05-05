@@ -20,7 +20,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -28,6 +27,7 @@
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -280,10 +280,6 @@
 - [Jeeperpretzel900/Toontown-Library](https://github.com/Jeeperpretzel900/Toontown-Library) - An archive for anything Toontown related
 - [loonaticx/play.test.toontown.com](https://github.com/loonaticx/play.test.toontown.com) - The ORIGINAL Toontown Test website with self-hosting support!
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -386,6 +382,10 @@
 
 - [amazon-oss/android_device_amazon_checkers](https://github.com/amazon-oss/android_device_amazon_checkers) - 
 - [SunResearchInstitute/SwitchPresence-Rewritten](https://github.com/SunResearchInstitute/SwitchPresence-Rewritten) - Nintendo Switch sysmodule server for PresenceClient!
+
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mathematica 
 
