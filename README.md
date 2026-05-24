@@ -127,7 +127,7 @@
 - [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [DarkflameUniverse/DarkflameRPC](https://github.com/DarkflameUniverse/DarkflameRPC) - Darkflame Universe Discord RPC
-- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
+- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI application to analyze game files
 - [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
 - [TheNexusAvenger/Nexus-Relay](https://github.com/TheNexusAvenger/Nexus-Relay) - Relays TCP and UDP traffic to another host.
 - [SunResearchInstitute/PresenceClient](https://github.com/SunResearchInstitute/PresenceClient) - A client for all your special rich presence needs.
