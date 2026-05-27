@@ -463,6 +463,7 @@
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [wizspoil/wiztype](https://github.com/wizspoil/wiztype) - A type dumper for wizard101
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
@@ -617,7 +618,6 @@
 
 ## Shell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
