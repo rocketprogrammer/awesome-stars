@@ -59,6 +59,7 @@
 
 ## C 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [PSP-Archive/ARK-4](https://github.com/PSP-Archive/ARK-4) - Next Generation Custom Firmware for the PSP and Vita's ePSP.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -92,7 +93,6 @@
 
 ## C# # 
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
