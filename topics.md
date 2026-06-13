@@ -1008,6 +1008,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [mghost99/Toontown-Launcher-PySide2](https://github.com/mghost99/Toontown-Launcher-PySide2) - A recreation of the original Toontown launcher that utilizes the startshow and ver files of the original. Primarily made for "Final Toontown 2013" but can be adapted for others too. Went from PyQt5, t
 - [gabe565/linuxserver-mod-vuetorrent](https://github.com/gabe565/linuxserver-mod-vuetorrent) - Docker mod that installs VueTorrent to the LinuxServer.io qBittorrent images
+- [Revive101/Imlight](https://github.com/Revive101/Imlight) - An independent private server project aimed to reimagine a wizard adventure.
 - [ChonDoit/treble_cherishos_patches](https://github.com/ChonDoit/treble_cherishos_patches) - Patches for build CherishOS as PHH-Treble GSI
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
