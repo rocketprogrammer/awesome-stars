@@ -269,6 +269,7 @@
 
 ## HTML 
 
+- [rsubr/postgresql-portable](https://github.com/rsubr/postgresql-portable) - Portable version of the PostgreSQL Database Server, for Windows
 - [avadhesh18/rdx](https://github.com/avadhesh18/rdx) - RDX for Reddit - web viewer for Reddit, Anonymously browse Reddit
 - [AzureFlow/arkose-fp-docs](https://github.com/AzureFlow/arkose-fp-docs) - ArkoseLabs FunCaptcha fingerprint documentation.
 - [WorldOfCarsRE/site](https://github.com/WorldOfCarsRE/site) - Website data for The World of Cars Online
