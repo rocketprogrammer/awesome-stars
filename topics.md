@@ -121,6 +121,7 @@
 - [package-manager](#package-manager)
 - [pentesting](#pentesting)
 - [php](#php)
+- [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -1256,6 +1257,10 @@
 - [NicheOffice/php-web-proxy](https://github.com/NicheOffice/php-web-proxy) - Online Web Proxy Website Script Written in PHP
 - [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
+
+## postgresql 
+
+- [rsubr/postgresql-portable](https://github.com/rsubr/postgresql-portable) - Portable version of the PostgreSQL Database Server, for Windows
 
 ## powershell 
 
