@@ -478,7 +478,7 @@
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [kekeds/funcaptcha-solver](https://github.com/kekeds/funcaptcha-solver) - 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [toontown-archipelago/toontown-archipelago](https://github.com/toontown-archipelago/toontown-archipelago) - 
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
