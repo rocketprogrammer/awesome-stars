@@ -93,6 +93,7 @@
 
 ## C# # 
 
+- [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
