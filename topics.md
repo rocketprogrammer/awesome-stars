@@ -952,6 +952,7 @@
 
 ## others 
 
+- [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [amnweb/thide](https://github.com/amnweb/thide) - A lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control
