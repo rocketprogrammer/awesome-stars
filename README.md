@@ -145,7 +145,6 @@
 
 ## C++ 
 
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [KDE/filelight](https://github.com/KDE/filelight) - Quickly visualize your disk space usage
@@ -610,6 +609,7 @@
 
 ## Rust 
 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [amnweb/thide](https://github.com/amnweb/thide) - A lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control
 - [darktohka/clean-flash-browser-extension](https://github.com/darktohka/clean-flash-browser-extension) - Clean Flash Player browser extension, bringing the Flash Player back to modern Google Chrome and Firefox.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
