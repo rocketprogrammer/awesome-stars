@@ -1072,7 +1072,7 @@
 - [snappycreeper/OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [saucesteals/mimic](https://github.com/saucesteals/mimic) - Mimic chromium's HTTP/HTTP2 and TLS implementations.
-- [miromiro11/chromeRequests](https://github.com/miromiro11/chromeRequests) - A python wrapper for golang that lets you mimic chrome requests and evade tls fingerprinting
+- [woke/chromeRequests](https://github.com/woke/chromeRequests) - A python wrapper for golang that lets you mimic chrome requests and evade tls fingerprinting
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [visibou/lunarinjector](https://github.com/visibou/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
