@@ -326,7 +326,6 @@
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [WorldOfCarsRE/old-media](https://github.com/WorldOfCarsRE/old-media) - Media files of Disney-Pixar's World of Cars Online
 - [WorldOfCarsRE/api-server](https://github.com/WorldOfCarsRE/api-server) - Web API for The World of Cars Online
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [An00nymushun/DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - 
 - [pglang00/outlook-generator](https://github.com/pglang00/outlook-generator) - Outlook account generator
 - [SandwichFox/MBCord](https://github.com/SandwichFox/MBCord) - An Emby/Jellyfin rich presence client for Discord ✨
@@ -687,6 +686,7 @@
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [shahzain345/puppeteer-hcaptcha-solver](https://github.com/shahzain345/puppeteer-hcaptcha-solver) - Solve hcaptcha with puppeteer.
