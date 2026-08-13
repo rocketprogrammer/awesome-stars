@@ -275,6 +275,7 @@
 - [AzureFlow/arkose-fp-docs](https://github.com/AzureFlow/arkose-fp-docs) - ArkoseLabs FunCaptcha fingerprint documentation.
 - [WorldOfCarsRE/site](https://github.com/WorldOfCarsRE/site) - Website data for The World of Cars Online
 - [WorldOfCarsRE/media](https://github.com/WorldOfCarsRE/media) - Full media dump
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -499,7 +500,6 @@
 - [rocketprogrammer/TTOManager](https://github.com/rocketprogrammer/TTOManager) - A standalone tool dedicated to fixing issues with the stock Disney's Toontown Online client
 - [WorldOfCarsRE/game-server](https://github.com/WorldOfCarsRE/game-server) - Powered by OtpGo
 - [wizwalker/wizwalker](https://github.com/wizwalker/wizwalker) - Wizard101 scripting api
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [loonaticx/toon_snapshot](https://github.com/loonaticx/toon_snapshot) - 
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [hood-network/patchcord](https://github.com/hood-network/patchcord) - Implementation of Discord's backend. Improvement on https://gitlab.com/litecord/litecord.
