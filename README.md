@@ -156,7 +156,6 @@
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [TheLegendofPiratesOnline/libpirates-src](https://github.com/TheLegendofPiratesOnline/libpirates-src) - Reverse Engineered Source Code for libpirates.dll
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [LittleToonCat/OtpGo](https://github.com/LittleToonCat/OtpGo) - Disney's OTP (Online Theme Park) server written in Go.
 - [LittleToonCat/dcparser-go](https://github.com/LittleToonCat/dcparser-go) - Panda3D's DC file reader and packer bindings for Go.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [LittleToonCat/dcparser-wasm](https://github.com/LittleToonCat/dcparser-wasm) - Emscripten bindings for Panda3D's DC file reader and packer.
@@ -248,6 +247,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [vadv/gopher-lua-libs](https://github.com/vadv/gopher-lua-libs) - Libs for gopher lua
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
+- [LittleToonCat/OtpGo](https://github.com/LittleToonCat/OtpGo) - Disney's OTP (Online Theme Park) server written in Go.
 - [cedws/ki-keyring](https://github.com/cedws/ki-keyring) - Utility for ejecting/injecting sets of obfuscated public keys from/into WizardGraphicalClient binaries
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [JustTalDevelops/go-hcaptcha](https://github.com/JustTalDevelops/go-hcaptcha) - A Go library for solving hCaptchas with any image recognition API.
