@@ -343,7 +343,7 @@
 ## command-line 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 
 ## computer-vision 
 
@@ -887,7 +887,7 @@
 
 ## monitoring 
 
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## music 
@@ -910,7 +910,7 @@
 
 ## node 
 
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 
 ## nodejs 
 
@@ -922,7 +922,7 @@
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV Media Server
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [performave/pane](https://github.com/performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 
 ## npm 
@@ -1197,7 +1197,7 @@
 - [atauenis/webone](https://github.com/atauenis/webone) - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.
 - [xuwaters/wireshark-smartfoxserver](https://github.com/xuwaters/wireshark-smartfoxserver) - This wireshark plugin is used for dissecting SmartFoxServer protocol.
 - [NathaanTFM/ttotp](https://github.com/NathaanTFM/ttotp) - Python OTP for Toontown Anesidora
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 10th gen or AMD Ryzen
 - [rocketprogrammer/DPackUtils](https://github.com/rocketprogrammer/DPackUtils) - Quickly written packer/unpacker for DPack found in the Disney website assets.
 - [open-toontown/open-toontown](https://github.com/open-toontown/open-toontown) - Open source Toontown Online, based on the latest version of Disney's Toontown Online (sv1.0.47.38).
 - [darktohka/p3dephaser](https://github.com/darktohka/p3dephaser) - Dephaser: decrypt Panda3D multifiles on the fly.
