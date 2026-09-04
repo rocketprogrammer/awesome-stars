@@ -345,7 +345,7 @@
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [Pyrodash/libamf](https://github.com/Pyrodash/libamf) - Action Message Format library for node.js.
@@ -428,7 +428,7 @@
 - [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) - System patches to stream most switch games with sysdvr
 - [86Box/roms](https://github.com/86Box/roms) - ROMs for the 86Box emulator. For development versions of 86Box, the recommended way to use this repository is to clone it instead of downloading the tagged releases.
 - [toonjoey/toontown-project-bikehorn](https://github.com/toonjoey/toontown-project-bikehorn) - A full remaster of Toontown using the original source textures.
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 10th gen or AMD Ryzen
 - [PretendoNetwork/.github](https://github.com/PretendoNetwork/.github) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [OpenFusionProject/tabledata](https://github.com/OpenFusionProject/tabledata) - Dumped tabledata from the OG FusionFall clients
 - [CloudCityDev/Toontown-macOS-sv1.0.47.31](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.47.31) - 
