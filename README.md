@@ -340,6 +340,7 @@
 - [vouiren/repo.me](https://github.com/vouiren/repo.me) - a modern apt repository template built by the community
 - [aydonlol/capmonster-api-wrapper](https://github.com/aydonlol/capmonster-api-wrapper) - Provides a special way to use capmonster easily, developed by neumatic. Simply thought id share this with github due to the low amount of people who use gitlab. I take no credit for the creation of th
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
@@ -529,7 +530,6 @@
 - [BartGunshot/blender-egg-importer](https://github.com/BartGunshot/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
 - [BartGunshot/potco-blender-tools](https://github.com/BartGunshot/potco-blender-tools) - Blender addon adding various tools for working with POTCO models
 - [rdb/blender-egg-importer](https://github.com/rdb/blender-egg-importer) - Add-on for Blender to import Panda3D .egg models.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [exploit3dguy/ipwndfu](https://github.com/exploit3dguy/ipwndfu) - My fork of ipwndfu
 - [jellyfin/jellyfin-kodi](https://github.com/jellyfin/jellyfin-kodi) - Jellyfin Plugin for Kodi
