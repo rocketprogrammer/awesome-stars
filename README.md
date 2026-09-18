@@ -464,6 +464,7 @@
 
 ## Python 
 
+- [ARahim3/kaggle-tpu-lab](https://github.com/ARahim3/kaggle-tpu-lab) - Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~64 tok/s, our own JAX engine) and Qwen3.8-27B bf16 (~130 tok/s), 262k context, prefix caching. Works with Claude Code, C
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [HumanSignal/label-studio-sdk](https://github.com/HumanSignal/label-studio-sdk) - Label Studio SDK
