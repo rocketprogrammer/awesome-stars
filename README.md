@@ -420,7 +420,6 @@
 - [jingye-xu/jy-personal-notes](https://github.com/jingye-xu/jy-personal-notes) - This is my personal notes.
 - [noCaptchaAi/NoCaptcha-Ai-Browser-Extension](https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension) - qCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension
 - [toontownlpz/Consistooncy](https://github.com/toontownlpz/Consistooncy) - A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
-- [RealmerFree/Free-Realms-PS3](https://github.com/RealmerFree/Free-Realms-PS3) - Contains an old Free Realms client built for the PS3, for use with RPCS3 emulator, (no server has been built.)
 - [KaeruTeam/nds-constraint](https://github.com/KaeruTeam/nds-constraint) - Because Nintendo can't do SSL properly
 - [chros73/rtorrent-wiki](https://github.com/chros73/rtorrent-wiki) - Oficcial rTorrent WIKI repository
 - [CloudCityDev/Toontown-macOS-sv1.0.47.35](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.47.35) - 
