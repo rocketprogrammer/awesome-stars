@@ -327,7 +327,7 @@
 
 ## claude-code 
 
-- [ARahim3/kaggle-tpu-lab](https://github.com/ARahim3/kaggle-tpu-lab) - Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~64 tok/s, our own JAX engine) and Qwen3.8-27B bf16 (~130 tok/s), 262k context, prefix caching. Works with Claude Code, C
+- [ARahim3/kaggle-tpu-lab](https://github.com/ARahim3/kaggle-tpu-lab) - Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine) and Qwen3.8-27B bf16 (~130 tok/s), 262k context, prefix caching. Works with Claude Code, 
 
 ## cli 
 
