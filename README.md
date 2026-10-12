@@ -318,7 +318,7 @@
 - [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
 - [miguelsolorio/vscode-symbols](https://github.com/miguelsolorio/vscode-symbols) - A file icon theme for VS Code
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
-- [azot-labs/azot](https://github.com/azot-labs/azot) - Your shortcut to video downloads
+- [azot-labs/azot](https://github.com/azot-labs/azot) - Community extensions list and releases of Azot
 - [Qwokka/Cetus](https://github.com/Qwokka/Cetus) - Browser extension for hacking WebAssembly games a la Cheat Engine
 - [bablosoft/puppeteer-with-fingerprints](https://github.com/bablosoft/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
