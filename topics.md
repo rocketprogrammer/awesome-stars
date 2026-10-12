@@ -1542,7 +1542,7 @@
 
 ## video 
 
-- [azot-labs/azot](https://github.com/azot-labs/azot) - Your shortcut to video downloads
+- [azot-labs/azot](https://github.com/azot-labs/azot) - Community extensions list and releases of Azot
 - [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
