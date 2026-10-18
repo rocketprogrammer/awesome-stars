@@ -323,7 +323,7 @@
 - [bablosoft/puppeteer-with-fingerprints](https://github.com/bablosoft/puppeteer-with-fingerprints) - Anonymous automation via puppeteer with fingerprint replacement technology.
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [WorldOfCarsRE/old-media](https://github.com/WorldOfCarsRE/old-media) - Media files of Disney-Pixar's World of Cars Online
 - [WorldOfCarsRE/api-server](https://github.com/WorldOfCarsRE/api-server) - Web API for The World of Cars Online
@@ -469,7 +469,7 @@
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [wizspoil/wiztype](https://github.com/wizspoil/wiztype) - A type dumper for wizard101
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
