@@ -56,6 +56,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [electron](#electron)
 - [emacs](#emacs)
 - [emulator](#emulator)
@@ -512,6 +513,12 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [UchuServer/Uchu](https://github.com/UchuServer/Uchu) - LEGO Universe server written in C#
+
+## downloader 
+
+- [azot-labs/azot](https://github.com/azot-labs/azot) - Community extensions list and releases of Azot
+- [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## electron 
 
