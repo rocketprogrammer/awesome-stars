@@ -516,7 +516,7 @@
 
 ## downloader 
 
-- [azot-labs/azot](https://github.com/azot-labs/azot) - Community extensions list and releases of Azot
+- [azot-labs/azot-releases](https://github.com/azot-labs/azot-releases) - Community extensions list and releases of Azot
 - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
@@ -1553,7 +1553,7 @@
 
 ## video 
 
-- [azot-labs/azot](https://github.com/azot-labs/azot) - Community extensions list and releases of Azot
+- [azot-labs/azot-releases](https://github.com/azot-labs/azot-releases) - Community extensions list and releases of Azot
 - [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
