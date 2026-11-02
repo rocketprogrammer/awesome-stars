@@ -26,6 +26,7 @@
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -275,7 +276,6 @@
 - [AzureFlow/arkose-fp-docs](https://github.com/AzureFlow/arkose-fp-docs) - ArkoseLabs FunCaptcha fingerprint documentation.
 - [WorldOfCarsRE/site](https://github.com/WorldOfCarsRE/site) - Website data for The World of Cars Online
 - [WorldOfCarsRE/media](https://github.com/WorldOfCarsRE/media) - Full media dump
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [CloudCityDev/Toontown-macOS-sv1.0.48.6](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.48.6) - 
@@ -384,6 +384,10 @@
 - [misterupkeep/soe-dissector](https://github.com/misterupkeep/soe-dissector) - Wireshark dissector(s) for Sony Online Entertainment's Reliable UDP protocol (version string `CGAPI_527`).
 - [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) - Service eggs for the pterodactyl panel
 - [xuwaters/wireshark-smartfoxserver](https://github.com/xuwaters/wireshark-smartfoxserver) - This wireshark plugin is used for dissecting SmartFoxServer protocol.
+
+## MDX 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
