@@ -975,6 +975,7 @@
 
 ## others 
 
+- [CoolZeroNL/Latest-NPAPI-Browsers](https://github.com/CoolZeroNL/Latest-NPAPI-Browsers) - Google Chrome 44.0.2403.157, the final version with NPAPI, for Windows
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
 - [Crown0815/Forgejo-runner-windows-builder](https://github.com/Crown0815/Forgejo-runner-windows-builder) - A for-windows compiled version of the forgejo runner.
 - [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
@@ -1091,7 +1092,6 @@
 - [snappycreeper/OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [saucesteals/mimic](https://github.com/saucesteals/mimic) - Browser impersonation for net/http
-- [woke/chromeRequests](https://github.com/woke/chromeRequests) - A python wrapper for golang that lets you mimic chrome requests and evade tls fingerprinting
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [visibou/lunarinjector](https://github.com/visibou/lunarinjector) - Lunar is a safe and easy to use DLL Injector.
