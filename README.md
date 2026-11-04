@@ -409,6 +409,7 @@
 
 ## Others 
 
+- [CoolZeroNL/Latest-NPAPI-Browsers](https://github.com/CoolZeroNL/Latest-NPAPI-Browsers) - Google Chrome 44.0.2403.157, the final version with NPAPI, for Windows
 - [Crown0815/Forgejo-runner-windows-builder](https://github.com/Crown0815/Forgejo-runner-windows-builder) - A for-windows compiled version of the forgejo runner.
 - [amazon-oss/releases](https://github.com/amazon-oss/releases) - 
 - [Niyko/Hydra-Dark-Theme-for-Adminer](https://github.com/Niyko/Hydra-Dark-Theme-for-Adminer) - Hydra - Material Design Dark Theme for Adminer Database Management tool, Hydra's dark UI improves visibility and works on all major browsers
@@ -512,7 +513,6 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ihaveamac/3dsconv](https://github.com/ihaveamac/3dsconv) - Python script to convert Nintendo 3DS CCI (".cci", ".3ds") files to the CIA format
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
-- [woke/chromeRequests](https://github.com/woke/chromeRequests) - A python wrapper for golang that lets you mimic chrome requests and evade tls fingerprinting
 - [lorien/user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent header
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [AndreiDrang/python3-capsolver](https://github.com/AndreiDrang/python3-capsolver) - Python library for Capsolver
