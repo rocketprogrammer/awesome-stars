@@ -164,6 +164,7 @@
 - [video](#video)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [webapp](#webapp)
@@ -197,7 +198,7 @@
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
-- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
+- [leinelissen/fintunes](https://github.com/leinelissen/fintunes) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
@@ -726,7 +727,7 @@
 - [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS Auth iOS app
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
+- [leinelissen/fintunes](https://github.com/leinelissen/fintunes) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
@@ -997,7 +998,6 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [CarlosDanielDev/saopaulo-night](https://github.com/CarlosDanielDev/saopaulo-night) - The theme captures that muted cyberpunk São Paulo aesthetic perfectly - pale neon signs through smog, concrete and asphalt tones, metro blue lights, and that dystopian Akira vibe!
-- [miguelsolorio/vscode-symbols](https://github.com/miguelsolorio/vscode-symbols) - A file icon theme for VS Code
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
@@ -1006,7 +1006,6 @@
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [avadhesh18/rdx](https://github.com/avadhesh18/rdx) - RDX for Reddit - web viewer for Reddit, Anonymously browse Reddit
 - [ToontownGrindworks/grindworks](https://github.com/ToontownGrindworks/grindworks) - Toontown: The Grindworks
 - [crispyaus/tabby-discord-presence](https://github.com/crispyaus/tabby-discord-presence) - Adds a Rich Presence for Discord to Tabby Terminal
@@ -1180,7 +1179,6 @@
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
 - [CloudCityDev/Toontown-macOS-sv1.0.47.35](https://github.com/CloudCityDev/Toontown-macOS-sv1.0.47.35) - 
-- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) - System patches to stream most switch games with sysdvr
 - [wizguin/yukon-server](https://github.com/wizguin/yukon-server) - A server for https://github.com/wizguin/yukon
 - [wizguin/yukon](https://github.com/wizguin/yukon) - HTML5 virtual world
@@ -1386,7 +1384,7 @@
 ## react-native 
 
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
-- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
+- [leinelissen/fintunes](https://github.com/leinelissen/fintunes) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 
 ## reactjs 
 
@@ -1398,6 +1396,7 @@
 
 ## rest-api 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
 ## reverse-engineering 
@@ -1575,6 +1574,12 @@
 - [Courvix-Network/Courvix-VPN](https://github.com/Courvix-Network/Courvix-VPN) - The official VPN client for the Courvix Network
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+## vscode 
+
+- [miguelsolorio/vscode-symbols](https://github.com/miguelsolorio/vscode-symbols) - A file icon theme for VS Code
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 
 ## vue 
 
