@@ -317,7 +317,7 @@
 
 ## JavaScript 
 
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [miguelsolorio/vscode-symbols](https://github.com/miguelsolorio/vscode-symbols) - A file icon theme for VS Code
 - [radiance-project/ear-web](https://github.com/radiance-project/ear-web) - 
 - [azot-labs/azot-releases](https://github.com/azot-labs/azot-releases) - Community extensions list and releases of Azot
