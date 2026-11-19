@@ -983,6 +983,9 @@
 
 ## others 
 
+- [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
+- [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
+- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [willfaust/Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 - [ttoff/toontown-realms](https://github.com/ttoff/toontown-realms) - 
 - [CoolZeroNL/Latest-NPAPI-Browsers](https://github.com/CoolZeroNL/Latest-NPAPI-Browsers) - Google Chrome 44.0.2403.157, the final version with NPAPI, for Windows
