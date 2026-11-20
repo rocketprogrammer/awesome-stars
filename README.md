@@ -407,6 +407,7 @@
 ## Objective-C 
 
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
+- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel) - An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices
 - [dosdude1/discord-lite](https://github.com/dosdude1/discord-lite) - An ultra-lightweight native Discord client for vintage and modern Mac OS
 
@@ -472,7 +473,6 @@
 
 ## Python 
 
-- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [ttoff/toontown-realms](https://github.com/ttoff/toontown-realms) - 
 - [ARahim3/kaggle-tpu-lab](https://github.com/ARahim3/kaggle-tpu-lab) - Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine) and Qwen3.8-27B bf16 (~130 tok/s), 262k context, prefix caching. Works with Claude Code, 
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
