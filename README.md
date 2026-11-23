@@ -60,6 +60,8 @@
 
 ## C 
 
+- [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) - Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
+- [Leviidev/Henge](https://github.com/Leviidev/Henge) - Emulate macOS on iOS and iPadOS
 - [willfaust/Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [PSP-Archive/ARK-4](https://github.com/PSP-Archive/ARK-4) - Next Generation Custom Firmware for the PSP and Vita's ePSP.
@@ -475,6 +477,7 @@
 
 ## Python 
 
+- [screamingeepy/backend_2](https://github.com/screamingeepy/backend_2) - 
 - [ttoff/toontown-realms](https://github.com/ttoff/toontown-realms) - 
 - [ARahim3/kaggle-tpu-lab](https://github.com/ARahim3/kaggle-tpu-lab) - Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine) and Qwen3.8-27B bf16 (~130 tok/s), 262k context, prefix caching. Works with Claude Code, 
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
