@@ -226,6 +226,7 @@
 
 ## archlinux 
 
+- [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) - Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
 ## artificial-intelligence 
@@ -724,6 +725,7 @@
 
 ## ios 
 
+- [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) - Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
 - [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
@@ -812,6 +814,7 @@
 
 ## linux 
 
+- [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) - Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -960,6 +963,7 @@
 
 ## open-source 
 
+- [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) - Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
@@ -984,6 +988,8 @@
 
 ## others 
 
+- [Leviidev/Henge](https://github.com/Leviidev/Henge) - Emulate macOS on iOS and iPadOS
+- [screamingeepy/backend_2](https://github.com/screamingeepy/backend_2) - 
 - [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
