@@ -725,6 +725,7 @@
 
 ## ios 
 
+- [kuscholar/iDeck](https://github.com/kuscholar/iDeck) - iDeck brings the Steam Big Picture experience to iOS
 - [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) - Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
