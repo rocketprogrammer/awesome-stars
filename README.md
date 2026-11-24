@@ -60,6 +60,7 @@
 
 ## C 
 
+- [kuscholar/iDeck](https://github.com/kuscholar/iDeck) - iDeck brings the Steam Big Picture experience to iOS
 - [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) - Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 - [Leviidev/Henge](https://github.com/Leviidev/Henge) - Emulate macOS on iOS and iPadOS
 - [willfaust/Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
